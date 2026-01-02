@@ -1,0 +1,181 @@
+[
+  {
+    "id": "identificacion_paciente",
+    "name": "Identificación correcta del paciente",
+    "category": "Administrativa",
+    "keywords": [
+      "identificación",
+      "paciente",
+      "brazalete",
+      "datos"
+    ]
+  },
+  {
+    "id": "mantenimiento_equipos",
+    "name": "Mantenimiento preventivo de equipos biomédicos",
+    "category": "Administrativa",
+    "keywords": [
+      "mantenimiento",
+      "equipos biomédicos",
+      "preventivo",
+      "calibración"
+    ]
+  },
+  {
+    "id": "abreviaturas_peligrosas",
+    "name": "Control de abreviaturas peligrosas",
+    "category": "Asistencial",
+    "keywords": [
+      "abreviaturas",
+      "prescripción",
+      "errores"
+    ]
+  },
+  {
+    "id": "medicamentos_alto_riesgo",
+    "name": "Manejo de medicamentos de alto riesgo",
+    "category": "Asistencial",
+    "keywords": [
+      "alto riesgo",
+      "medicamentos",
+      "doble verificación"
+    ]
+  },
+  {
+    "id": "electrolitos_concentrados",
+    "name": "Control de electrolitos concentrados",
+    "category": "Asistencial",
+    "keywords": [
+      "electrolitos concentrados",
+      "cloruro de potasio",
+      "KCl"
+    ]
+  },
+  {
+    "id": "conciliacion_medicamentos",
+    "name": "Conciliación de medicamentos",
+    "category": "Asistencial",
+    "keywords": [
+      "conciliación",
+      "medicamentos",
+      "ingreso",
+      "egreso"
+    ]
+  },
+  {
+    "id": "administracion_medicamentos",
+    "name": "Administración correcta de medicamentos",
+    "category": "Asistencial",
+    "keywords": [
+      "administración",
+      "5 correctos",
+      "medicamentos"
+    ]
+  },
+  {
+    "id": "antibiotico_profilactico",
+    "name": "Antibiótico profiláctico en cirugía",
+    "category": "Asistencial",
+    "keywords": [
+      "profiláctico",
+      "antibiótico",
+      "cirugía",
+      "incisión"
+    ]
+  },
+  {
+    "id": "profilaxis_tev",
+    "name": "Profilaxis de tromboembolismo venoso",
+    "category": "Asistencial",
+    "keywords": [
+      "tromboembolismo",
+      "profilaxis",
+      "TEV"
+    ]
+  },
+  {
+    "id": "prevencion_upp",
+    "name": "Prevención de úlceras por presión",
+    "category": "Asistencial",
+    "keywords": [
+      "úlceras por presión",
+      "cambios de posición",
+      "Braden"
+    ]
+  },
+  {
+    "id": "notificacion_eventos",
+    "name": "Notificación de eventos de seguridad",
+    "category": "Adm/Asist",
+    "keywords": [
+      "notificación",
+      "evento adverso",
+      "cuasi evento",
+      "centinela"
+    ]
+  },
+  {
+    "id": "cirugia_segura",
+    "name": "Prácticas quirúrgicas seguras",
+    "category": "Adm/Asist",
+    "keywords": [
+      "cirugía segura",
+      "lista de verificación",
+      "entrada",
+      "pausa",
+      "salida"
+    ]
+  },
+  {
+    "id": "transicion_informacion",
+    "name": "Transferencia correcta de información en transiciones",
+    "category": "Adm/Asist",
+    "keywords": [
+      "transferencia",
+      "transiciones",
+      "entrega turno",
+      "referencia"
+    ]
+  },
+  {
+    "id": "bombas_infusion",
+    "name": "Manejo de bombas de infusión",
+    "category": "Adm/Asist",
+    "keywords": [
+      "bombas de infusión",
+      "programación",
+      "alarmas"
+    ]
+  },
+  {
+    "id": "higiene_manos",
+    "name": "Higiene de manos",
+    "category": "Adm/Asist",
+    "keywords": [
+      "higiene de manos",
+      "fricción alcohólica",
+      "5 momentos"
+    ]
+  },
+  {
+    "id": "prevencion_caidas",
+    "name": "Prevención de caídas",
+    "category": "Adm/Asist",
+    "keywords": [
+      "caídas",
+      "Morse",
+      "riesgo"
+    ]
+  },
+  {
+    "id": "educacion_paciente",
+    "name": "Educación en seguridad del paciente y su familia",
+    "category": "Adm/Asist",
+    "keywords": [
+      "educación",
+      "paciente",
+      "familia",
+      "seguridad"
+    ]
+  }
+]

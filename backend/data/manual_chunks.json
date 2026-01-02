@@ -1,0 +1,1148 @@
+[
+  {
+    "chunk_id": 1,
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Manual\n           2016\nDiciembre\nSeguridad del\nPaciente - Usuario"
+  },
+  {
+    "chunk_id": 2,
+    "page_start": 2,
+    "page_end": 2,
+    "text": "2\nMinisterio de Salud Pública del Ecuador\nEdificio OBRUM, Calle Italia N31-125 entre Rumania y Vancouver, piso 10.\nQuito - Ecuador\nTeléfono: (593) 2  3814-400\nwww.salud.gob.ec\nSeguridad del Paciente – Manual\nEdición general: Dirección Nacional de Normatización-MSP\nEste  manual de Seguridad del Paciente define las prácticas seguras  a implementarse  en los\nprocesos de atención de salud, por todos  los actores del Sistema Nacional de Salud.\nPublicado en………………\nISBN xxxxxxxxxxxxxxxxxx\nEsta obra está bajo la licencia del Ministerio de Salud Pública del Ecuador y puede reproducirse\nlibremente citando la fuente sin necesi dad de autorización escrita, con fines de enseñanza y\ncapacitación no lucrativas.\nComo citar esta obra:\nMinisterio de Salud Pública. Seguridad del Paciente - Usuario. Manual. Primera edición; 2016.\nDirección Nacional de Normatización, Dirección Nacional de Calidad de los Servicios de Salud –\nMSP. Quito 2016. Disponible en: http://salud.gob.ec\nImpreso por NNNNNNNNNNNNNN\nCorrección de estilo: NNNNNNNNNNNN\nHecho en Ecuador – Printed in Ecuador\nFicha catalográfica\nXXXXXXXXXXX\nMinisterio de Salud Pública del Ecuador.  Seguridad del Paciente\nQuito: Ministerio de Salud Pública, Dirección Nacional de Normatización. Dirección Nacional\nde Calidad de los Servicios de  Salud, MSP; 2016.\n-------XX p:\nISBNXXXXXXXXXXX\n1. Seguridad del Paciente - Usuario\n2. Eventos adversos\n3. Calidad\n4. Notificación de Eventos\n5. Prácticas seguras\n6. Manual"
+  },
+  {
+    "chunk_id": 3,
+    "page_start": 3,
+    "page_end": 3,
+    "text": "3\nTabla de contenido\nI. Presentación .............................................................................................................................. 6\nIII. Antecedentes y justificación ................................................................................................... 7\nIV. Objetivos ................................................................................................................................. 8\nObjetivo General ....................................................................................................................... 8\nObjetivos específicos ................................................................................................................. 8\nV. Alcance ..................................................................................................................................... 8\nVI. Glosario de términos científico-académicos ........................................................................... 9\nVII. Desarrollo ............................................................................................................................. 10\nCapítulo I ..................................................................................................................................... 10\n1. Generalidades ........................................................................................................................ 10\n1.1   Seguridad del paciente - usuario y la calidad de la atención .......................................... 10\n1.2  Principios transversales de la seguridad del paciente - usuario ...................................... 10\n1.3. Bioética y seguridad del paciente - usuario ..................................................................... 11\nCapítulo  II ................................................................................................................................... 12\n2. Prácticas seguras .................................................................................................................... 12\n2.1  Prácticas Seguras Administrativas .................................................................................... 12\n2.2  Prácticas Seguras Asistenciales ........................................................................................ 12\n2.3  Prácticas Seguras Administrativas/Asistenciales.............................................................. 12\nCapítulo III ................................................................................................................................... 13\n3. Prácticas seguras administrativas .......................................................................................... 13\n3.1  Identificación correcta del paciente - usuario. ..................................................................... 13\n3.1.1   Protocolo de identificación .......................................................................................... 14\na. Verificación cruzada .................................................................................................... 14\nb. Verificación del paciente para colocación del brazalete de identificación. ................ 15\nc. Brazalete de identificación .........................................................................................."
+  },
+  {
+    "chunk_id": 4,
+    "page_start": 3,
+    "page_end": 3,
+    "text": "16\n3.1.2   Acciones que involucran al equipo de salud con el  paciente,  la familia y cuidadores 19\n3.1.3  Medidas sugeridas por la Organización Mundial de la Salud ........................................ 19\n3.2   Programa de mantenimiento preventivo de equipos biomédicos ..................................... 20\n3.2.1  Acciones del  establecimiento de salud, profesionales administrativos y equipos de\nsalud ........................................................................................................................................ 20\nCAPÍTULO IV ................................................................................................................................ 21\n4. Prácticas seguras técnicas asistenciales ................................................................................. 21\n4.1  Control de Abreviaturas peligrosas. ..................................................................................... 21\n4.1.1. Acciones que involucran al establecimiento de salud y  profesionales de la salud. ..... 21\n4.2  Manejo adecuado de medicamentos de alto riesgo ............................................................ 21\n4.2.1. Acciones que involucran al establecimiento de salud,  profesionales, trabajadores,\npersonal de salud y administrativo en general. ...................................................................... 22\n4.2.2  Acciones que involucran al equipo de salud con el paciente y familia ......................... 23\n4.3  Control de electrolitos concentrados ................................................................................... 23\n4.3.1 Acciones del establecimiento de salud, que involucran a los profesionales,\ntrabajadores, personal de salud  y administrativo en general ................................................ 24\n4.4  Conciliación de medicamentos. ........................................................................................... 25\n4.4.1. Conciliación de los medicamentos al ingreso  .............................................................."
+  },
+  {
+    "chunk_id": 5,
+    "page_start": 3,
+    "page_end": 3,
+    "text": "25\n4.4.2  Conciliación de los medicamentos al egreso ................................................................ 26"
+  },
+  {
+    "chunk_id": 6,
+    "page_start": 4,
+    "page_end": 4,
+    "text": "4\n4.4.3 Conciliación de los medicamentos en el primer nivel de atención. ............................... 27\n4.4.4  Acciones que involucran al paciente, familia y cuidadores  .......................................... 27\n4.5  Administración correcta de medicamentos ......................................................................... 27\n4.5.1 “Correctos” en la administración  de medicamentos .................................................... 28\n4.5.2  Prácticas seguras en el procedimiento de colocación de  inyecciones ......................... 29\n4.6  Administración de antibióticos profilácticos en procedimientos quirúrgicos ..................... 29\n4.6.1 Acciones del establecimiento y profesionales de la salud en la administración de\nantibióticos profilácticos. ........................................................................................................ 30\n4.7  Profilaxis de tromboembolismo venoso .............................................................................. 30\n4.7.1  Medidas profilácticas .................................................................................................... 30\n4.7.2  Evaluación del riesgo y medidas preventivas  ............................................................... 31\n4.7.3   Acciones del establecimiento y equipo de salud ......................................................... 31\n4.7.4   Acciones del  equipo de salud con el paciente, familia y/o cuidadores ....................... 32\n4.8   Prevención de úlceras por presión. ..................................................................................... 32\n4.8.1    Evaluación del riesgo y  medidas preventivas ............................................................. 33\n4.8.2   Acciones del  establecimiento y equipo de salud ......................................................... 33\n4.8.3     Acciones del  equipo de salud con el paciente, familia y/o cuidadores. .................... 34\nCAPITULO  V ................................................................................................................................ 34\n5. Prácticas seguras administrativas / asistencial. ....................................................................."
+  },
+  {
+    "chunk_id": 7,
+    "page_start": 4,
+    "page_end": 4,
+    "text": "34\n5.1  Notificación de eventos relacionados con la Seguridad del Paciente .................................. 34\n5.1.1  Causalidad y Ocurrencia del Evento Adverso ................................................................ 35\n5.1.2  Características de los sistemas de notificación de eventos adversos ........................... 36\n5.1.2.1 Sistema de Notificación del evento ............................................................................. 37\n5.1.2.2 Sistema de Gestión del evento.................................................................................... 38\n5.1.3  Difusión y aprendizaje del evento ................................................................................. 39\n5.1.4  Acciones de mejora generales para el establecimiento, equipo de salud,  paciente y\nfamilia ante la ocurrencia de un evento adverso. ................................................................... 39\n5.1.5  Comunicación del evento adverso al paciente y su familia .......................................... 40\n5.2  Prácticas quirúrgicas seguras ............................................................................................... 40\n5.2.1  Acciones de los establecimientos y equipos de salud. .................................................. 41\n5.2.2 Momentos de aplicación de la Lista de Verificación de Cirugía Segura. ........................ 41\n5.2.3  Consentimiento Informado ........................................................................................... 42\n5.3  Transferencia correcta de la información de los pacientes en puntos de transición .......... 42\n5.3.1. Acciones que involucran la participación de los  profesionales, trabajadores, personal\nde salud y administrativo en general. ..................................................................................... 43\n5.3.2  Acciones que involucran la participación del paciente y la familia con el equipo de\nsalud. ......................................................................................................................................."
+  },
+  {
+    "chunk_id": 8,
+    "page_start": 4,
+    "page_end": 4,
+    "text": "44\n5.4  Uso de bombas de infusión .................................................................................................. 44\n5.4.1  Acciones que involucran la participación de los  profesionales, trabajadores,  personal\nde salud y administrativo en general. ..................................................................................... 45\n5.5   Higiene de manos ................................................................................................................ 45\n5.5.1  Procedimiento para la higiene de manos ...................................................................... 46\n5.5.2   La higiene de las manos y utilización de  guantes para usos médicos ......................... 47\n5.5.3  Acciones del establecimiento de salud, equipos de salud  y personal administrativo . 47\n5.6  Prevención de caídas ............................................................................................................ 48"
+  },
+  {
+    "chunk_id": 9,
+    "page_start": 5,
+    "page_end": 5,
+    "text": "5\n5.6.1  Evaluación del riesgo en pacientes adultos .................................................................. 48\n5.6.2  Evaluación del riesgo en pacientes pediátricos............................................................. 49\n5.6.3  Medidas de Seguridad para prevenir caídas ................................................................. 50\n5.7  Educación en Seguridad del Paciente. ................................................................................. 51\n5.7.1  Acciones del establecimiento de salud ................................................................... 52\nVIII  Referencias ........................................................................................................................... 55\nIX Anexos ..................................................................................................................................... 61\nAnexo 1.  Registro de pacientes sin brazalete de identificación. ................................................ 61\nAnexo 2. Abreviaturas aceptadas. ............................................................................................... 62\nAnexo 2. Abreviaturas aceptadas. Reverso ................................................................................. 63\nAnexo 3. Notificación de eventos relacionados con la seguridad del paciente .......................... 64\nAnexo 3. Notificación de eventos relacionados con la seguridad del paciente. Reverso ........... 65\nAnexo 4. Lista de verificación de cirugía segura OMS (modificada) ........................................... 66\nAnexo 4. Lista de verificación de cirugía segura OMS (modificada). Reverso ............................ 67\nAnexo 5.  Lista de Medicamentos  LASA ..................................................................................... 68\nAnexo 5.  Lista de Medicamentos  LASA. Reverso ...................................................................... 69\nAnexo 6.  Medicamentos de alto riesgo ...................................................................................... 70\nAnexo 7. Momentos de la higiene de manos .............................................................................. 71\nAnexo. 7 Momentos de la higiene de manos. Reverso ............................................................... 72\nAnexo 8. Fricción de manos con un preparado de base alcohólica ............................................ 73\nAnexo 9. Lavado de manos ......................................................................................................... 74\nAnexo 10.  Pirámide sobre el uso de guantes ............................................................................. 75\nAnexo 11.  Escala de riesgo de caída de Morse .......................................................................... 76\nAnexo 12.  Escala de riesgo de caída de MACDEMS ................................................................... 77"
+  },
+  {
+    "chunk_id": 10,
+    "page_start": 6,
+    "page_end": 6,
+    "text": "6\nI. Presentación\nEl Ministerio de Salud Pública del Ecuador como autoridad sanitaria nacional ha acogido las\nrecomendaciones desarrolladas por varios grupos de interés médico - científicos, acerca de las\nprácticas que deberían desarrollarse para generar una atención segura para el paciente -\nusuario, por lo que ha elaborado el Manual  de “Seguridad del Paciente” con la finalid ad de\ndotar a las instituciones que conforman el Sistema Nacional de Salud de una herramienta que\ncontribuya a minimizar el riesgo del paciente - usuario en el proceso de atención de salud, a\nevitar y  mitigar sus consecuencias. Esta Cartera de Estado re conoce que la seguridad del paciente - usuario y la calidad de la\natención en salud son aspectos fundamentales para el cambio de cultura organizacional. En\neste entorno normativo, se  definen las características y condiciones óptimas de la atención\nque se debe brindar a cada uno de los pacientes que acudan a los establecimientos de salud."
+  },
+  {
+    "chunk_id": 11,
+    "page_start": 6,
+    "page_end": 6,
+    "text": "Prevenir posibles eventos adversos, detectar los riesgos, actuar a tiempo, corregir los errores y\naprender de ellos, es el nuevo desafío de la salud pública ecuatoriana. Conscientes de que el cambio hacia una cultura de calidad y seguridad del paciente se inicia\ncon el talento humano en todo nivel de formación y actuación, el presente Manual está\ndirigido a la implementación de prácticas seguras en los establecimientos de salud e incorporar\nlineamientos, conocimientos, habilidades y destrezas de todos los trabajadores, servidores,\nprofesionales  de la salud y estudiantes de las  Instituciones de Educación Superior  de las\ncarreras en ciencias de la s alud; en este sentido e stas directrices deben ser difundidas y\naplicadas en las diferentes áreas  y servicios para promover una atención de salud segura. Dra. Margarita Beatriz  Guevara Alvarado\nMinistra de Salud Pública"
+  },
+  {
+    "chunk_id": 12,
+    "page_start": 7,
+    "page_end": 7,
+    "text": "7\nII. Introducción\nLas  deficiencias de seguridad en la atención son consideradas actualmente como un problema\nde salud pública mundial, en respuesta, la Organización Mundial de la Salud (O.M.S.) reconoció\nen su Asamblea Mundial número 55, realizada en Ginebra en el año 2002,  la necesidad de\npromover la Seguridad del Paciente, como principio fundamental en todos los sistemas de\nsalud a través de las  acciones para “ Desarrollar normas para la calidad de la atención y la\nSeguridad del Paciente” (1)\nLos lineamientos de seguridad del paciente - usuario en la  atención en salud, son necesarios\npara gestionar un cambio de cultura en términos de calidad y seguridad alineados con\nestándares internacionales, que incorporan, como pieza clave, los conocimientos, habilidades\ny destrezas de los profesionales  de la sal ud, orientados a generar y optimizar sus procesos de\natención."
+  },
+  {
+    "chunk_id": 13,
+    "page_start": 7,
+    "page_end": 7,
+    "text": "El Ministerio de Salud Pública del Ecuador (MSP) como ente rector en salud y de acuerdo al\nEstatuto Orgánico Sustitutivo de Gestión Organizacional por Procesos establece en su Visión\nque“… eje rcerá plenamente la gobernanza del Sistema Nacional de Salud, con un modelo\nreferencial en Latinoamérica que priorice la promoción de la salud y la prevención de\nenfermedades, con altos niveles de atención de calidad, con calidez, garantizando la salud\nintegral de la población y el acceso universal a una red de servicios, con la participación\ncoordinada de organizaciones públicas, privadas y de la comunidad” (2) determina la necesidad\nde trabajar en la Garantía de la Calidad de la Atención de Salud, siendo la Autoridad Sanitaria\nresponsable de la aplicación, control y vigilancia de normativas y lineamientos que incidan\ndirectamente en la disminución de la ocurrencia de eventos adversos y minimicen el daño a los\npacientes, mediante la aplicación de barreras d e seguridad en cada proceso de atención y la\nconsolidación de una cultura de calidad, proactiva y responsable."
+  },
+  {
+    "chunk_id": 14,
+    "page_start": 7,
+    "page_end": 7,
+    "text": "En resumen, prevenir posibles eventos adversos en la atención, actuar a tiempo, corregir los\nerrores y aprender de ellos, es indispensable para  crear un clima de seguridad a través del\nmejoramiento continuo de la calidad de la atención en salud. Todos estos recursos y un\nentorno normativo, definen las características y condiciones óptimas de las prestaciones de\nsalud. III. Antecedentes y justificación\nLa seguridad del paciente, representa un desafío global para los sistemas de salud, por lo que\ndebe abordarse desde diferentes perspectivas que conjugan varios conceptos y tendencias\nactuales de gestión en salud y de calidad de la atención, tanto a nivel mundial como a nivel\nnacional. La preocupación por la seguridad del paciente en los servicios sanitarios data desde 1950. Posteriormente, el  Instituto de  Medicina de los Estados Unidos publicó el libro « To err is\nHuman: building a safer healt h system» en 1999, poniendo en relevancia el problema a nivel\nmundial(3)."
+  },
+  {
+    "chunk_id": 15,
+    "page_start": 7,
+    "page_end": 7,
+    "text": "“En octubre de 2004, la Organización Mundial de la Salud  realizó el lanzamiento de la Alianza\nMundial por la Seguridad del Paciente en respues ta a la resolución de la Asamblea Mundial  de\nla Salud de 2002 (Resolución 55/18)  por la que se urge a la OMS y a sus Estados Miembros a\nconceder la mayor atención posible a la Seguridad del Paciente” (1)."
+  },
+  {
+    "chunk_id": 16,
+    "page_start": 8,
+    "page_end": 8,
+    "text": "8\nA la iniciativa de la OMS se sumó en el 2005 la Comisión Europea y  Consejo de Europa. En\nEspaña, el Estudio Nacional sobre los Efectos Adversos ligados a la Hospitalización  (ENEAS) (4)\nevidenció la “incidencia de efectos adversos relacionado s con la asistencia sanitaria en los\nHospitales Españoles en un 9,3%, y la incidencia de efectos adversos relacionados con la\nasistencia hospitalaria en un 8,4%, similares a las encontradas en los estudios realizados en\npaíses americanos y europeos con similar metodología”. “En Latinoamérica, el estudio IBEAS  demostró que 10 de cada 100 pacientes ingresados en un\ndía determinado en los hospitales estudiados habían sufrido daño producido por los cuidados\nsanitarios, riesgo que era  duplicado si considerába mos todo el tiempo en que el paciente\nestuvo hospitalizado. De modo que 20 de cada 100 pacientes ingresados presentaron al menos\nun tipo de evento a lo largo de su estancia en el hospital” (5)."
+  },
+  {
+    "chunk_id": 17,
+    "page_start": 8,
+    "page_end": 8,
+    "text": "En concordancia con este abordaje internacional y en respues ta a este llamado, el Ministerio\nde Salud Pública del Ecuador, ha abordado la problemática desde la perspectiva de la calidad\nde los servicios de salud, para lo cual en el año 2013 lidera el proyecto de Acreditación\nHospitalaria en base al Modelo Canadiens e,  aprendizaje valioso que impulsó la necesidad de\nexpandir la seguridad del paciente como pilar de la gestión en salud y eje transversal de la\nexcelencia en la atención sanitaria, a todos los establecimientos de salud del territorio\necuatoriano. En este  contexto, el presente Manual es un insumo valioso para la implementación,\nseguimiento y evaluación del proceso que asegura la seguridad del paciente en todos los\nestablecimientos de salud del país, mejorando la calidad de la atención y previniendo\ncomplicaciones involuntarias al paciente por un acto de comisión o de omisión, no por la\nenfermedad o el trastorno de fondo del paciente. Fortalecer una cultura proactiva, de\naprendizaje y mejoramiento continuo,  es el reto renovador de esta Cartera de Estado\nIV."
+  },
+  {
+    "chunk_id": 18,
+    "page_start": 8,
+    "page_end": 8,
+    "text": "Objetivos\nObjetivo General\nEstablecer y estandarizar lineamientos, procedimientos y herramientas técnicas,  que permitan\ngarantizar la seguridad del paciente en los procesos de atención en todos los establecimientos\nde salud del Ecuador. Objetivos específicos\n1) Determinar los procesos administrativos y asistenciales institucionales apropiados para\nla gestión de la seguridad del paciente. 2) Promover las competencias del talento humano para la aplicación de procesos\nadministrativos y asistenciales seguros en la atención del paciente. 3) Proveer de metodologías, herramientas e instrumentos técnicos para la\nimplementación del presente manual. V. Alcance\nEl presente manual es de cumplimiento obligatorio en todos los establecimientos del Sistema\nNacional de Salud del Ecuador, de acuerdo a su tipología, nivel de atención, complejidad y\ncartera de servicios."
+  },
+  {
+    "chunk_id": 19,
+    "page_start": 9,
+    "page_end": 9,
+    "text": "9\nVI. Glosario de términos científico-académicos\nAcción de mejora: de acuerdo a la OMS que define a la medida de mejora como la acción\nadoptada o una circunstancia alterada para mejorar o compensar cualquier daño derivado de\nun evento. (6)\nBarrera de seguridad: acción o circunstancia que reduce la probabilidad de presentación del\ncuasi evento o evento adverso. Factores atenuantes o de defensa. (7)\nCuasi evento: error de comisión o por omisión que podría haber causado daño al paciente,\npero que no produjo un daño grave gracias a la casualidad, a la prevención o a la atenuación. (6)\nCultura de seguridad:  producto de los valores, las actitudes, las perc epciones, las\ncompetencias y los patrones de comportamiento individuales y colectivos que determinan el\ncompromiso con la gestión de la salud y la seguridad en la organización y el estilo y la\ncompetencia de dicha gestión. (6)\nComplicación: daño o resultado clínico no esperado no atribuible a la atención en salud  sino a\nla enfermedad o a las condiciones propias del paciente."
+  },
+  {
+    "chunk_id": 20,
+    "page_start": 9,
+    "page_end": 9,
+    "text": "(6)\nDaño: alteración estructural o funcional del organismo y/o cualquier efecto perjudicial\nderivado de ella. (6)\nError: acto de comisión u omisión que causó la lesión involuntaria o contribuyó a causarla. (6)\nError por comisión: error que se produce como consecuencia de una acción. (6)  Es un error por\nacción. Error por omisión : error que se produce como consecuencia de no haber tomado  una\nmedida.(6)\nEvento relacionado con la seguridad del paciente: todo desvío de la atención médica habitual\nque causa una lesión al paciente o entraña riesgo de daño. (6)\nEvento adverso: evento que causa un daño involuntario al paciente por un acto de comisión o\nde omisión, no por la enfermedad o el trastorno de fondo del paciente. (6)\nEvento adverso evitable: lesión o daño no intencional causado por la intervención asistencial\nejecutada con error, no por la patología de base (8). Es un evento adverso prevenible. Evento adverso no evitable: lesión o daño no intencional causado por la intervención\nasistencial ejecutada sin error , no por la patología de base."
+  },
+  {
+    "chunk_id": 21,
+    "page_start": 9,
+    "page_end": 9,
+    "text": "Se presenta a pesar del\ncumplimiento de los estándares del cuidado asistencial (7, 8). Es un evento adverso prevenible. Evento centinela:  todo evento adverso que haya derivado en la muerte del paciente o la\npérdida permanente e importante de una función, de carácter imprevisto y sin relación con la\nevolución natural de la enfermedad o el trastorno subyacente del paciente. (6)\nFactores contributivos: todos estos factores son condiciones que pueden afectar el\ndesempeño de las personas, precipitar errores y afectar los resultados para el paciente ,\npredisponiendo a una acción insegura (falla activa). (9, 10)\nFactores humanos: estudio de las interrelaciones entre los seres humanos, los instrumentos,\nequipos y métodos que utilizan, y los entornos en los que viven y trabajan. (6)\nFallos del sistema: defecto, interrupción o disfunción de los métodos operati vos, los procesos\no la infraestructura de una organización. (6)\nFallas latentes: error que es precipitado por una consecuencia de procesos de gestión y\norganización y representa el máximo peligro para los sistemas complejos."
+  },
+  {
+    "chunk_id": 22,
+    "page_start": 9,
+    "page_end": 9,
+    "text": "Los fallos latentes no\nse pueden prever, pero si se detectan pueden corregirse antes de que contribuyan a causar\npercances. (6)\nFallas activas: conducta que ocurre durante el proceso de atención en salud, usualmente por\nacción u omisión de miembros del equipo. (55) Son acciones inseguras. Resiliencia: proceso dinámico, constructivo, de origen interactivo y sociocultural que conduce\na la optimización de los recursos humanos y permite  sobreponerse a las situaciones adversas . (12)\nReacción adversa : daño imprevisto derivado de un acto justi ficado, realizado durante la\naplicación del procedimiento correcto en el contexto en que se produjo el evento. (6)"
+  },
+  {
+    "chunk_id": 23,
+    "page_start": 10,
+    "page_end": 10,
+    "text": "10\nVII. Desarrollo\nCapítulo I\n1. Generalidades\n1.1   Seguridad del paciente - usuario y la calidad de la atención\nLa calidad y seguridad en  la atención de los pacientes constituyen una obligación técnica y\nética de quienes prestan el servicio, a través de la transparencia de los procesos y resultados\nde las acciones que desarrollan los mencionados sistemas de salud. Siendo l a calidad de la\natención el grado en el que los servicios de salud prestados a personas y poblaciones,\naumentan la probabilidad de que se produzcan los efectos buscados en la salud y éstos son\ncoherentes con los conocimientos profesionales del momento. (6)\nLa seguridad es una dimensión de la calidad en atención en salud, de hecho,  no se podría\nhablar de calidad de la atención sin un enfoque centrado en la seguridad del usuario o\npaciente, para fines de este manual, el paciente es quien tiene una patología  que recibe\natención sanitaria (6), y el usu ario es la persona sin una patología aparente, que hace uso del\nservicio."
+  },
+  {
+    "chunk_id": 24,
+    "page_start": 10,
+    "page_end": 10,
+    "text": "En este sentido, la calidad de la atención, entendida como el conjunto de atributos\nque deben tener los procesos administrativos y asistenciales  diseñad os para responder de la\nmejor manera a las necesidades y condiciones de los pacientes, se convierte en un factor\nindispensable que debe gestionarse permanentemente en cualquier sistema de salud (1). Alrededor del mundo, los sistemas de salud están reconoc iendo la necesidad de mejorar la\ncalidad de la atención, para ello, están adoptando guías de práctica clínica basadas en la mejor\nevidencia científica, para salvaguardar la seguridad del paciente (1)\nLa atención de salud cada vez es más compleja, los proc esos asistenciales de salud suponen\nuna combinación de actuaciones, tecnologías e interacciones de un gran número de\nprofesionales. Esto se asocia a un riesgo creciente de eventos adversos. La seguridad de la atención en salud es un proceso permanente que se centra en (60):\n Conocimiento de los riesgos de eventos adversos.  Eliminación de los riesgos innecesarios."
+  },
+  {
+    "chunk_id": 25,
+    "page_start": 10,
+    "page_end": 10,
+    "text": " Prevención y corrección de aquellos riesgos que son evitables a través de intervenciones\nbasadas, en evidencia científica, con demostrada efectividad. El daño asociado a la atención en salud destaca que los eventos adversos son frecuentes y que\nalgunos de ellos pueden ser graves, causando invalidez e incluso la muerte. Existen aspectos\nque se deben normar para recibir una atención de salud más seg ura, bajo principios\ntransversales que orienten las acciones. 1.2  Principios transversales de la seguridad del paciente - usuario\nBrindar una atención segura supera el establecer políticas o normativas. Se requiere el\ncompromiso y cooperación de los dif erentes actores para sensibilizar, promover, concertar y\ncoordinar acciones que alcancen realmente resultados efectivos. (7)\nEn este contexto, es relevante definir los principios transversales que orienten todas las\nacciones que permitan la implementación de esta normativa en el territorio ecuatoriano, estos\nprincipios se resumen en:"
+  },
+  {
+    "chunk_id": 26,
+    "page_start": 11,
+    "page_end": 11,
+    "text": "11\n Atención centrada en la persona , es una dimensión de la calidad esencial que se\ninterrelaciona con la seguridad del paciente en sentido que el sistema de salud debe\nasegurar un trato digno, con calidez  y respeto,  personalizado, colaborativo y activado,\ncon el propósito de obtener los mejores resultados para el paciente (7).  Alianza con el paciente y su familia, la atención es colaborativa en el cual los pacientes\ny su familia trabajan en forma conjunta con el profesional de salud en el cuidado de su\nsalud. Incentivarlo para preguntar acerca de su enfermedad, de su auto cuidado y de\nlos riesgos. Fomentar una comunicación efectiva y empoderamiento de los pacientes y\nsus famil ias en tres aspectos principales: capacidad para entender las instrucciones,\ndecisiones compartidas con los profesionales de la sal ud y responsabilidad\ncompartida(7)."
+  },
+  {
+    "chunk_id": 27,
+    "page_start": 11,
+    "page_end": 11,
+    "text": " Alianza con el profesional y personal de la salud,  la seguridad del paciente, no\nfomenta la impunidad cuando la acción insegura se deba a  inobservancia, impericia,\nimprudencia, negligencia o exista  intención de hacer daño y respeta por lo tanto el\nmarco legal ecuatoriano. Pero de igual manera procura proteger al profesional que de\nmanera ética y responsable analiza las fallas de la atención y los eventos adversos para\ndesarrollar barreras de seguridad que protejan al paciente. En el marco de la\ncomplejidad de los procesos de atención de salud, se deberá reconocer el carácter\nético de la at ención brindada por el profesional y personal de la salud,  para lo cual el\nsistema contará con la activa participación de ellos y procurará defenderlo de\nseñalamientos injustificados (7).  Cultura de Seguridad,  que promueva un ambiente en el que se de sarrollen las\nactividades de seguridad, basado en la confidencialidad y la confianza entre pacientes,\nprofesionales y personal de salud, aseguradores y la comunidad."
+  },
+  {
+    "chunk_id": 28,
+    "page_start": 11,
+    "page_end": 11,
+    "text": "Es deber de los\ndiferentes actores del sistema facilitar las condiciones que permitan dich o ambiente\npara que se pueda implementar cualquier tipo de acción de mejora (7).  Impacto, considera la manera en la que se logran alcanzar o superar los objetivos a\ncabalidad mediante la implementación de metodologías y herramientas prácticas,\nsoportadas en la mejor evidencia científica disponible (7).  Liderazgo y trabajo en equipo, que establece una modalidad de identificación de fallas\nlatentes y potenciales riesgos para el paciente durante la atención, así como la\ndefinición de posibles soluciones, ac ciones que deben ser realizadas con liderazgo por\ntodos aquellos que son parte del proceso de atención involucrado.  Visión sistémica y multicausal, el enfoque en seguridad del paciente es sistémico y\nmulticausal, en el cual deben involucrarse las diferen tes áreas  organizacionales y los\ndiferentes actores. El evento adverso, como tal,  es resultado del sistema. (7)\n1.3."
+  },
+  {
+    "chunk_id": 29,
+    "page_start": 11,
+    "page_end": 11,
+    "text": "Bioética y seguridad del paciente - usuario\nTodo acto relacionado con la atención de la salud tiene una base de reflexión ética, por lo\ntanto, hablar de seguridad para el paciente comprende un deber moral de todos los actores\nrelacionados con el cuidado de la salud, sustentado en el ejercicio de cuatro principios\nbioéticos:\n1. Beneficencia\n2. No Maleficencia “primun non nocere”\n3. Autonomía\n4. Justicia"
+  },
+  {
+    "chunk_id": 30,
+    "page_start": 12,
+    "page_end": 12,
+    "text": "12\nLa ausencia de una adecuada valoración y manejo en la salud d el paciente, vulnera estos\nprincipios básicos. El lema de la Alianza Mundial, “ante todo, no hacer daño” derivado del\nprincipio hipocrático primum non nocere , articula la bioética a la seguridad del paciente. El\nprincipio de no maleficencia nos conmina a e vitar cualquier daño al paciente, pero también a\nponer todos los medios necesarios para evitar que ocurran eventos adversos, o lo que es lo\nmismo, disminuir el riesgo en la asistencia sanitaria. (39)\nEn respuesta a esta base ética y a los principios trans versales en seguridad del paciente, el\npresente Manual define 17 prácticas seguras a aplicarse en todos los procesos de atención de\nsalud. Capítulo  II\n2."
+  },
+  {
+    "chunk_id": 31,
+    "page_start": 12,
+    "page_end": 12,
+    "text": "Prácticas seguras\nSon los tipos de procesos o estructura cuya aplicación reduce la probabilidad d e eventos\nadversos asociados a la atención de salud,  que se apoyan en la mejor evidencia científica\ndisponible y que procuran prevenir, minimizar o eliminar el riesgo asociado a la práctica\nclínica.8\nPara efectos de la aplicación del presente Manual, se debe entender que la seguridad de la\natención de salud incluye al paciente y al usuario; en este contexto, las prácticas seguras\ndescritas se aplicarán en función de las necesidades de las personas con o sin patología. Las prácticas establecidas para la seguridad del paciente - usuario son de tres tipos:\n2.1  Prácticas Seguras Administrativas\n1. Identificación correcta del paciente. 2. Programa de mantenimiento preventivo de equipos biomédicos. 2.2  Prácticas Seguras Asistenciales\n1. Control de abreviaturas peligrosas. 2. Manejo adecuado de medicamentos de alto riesgo. 3. Control de electrolitos concentrados. 4. Conciliación de medicamentos. 5. Administración correcta de medicamentos. 6. Administración de antibióticos profilácticos en procedimientos quirúrgicos. 7. Profilaxis de trombo embolismo venoso. 8. Prevención de úlceras por presión. 2.3  Prácticas Seguras Administrativas/Asistenciales\n1."
+  },
+  {
+    "chunk_id": 32,
+    "page_start": 12,
+    "page_end": 12,
+    "text": "Notificación de eventos relacionados con la seguridad del paciente. 2. Prácticas quirúrgicas seguras. 3. Transferencia correcta de Información de los pacientes en puntos de transición. 4. Manejo correcto de las bombas de infusión. 5. Higiene de manos. 6. Prevención de caídas. 7. Educación en seguridad del paciente."
+  },
+  {
+    "chunk_id": 33,
+    "page_start": 13,
+    "page_end": 13,
+    "text": "13\nCapítulo III\n3. Prácticas seguras administrativas\n3.1  Identificación correcta del paciente - usuario. Identificación correcta del paciente:  procedimiento de identificación que no permite duda o\nequivocación de los pacientes y que hace posible atender a la persona correcta, en el\nmomento correcto y con la práctica adecuada correcta. (6)\nLa correcta identificación del paciente - usuario es fundamental para garantizar la calidad en\nlos procesos de atención de salud. Los problemas de identificación se asocian con frecuencia a\nlas complicaciones producidas por errores en la administración  de medicamentos,\nintervenciones quirúrgicas, pruebas diagnósticas, transfusiones de sangre y hemoderivados. Se han podido identificar las acciones inseguras más frecuentes asociadas con los procesos de\nidentificación correcta de los pacientes, entre las que se citan (14):\na) Falta de identificación al ingreso del paciente. b) Procesos de captura de datos incompletos, de deficiente calidad o equivocados. c) Identificación de los pacientes por medio de datos diferentes a los personales, ej. Número de la habitación, enfermedad, entre otros. d) Ausencia de brazaletes de identificación."
+  },
+  {
+    "chunk_id": 34,
+    "page_start": 13,
+    "page_end": 13,
+    "text": "e) Traslado y movimiento del paciente sin brazalete o adecuado proceso de\nidentificación. f) Verificación incorrecta de datos del paciente. g) No verificación de datos del paciente en el momento de  la realización de\nprocedimientos y tratamientos. h) Inexistencia de estándares de identificación correcta por parte del personal asistencial. Las citadas acciones inseguras son las más frecuentes pero no las únicas, sin embargo el riesgo\nde cometer errores puede ser reducido significativamente, a través de la adopción de\nprotocolos de identificación. La planificación cuidadosa de los procesos de atención de salud debe asegurar una adecuada\nidentificación del paciente antes de cualquier intervención clínica o quirúrgica, independiente\ndel enfoque de identificación o tecnología biométrica a utilizar."
+  },
+  {
+    "chunk_id": 35,
+    "page_start": 13,
+    "page_end": 13,
+    "text": "El objetivo de la identificación correcta del paciente – usuario es disminuir la incidencia de\nerrores relacionados con la identificación de pacientes/usuarios e n todos los procesos y\nprocedimientos de atención ejecutados en el establecimiento de salud, para lo cual se\nrequiere:\na) Disponer de un protocolo de identificación correcta del paciente - usuario, que debe ser\nestandarizado en todos los servicios y/o áreas de atención de salud. b) Implementar buenas prácticas que fomenten una cultura de seguridad que asegure la\nprevención de errores en la identificación de los pacientes. c) Involucrar al paciente - usuario y su familia en los procedimientos diseñados para su\nidentificación."
+  },
+  {
+    "chunk_id": 36,
+    "page_start": 14,
+    "page_end": 14,
+    "text": "14\n3.1.1   Protocolo de identificación\nSe aplicará un protocolo de identificación correcta, estandarizado para todos los\npacientes/usuarios que reciben atención en cada uno de los establecimientos  de salud del\nSistema Nacional de Salud. Un prim er paso en la correcta identificación del paciente/usuario es la utilización de un\nbrazalete que permita en todo momento conocer su filiación. Se establece obligatoriedad de\nsu uso en los siguientes casos: hospitalización, observación, emergencia, maternid ad de corta\nestancia (madres y recién nacidos), ambulatorios en los cuales se realizarán procedimientos,\ndiagnósticos y/o terapéuticos invasivos con compromiso de consciencia y transferencias,\nreferencias y/o derivaciones en vehículos de transporte sanitar io. Únicamente en estos casos,\nse realizará la colocación del brazalete de identificación."
+  },
+  {
+    "chunk_id": 37,
+    "page_start": 14,
+    "page_end": 14,
+    "text": "En el caso de pacientes/usuarios que sean atendidos en todos los niveles de atención en los\nservicios de: consulta externa, laboratorio, imagen, farmacia y otros relacionados con el\ncuidado de la salu d, incluyendo las actividades extramurales del primer nivel de atención, y\ntodos los casos citados que  requieran obligatoriedad de uso de l brazalete, se deberá cumplir\ncon  el procedimiento de verificación cruzada, como parte del protocolo de identificación,\nantes de brindar el servicio. a. Verificación cruzada\nLa verificación cruzada es el  procedimiento mediante el cual el prestador de salud identifica al\nusuario/paciente a través de dos mecanismos como mínimo, por ejem plo: verbal y a través de\nbrazalete; verbal y  un documento de identificación personal (número de historia clínica,\nlibreta de atención integral de salud de la madre, niño y /o niña, cédula de identidad, partida\nde nacimiento, carné etc). a.1."
+  },
+  {
+    "chunk_id": 38,
+    "page_start": 14,
+    "page_end": 14,
+    "text": "Procedimiento\nEl personal de salud antes de realizar una intervención, debe contar con un documento\n(solicitud médica) que abalice dicho requerimiento; en presencia del paciente/usuario o en su\ndefecto del acompañante, responsable o representante legal cua ndo se justifique,  el personal\nde salud debe preguntar el nombre completo del paciente, esperar su respuesta verbal, y\nverificar dicha información con el documento (solicitud médica) que abaliza dicha intervención\ny la información del brazalete. Terminado  dicho proceso se procede a la intervención\nrequerida. En el caso de pacientes -usuarios ambulatorios sin brazalete,  se debe cotejar su identidad,\npara lo cual se preguntará el nombre completo del paciente/usuario, esperar la respuesta\nverbal de éste o e n su defecto la de su acompañante, responsable ó representante legal\ncuando se justifique,  y verificar dicha información con el documento (solicitud médica) que\nabaliza dicha intervención y la información de un documento de identificación personal;\nterminado dicho proceso se procede a la intervención requerida."
+  },
+  {
+    "chunk_id": 39,
+    "page_start": 14,
+    "page_end": 14,
+    "text": "El procedimiento de verificación cruzada se efectuará durante la estancia, hospitalización  y/o\natención ambulatoria del paciente/usuario en todos los niveles de atención, cuando involucre\nalgún tipo de intervención como:"
+  },
+  {
+    "chunk_id": 40,
+    "page_start": 15,
+    "page_end": 15,
+    "text": "15\n- Atención de consulta externa. - Control  de signos vitales. - Administración de medicamentos. - Administración de vacunas. - Muestras de laboratorio. - Transfusiones. - Intervenciones quirúrgicas. - Exámenes complementarios. - Procedimientos diagnósticos ó terapéuticos. - Otros relacionados con el cuidado directo del paciente/usuario. Por ejemplo, la identificación de muestras de laboratorio, sean estas de hospitalización,\nobservación, emergencia o de pacientes ambulatorios, posterior al protocolo  de verificación\ndel paciente en el establecimiento, se debe realizar el protocolo de verificación de laboratorio\n(verificación cruzada)  donde la primera pregunta que el profesional realizará, cuando tiene\nuna solicitud de exámenes de laboratorio y el paciente está en frente, es preguntar:\n-“¿Cuál es su nombre completo?” Esperar la respuesta del paciente (o responsable, en caso\nde que el paciente/usuario no pueda responder). Verificar la solicitud y etiquetar la muestra\ncon la identificación correcta. b. Verificación del paciente para colocación del brazalete de identificación."
+  },
+  {
+    "chunk_id": 41,
+    "page_start": 15,
+    "page_end": 15,
+    "text": "La verificación del paciente - usuario se efectuará obligatoriamente, antes de la colocación del\nbrazalete, como un procedimiento de interacción verbal entre el personal de salud pe rtinente\ny el paciente (o en su defecto el acompañante, responsable o representante legal del mismo,\nen el caso de imposibilidad del paciente), se realizará de la siguiente manera:\n El personal de salud solicita al paciente que le entregue un documento de\nidentificación, y le pregunta:\n ¿Cuál es su nombre completo? El personal de salud espera la respuesta verbal del\npaciente - usuario y verifica el nombre completo con el documento entregado\npreviamente.  Se realiza la segunda pregunta: ¿Cuál es su número de  cédula de\nidentidad/ciudadanía? El personal de salud espera la respuesta verbal del paciente -\nusuario y verifica el número de cédula de identidad/ciudadanía en el documento\nentregado previamente\n Cuál es su fecha de nacimiento? El personal de salud es pera la respuesta verbal del\npaciente - usuario y verifica la fecha de nacimiento en el documento entregado\npreviamente."
+  },
+  {
+    "chunk_id": 42,
+    "page_start": 15,
+    "page_end": 15,
+    "text": " Terminado este proceso, se coloca el brazalete de identificación en los casos\npertinentes o se procede al registro de información del paciente. Posteriormente se\nrealizará la atención de salud."
+  },
+  {
+    "chunk_id": 43,
+    "page_start": 16,
+    "page_end": 16,
+    "text": "16\nImportante:\n En el caso que el paciente-usuario no porte documento de identificación personal,  para la\natención de salud, se le informará sobre la necesidad  de este documento. Los sistemas de\ncall center son los responsables de solicitar a los pacientes/ usuarios llevar un documento\nde identificación personal a la cita médica. Por ningún concepto, el documento de\nidentidad será considerado un requisito para limitar la atención de salud.  El brazalete de identificación no es el único identificador del paciente,  por lo que se debe\nrealizar en todos los casos la verificación cruzada.  Si las condiciones clínicas del paciente no le permiten realizar identificación verbal no se\ndebe realizar nin gún procedimiento sin brazalete que permita realizar la identificación,\nante esta situación informar inmediatamente al responsable del servicio.  Se prohíbe la identificación de los pacientes por números de habitación, cama,\ndiagnósticos, procedimientos terapéuticos y otros que no hayan sido los citados. b.1   Situaciones especiales\n Pacientes atendidos por emergencia tienen prioridad los cuidados antes que la colocación\ndel brazalete."
+  },
+  {
+    "chunk_id": 44,
+    "page_start": 16,
+    "page_end": 16,
+    "text": "En cuanto sea posible, se colocará correctamente el mismo para lo cual,  de\nser el caso,  se cotejará los datos con la unidad pre-hospitalaria de traslado.  Pacientes que rechazan el brazalete  en este caso, a pesar de ser informado de los riesgos\nde no llevar el mismo, se registrará la novedad en la historia clínica y se aplic ará la\nverificación cruzada.  Pacientes con intolerancia al material , se dejará constancia por escrito en la historia\nclínica y se determinará la identificación con otras alternativas.  Pacientes con alteraciones mentales  que se despojaran reiteradamente del brazalete  de\nidentificación, se dejará constancia por escrito en la historia clínica, o se considerarán\nopciones como por ejemplo fijar  la identificación en la  vestimenta en casos necesarios o\nutilizar brazaletes de difícil retirada como las utiliza das en pacientes recién nacidos,\ncumpliendo previamente el protocolo de verificación del paciente."
+  },
+  {
+    "chunk_id": 45,
+    "page_start": 16,
+    "page_end": 16,
+    "text": " Pacientes en los cuales no sea posible la colocación del brazalete  de identificación\n(ejemplos: pacientes quemados, mutilados, politraumatizados, entre otr os.), se dejará\nconstancia por escrito en la historia clínica y se procederá con la identificación mediante\nmecanismos de verificación cruzada. c. Brazalete de identificación\nSon dispositivos que cumplen con la función de identificar de manera tangible visual y rápida a\nun paciente en el lugar donde se encuentre.  El brazalete de identificación tendrá como mínimo la siguiente información:\n- Número de cédula de identidad/ciudadanía del paciente."
+  },
+  {
+    "chunk_id": 46,
+    "page_start": 17,
+    "page_end": 17,
+    "text": "17\n- Dos nombres, dos apellidos del paciente.  El establecimiento de s alud podrá añadir otros identificadores, sin embargo para la\nidentificación serán tomados en cuenta los requerimientos señalados.  La colocación del brazalete de identificación se realizará en los siguientes momentos:\na) Ingreso a hospitalización. b) Ambulatorios para procedimientos de alto riesgo. c) Maternidad de corta estancia. d) Recién nacidos inmediato al nacimiento y antes de la primera hora de\nhospitalización. e) Transferencias, Referencias y/o Derivaciones en vehículos de transporte sanitario. f) Servicio de emergencia (observación, área de estabilización de paciente – usuario\ncrítico)\n Si no es posible conocer la identidad del paciente atendido por el servicio de emergencias,\nse escribirá en el brazalete de identificación como nombres, apellidos “NN” (No Nombre),\nsexo, fecha, hora de ingreso y número de  atención (registro 008 -Historia Clínica), h asta\nobtener su identidad.  El personal que realice el proceso de admisión del paciente, será responsable del llenado\nde los datos y la colocación del brazalete de identifi cación con los datos mencionados."
+  },
+  {
+    "chunk_id": 47,
+    "page_start": 17,
+    "page_end": 17,
+    "text": "En\ncualquier caso se registrará en la respectiva historia clínica.  El brazalete de identificación se colocará en la muñeca del paciente, si no es posible se lo\nhará en el tobillo.  Se verificará con el paciente, familiar, r epresentante legal o cuidador que la información\nregistrada en el brazalete sea la correcta.  Se pueden utilizar brazaletes o pulseras de colores para identificar pacientes con riesgos\ndurante la atención, por ejemplo alergias, mujeres con riesgo obstétrico entre otros.  El brazalete  de identificación será retirado en el domicilio.  En caso de fallecimiento del mismo deberá permanecer con el brazalete de identificación\nhasta que se ejecuten los trámites legales. c.1  Especificaciones técnicas del brazalete  de identificación  (14)\nLos establecimientos de salud adaptarán a su realidad las las especificaciones técnicas del\nbrazalete, cuidando se cumplan algunas recomendaciones señaladas a continuación:\n Fabricadas en polipropileno, antialérgico (libre de látex) e inocua para el paciente.  Resistente a la tensión y ruptura en cualquier dirección."
+  },
+  {
+    "chunk_id": 48,
+    "page_start": 17,
+    "page_end": 17,
+    "text": " Los brazaletes deben tener agujeros de sujeción que ante la colocación del broche de\nseguridad permita ser adaptadas al tamaño del paciente.  Resistentes al calor y a la humedad.  Brazaletes se deberán rotular con tinta indeleble o impresión de tinta indeleble; resistente\na abrasión y al agua.  Flexibles y cómodas, sin bordes cortantes.  Cierre seguro, que cuente con seguridad no manipulable.  Imposibilidad de reutilización tras la rotura del cierre de seguridad.  Que permita un manejo fácil por parte del profesional (almacenaje, cumplimiento en el\nllenado de los datos, colocación en el paciente, etc.)"
+  },
+  {
+    "chunk_id": 49,
+    "page_start": 18,
+    "page_end": 18,
+    "text": "18\n El diseño de la manilla debe ser de tal manera que sea visible para las per sonas que la\nrevisan y cómoda para el paciente. c.2  Sustitución del brazalete de identificación. La sustitución del brazalete de identificación se realizará en los siguientes casos:\n Cada vez que haya daño del brazalete de identificación (ruptura, datos borrosos, etc.).  Si la piel presenta erosión, lesión, alergia, etc.  Si hay la necesidad de acceso vascular, se requiere una toma de examen o proceso de\ndiferente tipo (se considerará cambiar de localización del brazalete  de identificación).  Si es necesario contención física del paciente. d. Recién Nacidos/as\n El brazalete de identificación de el/la recién nacido/a contendrá la siguiente información:\n- Nombres y apellidos de la madre. - Fecha de nacimiento, hora del nacimiento, sexo.  A todo/a recién nacido/a c on referencia, transferencia o derivación de otro\nestablecimiento de salud, se colocará el brazalete de identificación con la información\ndescrita en el punto anterior."
+  },
+  {
+    "chunk_id": 50,
+    "page_start": 18,
+    "page_end": 18,
+    "text": " En caso de el/la recién nacido/a abandonado/a, deben consignarse los siguientes datos:\n- Nombre: “RN NN”\n- Fecha y hora de ingreso por Emergencia\n- Sexo\n Todo/a recién nacido/a será identificado/a con la colocación del brazalete de preferencia\nen el pie, luego de aplicar los  cuidados inmediatos del recién nacido (sala de partos o\nquirófanos).  Si se trata de un/a mortinato/a, el brazalete de identificación contará con los mismos\ndatos de un recién nacido/a vivo/a.  Durante su estancia en el establecimiento de salud se informará a la madre que por\nningún motivo,  entregue al recién nacido a personas  que no se encuentren identificadas\ncomo  funcionarios/as del establecimiento de salud.  Se solicitará a la madre verificar siempre q el/la recién nacido (a)  porte su brazalete de\nidentificación y q los datos sean correspondientes.  Se entregará el/la reci én nacido/a a la madre,  padre o representante legal, quién\nregistrará su firma en la historia clínica indicando su conformidad conjuntamente con la\npersona responsable de su entrega."
+  },
+  {
+    "chunk_id": 51,
+    "page_start": 18,
+    "page_end": 18,
+    "text": " Al alta se realizará verificación cruzada, comparando los datos de la i nformación del\nbrazalete de identificación de el/la recién nacido/a, con la información de su tarjeta de\nidentificación y con el brazalete de su madre.  El personal de seguridad del establecimiento de salud procederá con la verificación\ncruzada señalada, antes que la madre abandone el establecimiento. f. Identificación con tarjeta en la  cabecera, pie de cama o habitación\n Realizar confirmación verbal con el paciente o familiares de los datos consignados.  Se debe elaborar la tarjeta de cabecera inmediatam ente una vez asignada la cama o\nhabitación del paciente.  Anotar los datos del brazalete de identificación en la tarjeta.  Durante la instancia hospitalaria en lo posible se debe evitar el cambio constante de sitio."
+  },
+  {
+    "chunk_id": 52,
+    "page_start": 19,
+    "page_end": 19,
+    "text": "19\n Debe asegurarse con materiales adecuados para evitar que se caigan.  Eliminar la tarjeta inmediatamente después del alta hospitalaria.  La tarjeta de cabecera, pie de cama o habitación, en sí misma, NO es un identificador\nabsoluto y seguro, por tanto el personal de salud tendrá que ejecutar en cada caso, el\nproceso de verificación cruzada previo a cualquier procedimiento requerido. 3.1.2   Acciones que involucran al equipo de salud con el  paciente,  la familia y\ncuidadores (15):\n Educar a los pacientes sobre los riesgos relacionados con la identifi cación incorrecta de los\nmismos.  Solicitar a los pacientes o a sus familiares que verifiquen la información de identificación\npara confirmar que sea correcta.  Solicitar a los pacientes, cuando sea posible, se identifiquen antes de recibir cualquier\nmedicamento y previo a cada diagnóstico o intervención terapéutica.  Animar a los pacientes y a sus familias o cuidadores a ser participantes activos en la\nidentificación, expresar sus inquietudes respecto a la seguridad y los errores potenciales, y\nhacer preguntas sobre la corrección de su atención."
+  },
+  {
+    "chunk_id": 53,
+    "page_start": 19,
+    "page_end": 19,
+    "text": "Nota: Si durante el proceso de verificación el paciente no cuenta con el brazalete de\nidentificación o existe algún error en los datos se deberá informar inmediatamente al\nresponsable de servicio, quien procederá a su  registro en el formulario de “ Registro de\nPacientes sin Brazalete de Identificación ”, (fuente primaria de recolección de datos) (Anexo\n1). El responsable del registro será la/el enfermera/o de turno del Servicio. 3.1.3  Medidas sugeridas por la Organización Mundial de la Salud (15)\nLas acciones planteadas en el presente Manual, recogen las estrategias que la Organización\nMundial de la Salud solicita de los países miembros tomen en cuenta. 1. Asegurar que las organizaciones de atención sanitaria c uenten con sistemas\nimplementados que:\na) Hagan énfasis en la responsabilidad principal de los trabajadores de la atención\nsanitaria sobre verificar la identidad de los pacientes y hacer coincidir los pacientes\ncorrectos con la atención correcta (por ej., res ultados de análisis de laboratorio,\nmuestras, procedimientos) antes de administrar la atención."
+  },
+  {
+    "chunk_id": 54,
+    "page_start": 19,
+    "page_end": 19,
+    "text": "b) Fomenten el uso de al menos dos identificadores para verificar la identidad de un\npaciente en el momento de la admisión o de la transferencia a otro hospital o entorno\nde atención y previo a la administración de la atención. c) Ninguno de estos identificadores debería ser el número de habitación del paciente. d) Estandaricen los enfoques para la identificación del paciente entre los distintos\nestablecimientos dentro de  un sistema de atención sanitaria. Por ejemplo, el uso de\nbandas de identificación blancas sobre las que se pueda escribir un patrón o marcador\nestándar e información específica, o la implementación de tecnologías biométricas. Importante: el registro de pacientes sin brazalete de identificación,  se realizará\nconforme a lo establecido en el Modelo de Gestión de Información de los\nFormularios del Manual de Seguridad del Pacie nte para el Sistema Nacional de\nSalud."
+  },
+  {
+    "chunk_id": 55,
+    "page_start": 20,
+    "page_end": 20,
+    "text": "20\ne) Proporcionen protocolos claro s para identificar pacientes que carezcan de\nidentificación y para distinguir la identidad de los pacientes con el mismo nombre. f) Deben desarrollarse y utilizarse enfoques no orales para identificar pacientes\ncomatosos o confundidos. g) Fomenten la participación de los pacientes en todas las etapas del proceso. h) Fomenten el etiquetado de los recipientes utilizados para la sangre y demás muestras\nen presencia del paciente. i) Proporcionen protocolos claros para conservar la identidad de las muestras del\npaciente durante los procesos preanalíticos, analíticos y posanalíticos. j) Proporcionen protocolos claros para el cuestionamiento de los resultados de análisis\nde laboratorio u otros hallazgos de los análisis cuando no coincidan con la historia\nclínica del paciente. k) Prevean controles y revisiones reiterados a fin de evitar la multiplicación automática\nde un error en el ingreso de datos a la computadora. 2. Incorporar una capacitación sobre procedimientos de control y verificación de la identidad\nde un paciente dentro de l a orientación y el desarrollo profesional permanente de los\ntrabajadores de la atención sanitaria. 3."
+  },
+  {
+    "chunk_id": 56,
+    "page_start": 20,
+    "page_end": 20,
+    "text": "Educar a los pacientes sobre la importancia y la relevancia de la correcta identificación de\nlos pacientes, de una manera positiva que también respete su interés por la privacidad. 3.2   Programa de mantenimiento preventivo de equipos biomédicos\nEl mantenimiento preventivo de equipos biomédicos es el proceso mediante el cual el\nestablecimiento de salud garantiza que los equipos biomédicos sean seguros y fu ncionales,\npara evitar lesiones en los profesionales, personal, paciente y su familia. Se considera como un\nproceso importante que tiene que ejecutarse, permanente y ordenado en los establecimientos\nde salud, ya que de esto depende el estado y funcionamiento óptimo de los mismos. Comprende todas las actividades que se realizan para cumplir con la vida útil de cada equipo,\ndeterminada por el fabricante (calibración, lubricación, limpieza, etc.), de conformidad con las\nestipulaciones contractuales vigentes y  de acuerdo con lo establecido en los manuales del\nfabricante, con el objetivo de garantizar el correcto funcionamiento de los equipos biomédicos\nutilizados en la atención del paciente, mediante la aplicación de un programa de\nmantenimiento preventivo."
+  },
+  {
+    "chunk_id": 57,
+    "page_start": 20,
+    "page_end": 20,
+    "text": "3.2.1  Acciones del  establecimiento de salud, profesionales administrativos y\nequipos de salud\n Planificar una inspección periódica de los equipos biomédicos.  Verificar situaciones que puedan originar fallas o depreciación acelerada de los mismos.  Actualizar  permanentemente el inventario de los equipos biomédicos.  Elaborar un cronograma de mantenimiento preventivo y correctivo.  Registrar en cada equipo la fecha del mantenimiento ya sea preventivo o correctivo\n Verificar el funcionamiento óptimo del equipo biomédico, luego del mantenimiento. Para realizar una adecuada planificación del mantenimiento preventivo, el personal\nresponsable del mismo se guiará utilizando el programa de la Organización Mundial de la Salud\nque desarrolla el tema. (16)"
+  },
+  {
+    "chunk_id": 58,
+    "page_start": 21,
+    "page_end": 21,
+    "text": "21\nCAPÍTULO IV\n4. Prácticas seguras técnicas asistenciales\n4.1  Control de Abreviaturas peligrosas. El peligro que entraña el uso de ciertas abreviaturas comenzó a preocupar a las organizaciones\nencargadas de velar por la seguridad del paciente. El riesgo de error ob viamente es mayor en\nlos textos escritos a mano pero también puede ocurrir en materiales impresos o electrónicos ,\npor lo que se evitará el uso de abreviaturas peligrosas en todos los casos. La incorporación en la atención del paciente de las prescripciones electrónicas y herramientas\nde apoyo a las decisiones  son una buena oportunidad para  reducir el uso de abreviaturas\nconfusas. El objetivo general es estandarizar la utilización de abreviaturas permisibles en los procesos de\natención  para evitar  confusiones y errores que afecten a los pacientes. Para lo cual se requiere establecer y socializar el listado de abreviaturas y símbolos autorizados\npara los establecimientos de salud. 4.1.1. Acciones que involucran al establecimiento de salud y  profesional es de la\nsalud. a) Disponer el protocolo sobre control de abreviaturas peligrosas."
+  },
+  {
+    "chunk_id": 59,
+    "page_start": 21,
+    "page_end": 21,
+    "text": "b) No administrar medicamentos si se observan abreviaturas peligrosas, y en caso de\ntener duda preguntar directamente a quién genera la indicación. c) No utilizar por ningún motivo  abreviaturas para la redacción de: diagnósticos, escalas\nde valoración diagnóstico, procedimientos diagnósticos, medicamentos y dispositivos\nmédicos. d) Cada servicio debe disponer de carácter obligatorio, y a la vista del personal de salud el\nlistado de abreviaturas aceptadas (Anexo 2). 4.2  Manejo adecuado de medicamentos de alto riesgo\nTodos los medicamentos tienen potencial riesgo de causar alg ún evento adverso, sin embargo\nse pone énfasis en l os medicamentos de alto riesgo porque son aquellos que  por su s\ncaracterísticas propias como por ejemplo un margen terapéutico  estrecho, pueden causar\ndaño,  incluso la muerte, cuando se produce un error en el curso de su administración. (17) La\nimplementación  de una estrategia integral para la gestión de  todos los medicamentos con\nénfasis en los medicamentos de alto riesgo, es un valioso recurso para mejorar la seguridad del\npaciente."
+  },
+  {
+    "chunk_id": 60,
+    "page_start": 21,
+    "page_end": 21,
+    "text": "Ninguna práctica por sí sola va a permitir garantizar la seguridad de la utilización de los\nmedicamentos de alto riesgo, sino que es  preciso introducir diversas prácticas en todas y cada\nuna de las etapas que configuran el sistema de utilización de los medicamentos. Por ello se\naconseja que se implanten prácticas específicas dirigidas a evitar errores en el envasado,\netiquetado, almacenamiento, prescripción, dispensación, preparación y administración de los\nmismos. (18)"
+  },
+  {
+    "chunk_id": 61,
+    "page_start": 22,
+    "page_end": 22,
+    "text": "22\nLos  nombres confusos de medicamentos es otra de las causas más comunes de errores de\nmedicamentos, esto incluye principios activos y nombres comerciales. Muchos medic amentos\ntienen aspecto o nombre parecidos a otros, por lo que adquieren su denominación como\nmedicamentos LASA del inglés: Like alike – Sound alike (se miran igual – suenan igual). (18, 19 )\nContribuyen con esta confusión la caligrafía ilegible, el conocim iento incompleto de los\nnombres de los medicamentos, los productos nuevos en el mercado, los envases o etiquetas\nsimilares, el uso clínico similar, las concentraciones similares, las formas de dosificación, la\nfrecuencia de administración, la falta de reconocimiento por parte de fabricantes y organismos\nde reglamentación del potencial de error. (18, 19)\nLa seguridad en la utilización de medicamentos de alto riesgo es altamente compleja, por lo\nque se debe tratar que en el desarrollo e implementación de est a práctica se impliquen todos\nlos actores que intervienen en el mismo, incluyendo los pacientes."
+  },
+  {
+    "chunk_id": 62,
+    "page_start": 22,
+    "page_end": 22,
+    "text": "La mayoría de la literatura científica coincide en que cerca del 50% de los eventos adversos\ngraves son producidos por los siguientes grupos terapéuticos y medicamentos (18, 19):\n1. Anticoagulantes. 2. Opiáceos. 3. Insulinas. 4. Sedantes. 5. Potasio IV (cloruro o fosfato). 6. Medicamentos por vía epidural o intratecal. 7. Metotrexato oral (uso no oncológico). 8. Agentes adrenérgicos. 9. Agentes citostáticos y citotóxicos. 10. Electrolitos. 11. Agentes bloqueadores neuromusculares. El objetivo es establecer un proceso adecuado y seguro en el manejo de medicamentos de alto\nriesgo  identificados en el establecimiento de salud, de acuerdo a su tipología y nivel de\ncomplejidad. Para lo cual  se requiere estandarizar los procesos de almacenamiento, etiquetado,\nprescripción, preparación, distribución, verificación, administración, y control  de\nmedicamentos de alto riesgo, e identificar los medicamentos de alto riesgo y medicamentos\nLASA, por e l equipo de salud en el establecimiento y aplicar los protocolos de seguridad para\nsu uso. 4.2.1. Acciones que involucran al establecimiento de salud,  profesionales,\ntrabajadores, personal de salud y administrativo en general."
+  },
+  {
+    "chunk_id": 63,
+    "page_start": 22,
+    "page_end": 22,
+    "text": " Establecer procedimientos para el almacenamiento, etiquetado, prescripción, preparación,\ndistribución, verificación, administración, y control para todos los medicamentos, con\nespecial énfasis en los de alto riesgo.  Asegurar un correcto control de almacenamiento, conservación y cad ucidad para todos los\nmedicamentos, con especial énfasis a los de alto riesgo.  Reconocer la complejidad que tiene la utilización de los medicamentos de alto riesgo en los\nestablecimientos de salud.  Identificar y disponer en todos los servicios y a la vista  de todo el personal de salud, el\nlistado de medicamentos LASA (anexo 5) que corresponde a pares de nombres de\nmedicamentos con similitud ortográfica o fonética y medicamentos de alto riesgo (anexo 6)"
+  },
+  {
+    "chunk_id": 64,
+    "page_start": 23,
+    "page_end": 23,
+    "text": "23\n Identificar los medicamentos de alto riesgo con etiqueta de color rojo.  Emplear sistemas de “doble chequeo independiente” en que una persona revisa el trabajo\nrealizado por la otra.  Utilizar la doble verificación en los procesos de preparación y administración de electrolitos\nconcentrados.  Los establecimiento s de salud establec erán un mecanismo para actualizar de manera\ncontinua las normativas de control de medicamentos de alto riesgo.  El personal debe estar actualizado y capacitado sobre el manejo seguro de medicamentos\nde alto riesgo y asegurar la legibilidad de las recetas, mediante una mejora de la caligrafía y\nla impresión, o el uso de órdenes preimpresas o recetas electrónicas.  Estandarizar los medicamentos de alto riesgo disponibles en los establecimientos de salud,\nlimitando el número de presentaciones; concentraciones y volumen (18).  Enfatizar en  la aplicación de los “correctos” descritos en la práctica segura “administración\ncorrecta de medicamentos”, de este Manual, por ejemplo la vía de administración."
+  },
+  {
+    "chunk_id": 65,
+    "page_start": 23,
+    "page_end": 23,
+    "text": " El establecimiento de salud regularmente audita rá los servicios, verificando el\ncumplimiento del protocolo de medicamentos de alto riesgo, desarrollado por la entidad.  En caso de identificar reacciones adversas a los medicamentos, se notificará al médico\nresponsable, se registrará en la historia clínic a y se registrará el evento en el formulario\n“tarjeta amarilla” para activar las acciones en farmacovigilancia.  En el caso de identificar un cuasi evento, evento adverso ó centinela se registrará en el\nformulario “notificación de eventos relacionados con l a seguridad del paciente” para su\ngestión. 4.2.2  Acciones que involucran al equipo de salud con el paciente y familia\nEntregar por escrito al paciente hospitalizado y/o familiar un informativo de uso sobre el\nmedicamento de alto riesgo que se está admin istrando, que detalle los efectos secundarios,\ncontraindicaciones y otros, además resaltar que en caso de presentarse uno de ellos sea\ncomunicado al equipo de salud de manera inmediata."
+  },
+  {
+    "chunk_id": 66,
+    "page_start": 23,
+    "page_end": 23,
+    "text": "4.3  Control de electrolitos concentrados\nLa Organización Mundial d e la Salud (OMS) considera de alto riesgo los medicamentos y las\npreparaciones que contengan los siguientes concentrados de electrólitos: Sodio hipertónico,\ncloruro de potasio, sulfato de magnesio, calcio gluconato y bicarbonato de sodio. (15)\nSe han repo rtado complicaciones y muertes relacionadas con la administración incorrecta de\ncloruro de potasio (KCl); también existen reportes de muerte accidental por administración\ninvoluntaria de solución salina concentrada. Si bien, todos los medicamentos, biológi cos,\nvacunas y medios de contraste tienen un perfil de riesgo definido, las soluciones concentradas\nde electrólitos para inyecciones son particularmente peligrosas cuando se preparan y\nadministran inadecuadamente (15). Es fundamental la planificación de l a adquisición, almacenamiento, disponibilidad, acceso,\nprescripción, preparación, distribución, etiquetado, verificación, administración y control de\nestos agentes, a fin de evitar eventos adversos. La estandarización de la dosis, unidades de\nmedida y de  terminología, son elementos fundamentales a considerar para evitar errores en la\nadministración de las soluciones concentradas de electrolitos."
+  },
+  {
+    "chunk_id": 67,
+    "page_start": 23,
+    "page_end": 23,
+    "text": "Estos esfuerzos requieren\natención especial, experiencia, colaboración entre profesionales, procesos de verifica ción y\nvarias funciones obligatorias que garanticen  seguridad. (15)"
+  },
+  {
+    "chunk_id": 68,
+    "page_start": 24,
+    "page_end": 24,
+    "text": "24\nEl objetivo es  determinar el manejo correcto de los electrolitos concentrados relacionados con\nlos procesos de atención de salud, de acuerdo a su tipología y nivel de complejidad. Para lo cual se requiere:\na) Estandarizar los procesos de  almacenamiento, etiquetado, prescripción, preparación,\ndistribución, verificación, administración, y control  de electrolitos concentrados. b) Unificar las formas de etiquetado para los electrolitos concentr ados en todos los\nservicios. c) Cumplir con el protocol o del establecimiento de salud sobre el almacenamiento,\netiquetado, prescripción, preparación, distribución, verificación, administración, y\ncontrol  de electrolitos concentrados. 4.3.1 Acciones del esta blecimiento de salud, que involucran a los profesionales,\ntrabajadores, personal de salud  y administrativo en general\na) Los bioquímicos farmacéuticos o químicos farmacéuticos serán los responsables de la\ncustodia y provisión inicial de las soluciones de el ectrolitos concentrados hasta su\ndistribución en los servicios respectivos, donde los custodios serán los profesionales de\nenfermería. b) En los servicios no deben almacenarse los sobrantes de los electrólitos concentrados. Si lo hubiera, se debe  gestionar su devolución a farmacia."
+  },
+  {
+    "chunk_id": 69,
+    "page_start": 24,
+    "page_end": 24,
+    "text": "c) Cada unidad de salud estimará su necesidad de este tipo de medicamento acorde a su\nperfil epidemiológico. d) El personal de  farmacia dentro de sus competencias será responsable de almacenar,\netiquetar, preparar y  distribuir los con centrados de electrólitos a los diferentes\nservicios. e) Los concentrados de electrólitos estarán debidamente identificados con: nombre del\nmedicamento, fecha de caducidad, y  rotulado “Alto Riesgo” (etiqueta roja). f) Los  bioquímicos farmacéuticos o químicos  farmacéuticos son los responsables de\npreparar las soluciones con electrolitos concentrados en el área  de farmacia para su\nentrega posterior a los servicios respectivos; condicionada a la existencia de\ninfraestructura y equipamiento necesario para el efecto. g) Para la administración de electrolitos concentrados se utilizará la bomba de infusión,\ntodo el personal de enfermería deberá estar capacitado en su uso. h) Si durante la administración el médico prescribe electrolitos a la solución, se\ndescartará la solución iniciada para continuar la nueva solución."
+  },
+  {
+    "chunk_id": 70,
+    "page_start": 24,
+    "page_end": 24,
+    "text": "i) En caso de identificar reacciones adversas a los medicamentos, se notificará al médico\nresponsable, se registrará en la historia clínica y se registrará el evento en el\nformulario “tarjeta amarilla” para activar las acciones en farmacovigilancia. j) En el caso de identificar un cuasi evento, evento adverso ó centinela se registrará en el\nformulario “notificación de eventos relacionados con la seguridad del paciente” para\nsu gestión. k) En los establecimientos se ten drá a disposición para todo el personal el protocolo de\ncontrol de electrolitos concentrados en todos los servicios. l) La implementación, seguimiento y supervisión  del cumplimiento del protocolo  estará\na cargo de los líderes de enfermería de cada servicio  o  la instancia que defina el\nestablecimiento de salud. m) La capacitación sobre el  cumplimiento del protocolo del control de electrolitos\nconcentrados  al personal de nuevo ingreso de los establecimientos de salud, será de\nresponsabilidad  de la instancia competente del establecimiento."
+  },
+  {
+    "chunk_id": 71,
+    "page_start": 25,
+    "page_end": 25,
+    "text": "25\n4.4  Conciliación de medicamentos. Es el proceso formal de obtener una lista completa de la medicación del paciente previo al\ningreso, compararla con la que se le ha prescrito en el centro sanitario, durante la referencia y\nalta médica. (21)\nLos errores de conciliación constituyen un problema de seguridad y han sido señalados por\norganismos como la Organización Mundial de la Salud (OMS), National Institute for Health and\nCare Excellence (NICE), Institute for Health care Im provement (IHI) y la  Joint Commission on\nAccreditation of Health care Organizations (JCAHO) como un tema prioritario dentro de la\nestrategia de seguridad del paciente. Un metanálisis, por ejemplo,  encontró que existen discrepancias entre el his torial de\nmedicamentos prescritos frente al historial de medicamentos registrados al ingreso\nhospitalario, llegando a presentarse  hasta en un  67% de los casos. (22)\nLos medicamentos deben conciliarse en todas las transiciones asistenciales, esto es, cada vez\nque el paciente cambia de nivel asistencial o un nuevo profesional clínico participa en su\natención."
+  },
+  {
+    "chunk_id": 72,
+    "page_start": 25,
+    "page_end": 25,
+    "text": "En el ámbito hospitalario, realizar el historial fármaco -terapéutico, completa y correctamente,\nal ingreso, es parte importante de la anamnesis. Si  se realiza errónea o incompleta puede\nencubrir problemas relacionados con la administración de medicamentos y causar\ninterrupciones o utilización inadecuada de  medicamentos que el paciente requiere de forma\ncrónica. Si estos errores se perpetúan al alta  hospitalaria, pueden afectar tanto  la efectividad\ndel medicamento como  la seguridad del paciente. El objetivo es conocer el historial fármaco-terapéutico de cada paciente para evitar reacciones\ne interacciones medicamentosas no deseadas y optimizar los efectos terapéuticos deseados en\ntodas las transiciones asistenciales. Para lo cual se requiere:\na) Definir el procedimiento para la conciliación de medicamentos y asegurar su\naplicación. b) Prevenir los errores por una inadecuada conciliación de medicamento s en los\nestablecimientos de salud. 4.4.1."
+  },
+  {
+    "chunk_id": 73,
+    "page_start": 25,
+    "page_end": 25,
+    "text": "Conciliación de los medicamentos al ingreso 58\n Se utiliza un proceso estandarizado para conciliar los medicamentos que el paciente toma\nen el medio ambulatorio con los prescritos en el ingreso, y deberá ser cono cido por todos\nlos profesionales implicados en el uso de los medicamentos, mediante el registro\nobligatorio en la historia clínica del cumplimiento de esta conciliación por parte del\npersonal de salud, responsable de su atención.  La información básica del paciente (nombre, unidad de hospitalización, número de historia\nclínica, cédula de identidad, médico, etc.) estará clara (letra legible y/o estandarizada e\nimpresa por medios electrónicos), y se deberá ver fácilmente en todas las prescripciones\ntransmitidas al servicio de farmacia.  La información del paciente en cuanto a diagnóstico de ingreso, co -morbilidad (Ejemplo:\nhipertensión, diabetes, insuficiencia renal, insuficiencia hepática, etc.) o condiciones\nespeciales (Ejemplo: embarazo, lactancia, etc.), se  recopilará en la historia clínica y se"
+  },
+  {
+    "chunk_id": 74,
+    "page_start": 26,
+    "page_end": 26,
+    "text": "26\ncomunicará al personal de cuidado directo y a los farmacéuticos, o bien deberá estar\ndisponible de forma fácil para ellos.  La información sobre alergias del paciente estará disponible tanto para el personal de\ncuidado directo como para el farmacéutico.  El farmacéutico deberá participar  activamente en el proceso del sistema de utilización de\nmedicamentos del hospital, registrando, validando y monitorizando todas las\nprescripciones de medicamentos antes de iniciar los  tratamientos por medio de la\nimplementación de un sistema de dispensación en dosis unitaria. (a excepción de\nsituaciones de urgencia vital).  Las discrepancias encontradas deberán ser comentadas con el prescriptor y, si procede,\ndeberán ser corregidas.  Los cambios realizados deben ser adecuadamente documentados.  Si se encuentran discrepancias, duplicidades o interacciones entre el tratamiento crónico y\nel tratamiento de manejo del episodio agudo, se deberán comentar y reportar con el\nprescriptor  y, si procede, modificar la prescripción.  Se utilizará el kardex de administración de medicamentos para enfermería (formulario\nSNS-M.S.P. /HCU -form. 022 /2008)."
+  },
+  {
+    "chunk_id": 75,
+    "page_start": 26,
+    "page_end": 26,
+    "text": "No se administra nada que no esté registrado en el\nkardex de administración con lo que se asegura que no  exista diferencia entre la\nprescripción  y la administración.  Se d ebe generar el  historial fármaco-terapéutico completo , con la participación del\nfarmacéutico en las 24 horas posteriores al ingreso, entrevistando al paciente y familiar,\nrecogiendo toda la información disponible sobre su tratamiento.  Se informará al paciente y sus familiares de las posibles sustituciones y suspensiones de su\ntratamiento habitual durante su estadía, según el programa de equivalentes terapéuticos. El paciente y el familiar de berá saber que todo su tratamiento está perfectamente\nsupervisado y que no debe, ni tien e que tomar ningún medicamento que no le sea\nadministrado por el personal de enfermería.  Se debe comunicar al prescript or y administrador los medicamentos que el paciente  trae\nal ingreso, para lo cual el paciente debe informar los medicamentos  que está tomando\nhabitualmente. En caso que la información proporcionada carezca de claridad y seguridad,\nel familiar deberá traer los medicamentos."
+  },
+  {
+    "chunk_id": 76,
+    "page_start": 26,
+    "page_end": 26,
+    "text": " En el proceso de conciliación  considerar siempre el uso de plantas medicinales, productos\nhomeopáticos, suplementos dietéticos y otros que el paciente ingiera con regularidad.  Durante la administración de los medicamentos, el personal médico o de enfermería\ndeberá informar a los pacie ntes y a sus familiares el nombre genérico y comercial de los\nmedicamentos, su acción, el equivalente con el medicamento domiciliario, la dosis y los\nefectos adversos más importantes.  Cuando ingresen  p acientes que utilizan medicamentos previos, y estos n o va a ser\nadministrados de acuerdo a la pertinencia médica hasta nueva prescripción,  se\ndescontinuará su uso de forma parcial o definitiva, tras lo cual el farmacéutico tendrá que\nretirar físicamente los medicamentos  que disponga el paciente, la misma qu e será\ndevuelta a su egreso. En caso de no aceptación del paciente, se dejará constancia en la\nhistoria clínica con firma de responsabilidad del personal de salud a cargo y del paciente o\nrepresentante legal."
+  },
+  {
+    "chunk_id": 77,
+    "page_start": 26,
+    "page_end": 26,
+    "text": "4.4.2  Conciliación de los medicamentos al egreso\n A  partir de l historial fármaco -terapéutico y el tratamiento hospitalario del paciente, se\nregistrará el tratamiento actualizado completo (dosis, vía frecuencia, forma farmacéutica y\nlas pautas de administración), próxima cita, dieta, actividad en el  formulario 053\n(referencia, contrareferencia, referencia inversa y derivación)."
+  },
+  {
+    "chunk_id": 78,
+    "page_start": 27,
+    "page_end": 27,
+    "text": "27\n Se deben establecer alarmas (ejemplo: para medicamentos específicos de alto riesgo,\ngrupos de pacientes de alto riesgo, o pacientes con cinco o más medicamentos) que\nprovocan automáticamente la consulta con un farmacéutico para proporcionar educación\nal paciente.  Se indicará a los pacientes que pueden consultar después de su egreso cualquier\npreocupación o duda sobre sus medicamentos. 4.4.3 Conciliación de los medicamentos en el primer nivel de atención.  Se realiza la conciliación de los medicamentos teniendo como referencia el formulario 053\n(referencia, contrareferencia, referencia inversa y derivación) con  aquellos medicamentos\nque el paciente requiera de manera ambulato ria y se registrará  obligatoriamente en la\nhistoria clínica.  El médico del primer nivel de atención deberá organizar los tratamientos solicitados por\nlos prescriptores especialistas, manteniendo una visión integral del paciente y alertando\nde cualquier dup licidad, discrepancia, interacción entre el tratamiento crónico y el\nhospitalario.  Donde esté disponible un farmacéutico, el ó ella será el/la responsable de validar la\nprescripción, y revisar las instrucciones en relación a los medicamentos."
+  },
+  {
+    "chunk_id": 79,
+    "page_start": 27,
+    "page_end": 27,
+    "text": "En el caso de\nencontrar alguna discrepancia entre las recomendaciones y la prescripción, comunicará\ninmediatamente al médico prescriptor y registrará cualquier observación. Toda\ndiscrepancia no justificada por el médico se considerará un error de conciliación.  El personal de salud deberá tener principal precaución en pacientes polimedicados. 4.4.4  Acciones que involucran al paciente, familia y cuidadores (21)\nEl paciente o persona responsable de sus medicamentos debe conocer y comprender los datos\nsobre su tratamiento:\n Nombre de los medicamentos que debe tomar (principio activo-nombre comercial).  Para qué se los debe tomar.  Qué dosis debe tomar y a qué hora.  Durante cuánto tiempo debe hacerlo.  Cuáles son los efectos secundarios más frecuentes y en qué caso debería c onsultarlos con\nsu médico.  Cuáles son los cambios de sus medicamentos crónicos  que se han derivado del proceso\nasistencial actual y aconsejarle que se deshaga de posibles restos de medicamentos que\nconserve en su domicilio y que ya no deba tomar."
+  },
+  {
+    "chunk_id": 80,
+    "page_start": 27,
+    "page_end": 27,
+    "text": "Recordar que el cumplimiento terapéutico del tratamiento, dependerá en gran parte de la\neducación sanitaria que el paciente reciba sobre su tratamiento, no solo del tratamiento que\nse deriva del proceso asistencial sino también de su tratamiento crónico preexistente. 4.5  Administración correcta de medicamentos\nLa administración  de  medicamentos   por diferentes vías  contribuye  de manera considerable\na mejorar la calidad de vida de los pacientes, sin embargo, su uso no está exento de riesgos, ya\nque si no se cum ple con una administración segura puede ponerse en peligro su vida  y por lo\ntanto la calidad de la atención prestada a los mismos. (17, 18)\nEl objetivo es asegurar la correcta y oportuna administración de medicamentos según las\nnecesidades y condiciones reales del paciente en todos los niveles de la atención en salud."
+  },
+  {
+    "chunk_id": 81,
+    "page_start": 28,
+    "page_end": 28,
+    "text": "28\n4.5.1 “Correctos” en la administración  de medicamentos\nLos correctos no garantizan que los errores  no se produzcan, pero su formulación ayuda a\nmejorar la seguridad y la calidad de la at ención al paciente durante la administración de\nmedicamentos. (17, 18, 19)\n1. Paciente correcto: este “correcto”, es claro y parece ser simple, pero con base en\ncircunstancias o eventos, la  administración de los  medicamentos para el paciente\ncorrecto puede convertirse en una acción delicada. Preguntarle al paciente: “Por favor, dígame su nombre completo” y proceder a\nverificar si corresponde con el nombre identificado en el brazalete de identificación y\nen la historia clínica (verificación cruzada). Una forma  que ayuda a evitar la\nadministración de medicamentos a un paciente errado es evitar que dos pacientes con\nel mismo nombre estén juntos en la misma habitación."
+  },
+  {
+    "chunk_id": 82,
+    "page_start": 28,
+    "page_end": 28,
+    "text": "En situaciones especiales, la identificación cuidadosa del paciente para administrar los\nmedicamentos debe ser redoblada, porque los pacientes con bajo nivel de conciencia,\ncon enfermedades que afectan a las actividades psicomotoras y ancianos, pueden no\nser capaces de identificarse o no tener el brazalete de identificación. Nunca\nadministrar el medi camento hasta tener absoluta seguridad que es la persona\ncorrecta. 2. Medicamento correcto: una de las causas relacionadas con los errores es la similitud\nentre los nombres de los medicamentos. Una barrera de seguridad para minimizar\nerrores es prescribir el medicamento según el nombre genérico, pero aun así puede\nhaber similitud entre la fonética de los nombres, por lo que debe confirmarse el\nnombre del medicamento antes de su administración. Es importante asegurarse que el paciente no es alérgico al medicame nto. Cualquier\nhecho descrito por los pacientes u observados por el equipo  de salud  como por\nejemplo reacciones adversas a medicamentos, se debe documentar en el lugar\napropiado y de fácil visibilidad."
+  },
+  {
+    "chunk_id": 83,
+    "page_start": 28,
+    "page_end": 28,
+    "text": "Se recomienda que los pacientes alérgicos reciban  una\nidentificación diferente, con el fin de alertar a todo el equipo de salud. 3. Vía correcta: cada  medicamento debe administrarse por la vía indicada, cada vía de\nadministración tiene diferentes tiempos de absorción. Debe  asegurarse  que la vía es\nla correcta. Si la vía de administración no está registrada en la prescripción se debe\nconsultar inmediatamente. Si aunque estuviera indicada y el personal de enfermería\nidentifica un error, se debe comunicar el hecho al prescriptor para que realice la\ncorrespondiente aclaración. Por ningún motivo un medicamento debe ser\nadministrado si no se tiene la seguridad de la vía correcta. 4. Forma correcta: muchos medicamentos están disponibles en varias formas\nfarmacéuticas para administrar  por diferentes vías. Antes de que el profesional\nadministre el medicamento debe asegurarse de que sea por la forma correcta, para la\nvía prescrita, en el paciente correcto. 5. Hora correcta: el medicamento debe administrarse en el horario establecido para\ngarantizar los niveles séricos terapéuti cos, caso contrario se puede comprometer el\nmecanismo de acción del medicamento o su eficacia."
+  },
+  {
+    "chunk_id": 84,
+    "page_start": 28,
+    "page_end": 28,
+    "text": "6. Dosis correcta: consiste en administrar exactamente la dosis del medicamento,  para\nello se debe  comprobar dos veces la prescripción, en caso de parecer inapropi ada\nconfirmarla con el prescriptor. La habilidad y competencia en el cálculo de dosis farmacológicamente establecidas,\nson imprescindibles para la administración del mismo en forma segura."
+  },
+  {
+    "chunk_id": 85,
+    "page_start": 29,
+    "page_end": 29,
+    "text": "29\n7. Registro de la administración correcta: el perso nal que administra los medicamentos\ndebe registrar la hora y las letras iniciales del nombre y apellido, en la historia clínica, y\nasí evitaremos duplicar la dosis. 8. Educar al paciente: informar al paciente o familiar el nombre, la acción del\nmedicamento y la razón por la cual está siendo administrado. 9. Acción correcta:  es la justificación del medicamento  para lo que fue prescrito. De\nexistir duda consultar con el prescriptor. 10. Respuesta correcta: una vez que se administre el medicamento , el personal de\nenfermería debe acompañar  al paciente para evaluar si el éste,  tuvo la  respuesta o\nefecto esperado. La inefectividad de la terapia farmacológica, en algunos  casos, puede\ndeterminar la pérdida de la vida del paciente porque si un medicamento de alto riesgo\nfalla, como los anticoa gulantes, los anti arrítmicos y la insulina, existe un riesgo\ninminente de muerte. 4.5.2  Prácticas seguras en el procedimiento de colocación de  inyecciones (20)."
+  },
+  {
+    "chunk_id": 86,
+    "page_start": 29,
+    "page_end": 29,
+    "text": " Las mejores prácticas de control contra infecciones intradérmicas, intravenosas,\nsubcutáneas e intramusculares recomiendan el uso de un dispositivo médico descartable\npara cada procedimiento.  Cumplir con las normas de bioseguridad. (Por ejemplo: mantener asepsia y antisepsia al\npreparar y administrar los medicamentos, manejo de desechos corto punzantes).  Capacitar a los profesionales de la salud, sobre el uso seguro de las jeringas,\nalmacenamiento, descarte y disposición final de los residuos corto punzantes.   Almacenar los medicamentos  en forma adecuada según lo establecido en la normativa\nvigente.  En el caso que se guarde en la refrigeradora debe constar en el registro nombres y\napellidos completos, número de cédula de ciudadanía o de identidad del paciente, fecha y\nhora que se prepara los medicamentos,  la dilución  y el responsable de la dilución.  Verificar fecha de vencimiento del medicamento  antes de su preparación, dilución y/o\nadministración.  Para la dilución de los medicamentos tomar en cuenta la prescripción médica registrada en\nla historia clínica."
+  },
+  {
+    "chunk_id": 87,
+    "page_start": 29,
+    "page_end": 29,
+    "text": "4.6  Administración de antibióticos profilácticos en procedimientos quirúrgicos\nLa administración oportuna de antibióticos profilácticos es ampliamente reconocida como una\nmanera eficaz de reducir infecciones post -operatorias. Sin embargo, los antibióticos se\nadministran  con demasiada anticipación, muy tarde o de manera errática. El uso prolongado o\ninapropiado de antibióticos de amplio espectro puede llevar a los pacientes a un riesgo\nadicional, desarrollando cepas resistentes a los antibióticos. Las infecciones de heridas quirúrgicas si guen  siendo una de las causas más comunes de\ncomplicaciones post -operatorias, aunque la evidencia indica que las medidas preventivas\ncomprobadas se siguen de manera muy inconsistente. (23)\nEl objetivo es disminuir la incidencia de infecciones asociadas a la atención de salud,\nrelacionadas con la herida quirúrgica, resultado de procedimientos quirúrgicos que se realicen\nen los establecimientos de salud, de acuerdo a su tipología y nivel de complejidad. Para lo cual se requiere, aplicar un protocolo para el manejo de antibióticos  profilácticos\nprevio a la ejecución de los procedimientos quirúrgicos que lo requieran."
+  },
+  {
+    "chunk_id": 88,
+    "page_start": 30,
+    "page_end": 30,
+    "text": "30\n4.6.1 Acciones del establecimiento y profesionales de la salud en la administración\nde antibióticos profilácticos.  Los establecimientos de s alud deben contar con un protocolo del manejo de  antibióticos\nprofilácticos, acorde a su historial epidemiológico y  mejor evidencia científica disponible.  La administración de antibióticos debe ser dentro de los 60 minutos para maximizar la\nconcentración tisular. Algunos estudios muestran una eficacia superior si su administración\nse realiza entre 0 y 30 minutos antes de la incisión 57. Si amerita, realizar la prueba cutánea\nde alergia.  Registrar la administración del antibiótico en  la lista de verificac ión de cirugía segura,\ndocumento que será parte de la historia clínica.  Descontinuar la profilaxis antibiótica  24 horas después de realizar el procedimiento\nquirúrgico. En los casos que amerite descontinuar luego de las 48 horas, registrarlo en la\nhistoria clínica.  En el caso de procedimientos quirúrgicos menores se administrará profilaxis antibiótica de\nacuerdo a la mejor evidencia clínica científica disponible."
+  },
+  {
+    "chunk_id": 89,
+    "page_start": 30,
+    "page_end": 30,
+    "text": "4.7  Profilaxis de tromboembolismo venoso\nEl tromboembolismo venoso es el término colectivo  para trombosis venosa profunda y\nembolia pulmonar, es una complicación grave,  las mismas pueden aparecer secundariamente\na una intervención quirúrgica o una enfermedad médica durante el ingreso hospitalario,\ncomplicando la evolución del paciente. (24)\nLa alta prevalencia de tromboembolismo venoso en pacientes ingresados, la clínica silente en\nla mayoría de ellos; y el elevado riesgo de morbi -mortalidad asociados con la no prevención,\nson causas esenciales que justifican su profilaxis. (24)\nLa evidencia muestra que la identificación de pacientes con factores de riesgo y aplicar\nacciones basadas en  la evidencia, reducen o evitan sustancialmente la incidencia de\ntromboembolismo venoso. El objetivo es disminuir la incidencia de tromboembolismo venoso en l os pacientes atendidos\nen los establecimientos de salud ; p ara lo que se requiere aplicar medidas de profilaxis en\npacientes con riesgo  de Tromboembolismo Venoso  en todos los establecimientos de salud. 4.7.1  Medidas profilácticas\nLas medidas profilácticas deberán estar dirigidas a impedir la formación del trombo."
+  },
+  {
+    "chunk_id": 90,
+    "page_start": 30,
+    "page_end": 30,
+    "text": "En general\ndistinguimos dos tipos de profilaxis, la primaria y la secundaria. La primaria se refiere al\nmanejo de todos los pacientes en riesgo mediante métodos físicos y/o farmacológicos. (25)\nLa profilaxis secundaria se refiere a pacientes que se les diagnostica una Tromboembolia\nVenosa subclínica, mediante exámenes especializados, y se realiza tratamiento  en forma\ncompleta. (25)\nMedidas profilácticas primarias, en pacientes con factores de riesgo:\na) Profilaxis de medicamentos dentro de las  48 horas. b) Mitigar el dolor relacionado con el edema tisular y obstrucción del flujo sanguíneo. c) Mantener elevada la zona afecta. (posición Trendelemburg)"
+  },
+  {
+    "chunk_id": 91,
+    "page_start": 31,
+    "page_end": 31,
+    "text": "31\nd) Educar al paciente sobre la  importancia de la  administración de los medicamentos\nprescritos. e) Uso de medias anti-embólicas o vendas elásticas. f) Vigilar signos de  hemorragia. g) Mantener en reposo al paciente con las medidas adecuadas según  su patología. Las medidas profilácticas secundarias son:\na) Administración de medicamentos prescritos por el médico. b) Vigilar  signos de alarma de sangrado. c) Movilización del paciente   tan pronto sea posible luego de la cirugía. d) Uso de botas de compresión secuencial en quirófano y sala de recuperación post\nquirúrgica. e) Uso de medias anti embólicas o vendas elásticas. f) Deambulación  precoz si cursa por el período post operatorio. g) Control de exámenes de laboratorio. h) Al egreso de los pacientes, se planificará  su seguimiento en consulta externa. 4.7.2  Evaluación del riesgo y medidas preventivas (24, 25)\na) Identificar los pacientes con factores de riesgo relacionados con trombosis venosa\nprofunda, tromboembolismo venoso y embolia pulmonar. b) Proporcionar los cuidados de profilaxis  acorde a la mejor evidencia disponible."
+  },
+  {
+    "chunk_id": 92,
+    "page_start": 31,
+    "page_end": 31,
+    "text": "c) El profesio nal médico responsable del cuidado del paciente, verificará si está\ndocumentada la evaluación de riesgo según el protocolo definido por el\nestablecimiento en la historia clínica previa a la intervención quirúrgica. d) Todo paciente sometido a cirugía con fact ores de riesgo de acuerdo a la evaluación\nprevia, el profesional médico responsable del cuidado del paciente confirmará que\nestán indicadas las medidas preventivas de acuerdo al protocolo local. e) El profesional médico responsable del cuidado del paciente ve rificará que se están\nrealizando las medidas preventivas indicadas y si existe constancia de ello en las\nhistoria clínica del paciente. f) Identificar a los pacientes con cirugías ortopédicas mayores y asegurarse de\nproporcionar la adecuada profilaxis post-egreso. 4.7.3   Acciones del establecimiento y equipo de salud (24, 25)\na) Elaborar e implementar un protocolo de tromboprofilaxis en los pacientes con factores\nde riesgo ingresados en el establecimiento de salud. b) El equipo de salud designado autoevaluará y/o evaluará el cumplimiento del protocolo\ndefinido en el establecimiento y establecerá  las acciones de mejora."
+  },
+  {
+    "chunk_id": 93,
+    "page_start": 31,
+    "page_end": 31,
+    "text": "c) Reportar en el formulario de “Notificación de eventos relacionados con la seguridad\ndel paciente” siendo responsabilidad de todos los miembros d el equipo de salud  su\nnotificación. d) El formulario de notificación será remitido a la Unidad de Calidad o instancia que el\nestablecimiento defina según su organización. e) Realizar las acciones de mejora que correspondan en relación con el cumplimiento del\nprotocolo definido por el establecimiento."
+  },
+  {
+    "chunk_id": 94,
+    "page_start": 32,
+    "page_end": 32,
+    "text": "32\n4.7.4   Acciones del  equipo de salud con el paciente, familia y/o cuidadores\na) El profesional de enfermería responsable del cuidado del paciente, educará a la familia\no cuidadores del paciente sobre las medidas p rofilácticas a ejecutarse durante la\nestancia hospitalaria,  al egreso y de requerirse en el domicilio acorde al protocolo\ndefinido por el  establecimiento de salud. b) Los equipos de atención integral en salud del primer nivel de atención, serán los\nresponsables de verificar el cumplimiento de  las medidas profilácticas definidas al\negreso hospitalario y ejecutar las acciones de salud según el plan de atención\ndomiciliaria. c) El paciente, la familia y/o cuidadores serán corresponsables de la ejecución de las\nmedidas profilácticas establecidas para su condición patológica y de su comunicación a\nlos  equipos de salud ante cualquier signo de alarma. d) Los equipos de salud registrarán los signos de alarma informados por los familiares y/o\ncuidadores y realizarán las a cciones correspondientes de manera oportuna según el\nprotocolo establecido para la prevención de tromboembolismo venoso profundo. 4.8   Prevención de úlceras por presión."
+  },
+  {
+    "chunk_id": 95,
+    "page_start": 32,
+    "page_end": 32,
+    "text": "Úlcera por presión (sinónimos: escara por presión, escara de decúbito y úlcera de decúbito), es\nuna lesión de origen isquémico localizada en la piel y en los tejidos subyacentes con pérdida\ncutánea, que se produce por presión prolongada o fricción entre dos planos duros, uno que\npertenece al paciente (prominencia ósea) y otro externo a é l. En su desarrollo se conjugan dos\nmecanismos; la oclusión vascular por la presión externa y el daño endotelial a nivel de la\nmicro- circulación (26, 27). Las Úlceras por Presión afectan al nivel de salud y la calidad de vida de los pacientes; reducen\nsu independencia para el autocuidado y son causa de baja autoestima, repercutiendo\nnegativamente en sus familias y cuidadores, ya que son el origen de sufrimientos por dolor y\nreducción de la esperanza de vida, pudiendo llegar incluso a ser causa de muerte. Un meta\nanálisis describe un aumento de incidencia de úlceras entre 1995 y el 2008 del 80% y se\nproyecta aumento de la población en riesgo para úlceras (obeso, diabetes mellitus, ancianos)."
+  },
+  {
+    "chunk_id": 96,
+    "page_start": 32,
+    "page_end": 32,
+    "text": "Se estima que se gastan 2700 USD y que, previniendo las úlceras, se disminuye entre 12 y 15\nsemanas el gasto de 40 000 USD en tratamiento (28). Las personas exigen una atención directa y diaria de profesionales y cuidadores para evitar la\naparición de úlceras por presión o conseguir su curación. Estas actuaciones terapéuticas elevan\nconsiderablemente las cargas asistenciales y generan un aumento de los costos, tanto directos\ncomo indirectos  (29). La Organización Mundial de la Salud (OMS) las considera como un\nindicador de calidad asistencial (30). La gran mayoría de Úlceras por Presión son prevenibles (95%), según el Grupo Nacional para el\nEstudio y Asesoramiento en Úlceras por Presión y heridas crónicas (31), por lo que es\nimportante disponer de estrategias de prevención basadas en las mejores evidencias\ncientíficas disponibles. Las intervenciones preventivas que han tenido impacto sobre la disminución de úlceras por\npresión son (28):\na) Cambios posturales (planes individuales, movilización programada frecuente)\nb) Uso de superficies de apoyo que alivien la presión (estáticos de baja presión: colchones\nde agua, aire, fibra, espuma)"
+  },
+  {
+    "chunk_id": 97,
+    "page_start": 33,
+    "page_end": 33,
+    "text": "33\nc) Hidratación de la piel en la zona sacra. d) Mejorar el estado nutricional. El objetivo es disminuir la incidencia de úlceras por presión en pacientes que reciben atención\nen los diferentes niveles. Para lo cual se requiere:\na) Identificar riesgos de úlceras por presión mediante la aplicación de las diferentes\nescalas de valoración. b) Aplicar medidas de prevención a pacientes en todos los niveles de atención de salud y\nde atención domiciliaria. 4.8.1    Evaluación del riesgo y  medidas preventivas\na) Evaluar el riesgo de desarrollar una úlcera por presión a cada paciente hospitalizado\nindependientemente del servicio clínico o localización al interior del establecimiento\nde salud. b) En el caso de personas con discapacidad, en cuidados paliativos a largo plazo y otras\ncon riesgo de desarrollar úlceras por presión, se realizará la respectiva valoración del\nriesgo durante la atención domiciliaria."
+  },
+  {
+    "chunk_id": 98,
+    "page_start": 33,
+    "page_end": 33,
+    "text": "c) Aplicar una escala de riesgo validada por los profesionales de enfermería (Braden,\nNorton u otra, dependiendo de la evaluación del riesgo) en todos los pacientes\nhospitalizados principalmente en unidades de cuidados críticos de adultos y\npediátricos,  en todas las especialidades dentro de las 48 horas de su ingreso, c ada vez\nque cambien las condiciones del paciente o  por cambio de servicio y en pacientes que\nrequieran atención domiciliaria. d) Reevaluar con regularidad mediante la escala de riesgo, a los pacientes con riesgo de\ndesarrollar úlceras por presión o si las condiciones clínicas no son favorables. e) Realizar una evaluación del estado nutricional en todos los pacientes con factores de\nriesgo de desarrollar úlceras por presión. f) Identificar los pacientes con riesgo mediano o alto y asegurar el uso en ellos de\nsuperficies de apoyo, cambios posturales, hidratación de piel y énfasis en recuperar un\nadecuado estado nutricional. g) Registrar en la historia clínica y en los registros de enfermería la evaluación del riesgo y\nla indicación de medidas de prevención."
+  },
+  {
+    "chunk_id": 99,
+    "page_start": 33,
+    "page_end": 33,
+    "text": "h) El profesion al médico y de enfermería responsables del cuidado del paciente,\nverificarán en la historia clínica si está documentada la evaluación de riesgo según el\nprotocolo definido por el establecimiento. i) El profesional médico y de enfermería responsables del cuid ado del paciente,\nverificarán que se estén realizando las medidas preventivas indicadas y si existe\nconstancia de ello en las historia clínica del paciente. 4.8.2   Acciones del  establecimiento y equipo de salud\na) Elaborar e implementar un protocolo de p rofilaxis de úlceras por presión\ndocumentado en la mejor evidencia. b) Evaluar el cumplimiento del protocolo de prevención de úlceras por presión\ndesarrollado por el establecimiento de salud  trimestralmente. c) Reportar en el formulario de “Notificación de even tos relacionados con la seguridad\ndel paciente” siendo responsabilidad de todos los miembros del equipo de salud  su\nnotificación."
+  },
+  {
+    "chunk_id": 100,
+    "page_start": 34,
+    "page_end": 34,
+    "text": "34\nd) El formulario de notificación será remitido a la Unidad de Calidad o instancia que el\nestablecimiento defina según su organización. e) Realizar las acciones de mejora que correspondan en relación con el cumplimiento del\nprotocolo definido por el establecimiento. 4.8.3     Acciones del  equipo de salud con el paciente, familia y/o cuidadores. a) El profesional médico y de enfermería responsable del cuidado del paciente, educará a\nla familia o cuidadores del paciente sobre las medidas profilácticas a ejecutarse\ndurante la estancia hospitalaria,  al egreso y de requerirse en el domicilio acorde al\nprotocolo definido por el  establecimiento de salud. b) Los equipos de atención integral en salud del primer nivel de atención, serán los\nresponsables de verificar el cumplimiento de las medidas profilácticas definidas al\negreso hospitalario y ejecutar las acciones de salud según el plan de atenci ón\ndomiciliaria. c) El paciente, la familia y/o cuidadores serán corresponsables de la ejecución de las\nmedidas profilácticas definidas por los equipos de salud en general y de comunicar\ncualquier tipo de alteración en la integridad de la piel."
+  },
+  {
+    "chunk_id": 101,
+    "page_start": 34,
+    "page_end": 34,
+    "text": "d) Los equipos de  salud registrarán cualquier signo de alarma informado por los\nfamiliares y/o cuidadores  y realizarán las acciones correspondientes de manera\noportuna según el protocolo establecido para la prevención de úlceras por presión. CAPITULO  V\n5. Prácticas seguras administrativas / asistencial. 5.1  Notificación de eventos relacionados con la Seguridad del Paciente\nEl  informe del Institute of Medicine (IOM) estableció que la notificación de eventos constituye\nuna estrategia clave para aprender de los error es y evitar su recurrencia  (3). Los sistemas de\nnotificación, la información asociada a estos sistemas compartidos y la resolución de estos\nproblemas, permiten a los establecimientos  de salud por un lado identificar y aprender de las\nexperiencias y por otro, rediseñar sus procesos (32). La notificación de eventos hace referencia a los procesos y la tecnología implicada en la\nestandarización, formato, comunicación, retroalimentación, análisis, aprendizaje, respuesta y\ndifusión del aprendizaje generado por el registro de eventos. Es la acción que se adopta tras el\nregistro, la respuesta constructiva, y no el registro en sí lo que provoca los cambios y aporta\nvalor (33)."
+  },
+  {
+    "chunk_id": 102,
+    "page_start": 34,
+    "page_end": 34,
+    "text": "La Notificación de eventos (cuasi eventos, eventos adversos y eventos centinela) consti tuye\nuna parte de la “cultura de seguridad”, entendidos  como una oportunidad para aprender y\nmejorar más que como fallos que deben ser escondidos (32). Se estima que solo se notifican el 5% de todos los eventos adversos que se producen;\noriginando lo q ue se conoce como Pirámide de Heinrich, es decir que existe una jerarquía en\nlos eventos desde el punto de vista del daño que pueden provocar, llevando a definir el\nmodelo iceberg que establece la razón entre eventos adversos y cuasi eventos (32, 34). En el caso de los eventos adversos comparten en muchas ocasiones el proceso causal con los\ncuasi eventos, con lo que el conocimiento de las causas puede facilitar la implementación de\nestrategias para evitar los eventos. Se explica con un ejemplo : Si un pacie nte con fibrilación"
+  },
+  {
+    "chunk_id": 103,
+    "page_start": 35,
+    "page_end": 35,
+    "text": "35\nauricular tratado con warfarina se levanta por la noche para ir al baño, resbalara y se cayera\nsin sufrir ningún daño perceptible, el evento relacionado con la seguridad del paciente se\nconsideraría un evento sin daños y el tipo de even to se clasificaría como “Cuasi evento”. Si\neste paciente hubiera sido encontrado en la mañana siguiente en el suelo, incapaz de\nlevantarse,  con algún tipo de daño, probablemente se clasificaría el evento relacionado con la\nseguridad del paciente como “eve nto adverso” (6). En conclusión,  el incorporar barreras de\nseguridad que eviten el cuasi evento incidirá consecuentemente en evitar la aparición de un\nevento adverso e incluso centinela. La notificación depende no solo de la conciencia del error sino tam bién de la buena voluntad\npara documentarlo y sobre todo, del clima de la organización y de la confianza que hayan\ntransmitido los líderes de la organización para entender la notificación como una oportunidad\npara mejorar la seguridad y no como un mecanismo para la culpabilización o la punición (32)."
+  },
+  {
+    "chunk_id": 104,
+    "page_start": 35,
+    "page_end": 35,
+    "text": "En sistemas de salud tan complejos, alguno o algunos de los procesos de atención pueden\ntener una o más consecuencias negativas por causas no siempre atribuibles a la práctica\nprofesional de un individuo en pa rticular, sino más bien explicables por la concurrencia de\nerrores de planeación o de ejecución durante el desarrollo de los procesos de atención en\nsalud, impactando negativamente en el paciente y generando, en ocasiones, eventos adversos\n(35). Por tanto,   los errores vienen de los sistemas, no de las personas, y  las estadísticas de\nanálisis de eventos adversos comprueban una y otra vez este planteamiento. Esto nos orienta\na que cualquier análisis de evento adverso debe identificar las fallas existentes en los procesos. 5.1.1  Causalidad y Ocurrencia del Evento Adverso\nLa evidencia científica ha demostrado que cuando un evento adverso ocurre, es la\nconsecuencia final, derivada de una secuencia de procesos defectuosos que han favorecido la\naparición del e vento adverso o no lo han prevenido (7). El psicólogo James Reason propuso en\n1990 el modelo del queso suizo ."
+  },
+  {
+    "chunk_id": 105,
+    "page_start": 35,
+    "page_end": 35,
+    "text": "(13)  En este modelo,  cada sistema tiene distintas barreras\n(lonjas de queso) que separan los riesgos del evento adverso. Sin embargo, cada barrera tiene\nfallos, “agujeros” (riesgos), cuya posición varía aleatoriamente, de modo que el evento ocurre\ncuando se alinean estos agujeros que corresponde a circunstancias concatenadas\ninteractuantes. Estos “agujeros en el queso” pueden ser de dos tipos: fallas activas, que son los cometidos por\npersonas en contacto directo con el sistema, y las fallas latentes, que son problemas\nresidentes en el sistema (generalmente ocultos), propios de su diseño. A esto se pueden sumar\nfactores contributivos que facilitan  que las fallas se produzcan. “Una falla en uno de los\nprocesos puede acentuar las fallas existentes en otros procesos a manera de un efecto\ndominó” (7). Fuente: Reason J. Human error: models and management. BMJ. 2000; 320:769 (13)"
+  },
+  {
+    "chunk_id": 106,
+    "page_start": 36,
+    "page_end": 36,
+    "text": "36\nEn este contexto, el Manual para la Seguridad del Paciente en el Sistema Nacional de Salud,\npermite dar lineamientos generales desde el contexto del aprendizaje y mejora haciendo\nrelevante la identificación, registro, notificación, análisis, detección y reducción  de riesgos,\nacciones de mejora preventivas/correctivas, la recuperación de eventos y la resiliencia del\nsistema, como ciclos que aparecen en todo momento. 5.1.2  Características de los sistemas de notificación de eventos adversos (32, 36). No punitiv o: las personas que notifican están libres del miedo a represalias o castigo como\nresultado de la notificación. Voluntario: las personas que notifican lo hacen por espontánea voluntad y no por obligación o\ndeber, incentivando así a crear una cultura de reporte. Confidencial: la identificación del paciente, del notificador y de la institución no debe ser\nrevelada a personas ajenas al proceso de gestión de la Seguridad del Paciente, a excepción de\nlos autorizados por la Ley.. Independiente: la notificación de eventos y/o eventos adversos es independiente de cualquier\nautoridad con poder para castigar a la organización y/o al notificante."
+  },
+  {
+    "chunk_id": 107,
+    "page_start": 36,
+    "page_end": 36,
+    "text": "Análisis por expertos: los informes de la notificación son evaluados por expertos que conocen\nlas circunstancias clínicas y están entrenados para reconocer las causas del sistema. Análisis a tiempo:  los informes son analizados de manera urgente y las recomendaciones\nrápidamente difundidas a las personas interesadas y pertinentes, especialmente cuando haya\nriesgos graves. Orientación sistémica: las recomendaciones deben centrarse en mejoras hacia el sistema y a\nla/as persona/as que intervinieron en el proceso que causó el evento  adverso. Capacidad de respuesta:  la notificación se realizará para todos los cuasi eventos, ev entos\nadversos y eventos centinelas, independientemente de su tipología y gravedad. La gravedad\ndel evento en su mayoría determinará la dificultad de notificación, siendo en los casos graves\nen los que la orientación no punitiva, la voluntariedad y el anon imato juegan un papel\ndestacado para que el establecimiento o el profesional a comunicar lo haga con mayor\nconfianza. Relación de los procesos  de atención en salud  que pueden causar eventos\nLos eventos a ser reportados responden a  las siguientes categ orías generales de acuerdo a su\ncausa raíz."
+  },
+  {
+    "chunk_id": 108,
+    "page_start": 36,
+    "page_end": 36,
+    "text": "(Adaptación para uso en Ecuador de la  propuesta en la “International Classification\nfor Patient Safety” (6)\n Eventos relacionados con procesos asistenciales clínicos.  Eventos relacionados con procesos asistenciales quirúrgicos.  Eventos relacionados con infecciones asociadas a la atención en salud.  Eventos relacionados con caídas del paciente.  Eventos relacionados con accidentes del paciente.  Eventos relacionados con los medicamentos."
+  },
+  {
+    "chunk_id": 109,
+    "page_start": 37,
+    "page_end": 37,
+    "text": "37\n Eventos relacionados con la dieta - alimentación.  Eventos relacionados con el laboratorio clínico, microbiológico o patológico.  Eventos relacionados con información de la Historia Clínica.  Eventos relacionados con los dispositivos médicos.  Eventos relacionados con Infraestructura/Instalaciones.  Eventos relacionados con la transfusión de hemoderivados.  Eventos relacionados a gestión de los recursos o con la gestión organizacional (talento\nhumano, documentación, políticas, carga de trabajo, disponibilidad de guías etc.)\nLos cuasi eventos, eventos adversos y eventos centinelas serán detectados en:\n Ejecución de procesos de salud de atención.  Ejecución de procesos de salud de apoyo diagnóstico y terapéutico.  Historia clínica.  Perfil o historia farmacoterapéutico/a.  Registro de devolución de medicamentos.  Registro de devolución de dispositivos médicos.  Actividades donde no se utilice la historia clínica.  Atenciones administrativas.  Ejecución de procesos de apoyo (por ejemplo tecnología, talento humano, financiero,\nentre otros).  Quejas y sugerencias dadas por los usuarios.  Auditorías de la calidad de la historia clínica.  Auditorías programadas de la calidad de la atención en salud."
+  },
+  {
+    "chunk_id": 110,
+    "page_start": 37,
+    "page_end": 37,
+    "text": " Captación por inspección directa durante la auditoría concurrente y de calidad, como\nherramienta de evaluación continua. El objetivo es prevenir la ocurrencia y recurrencia de eventos no deseados asociados a la\natención en salud. Para lo cual se requiere:\na) Implementar mecanismos de notificación de información sobre la ocurrencia de cuasi\neventos, eventos adversos y eventos centinelas. b) Fomentar mecanismos de gestión de los eventos notificados (análisis y acciones de\nmejora preventivas/correctivas) mediante la aplicación de herramientas\nmetodológicas  previamente establecidas. 5.1.2.1 Sistema de Notificación del evento\nLos eventos a notificar son de tres tipos:\n cuasi eventos\n eventos adversos\n eventos centinela\nLa notificación de estos eventos, cumplirán dos funciones:\n Disminuir la incidencia de eventos adversos asociados a la atención de salud.  Complementar la mejora continua de la seguridad del paciente."
+  },
+  {
+    "chunk_id": 111,
+    "page_start": 38,
+    "page_end": 38,
+    "text": "38\nPersonas que documentan\nLa identificación de cuasi evento, evento adverso y evento centinela, será realizada por todos\nlos posibles grupos de interés: pacientes/familiares, estudiantes en formación de carreras  del\ncampo de salud, profesionales, trabajadores, servidores de la salud entre otros. Método de notificación\n El evento será comunicado al personal del servicio de turno en forma verbal o escrita\n(formato papel ó electrónico), quien registrará los datos e n el  Formulario Notificación de\nEventos relacionados con la Seguridad del Paciente (Anexo 3) y notificará a el/la líder del\nservicio de turno.  La/el Líder, Coordinador del  servicio o su delegado asignado es el responsable de revisar\nlos formularios los mismos que deben ser legibles, precisos y completos, valida la\ninformación, realiza la gestión del evento  (conforma equipo de mejoramiento de la\ncalidad, aplica metodología,  elabora y ejecuta plan de acción),  y,  notifica al responsable\ndesignado por el establecimiento. Finalmente el responsable del establecimiento es\nresponsable de consolidar toda la información del establecimiento y entregar los\nresultados a las entidades correspondientes."
+  },
+  {
+    "chunk_id": 112,
+    "page_start": 38,
+    "page_end": 38,
+    "text": "5.1.2.2 Sistema de Gestión del evento\nLos eventos susc itados se deben gestionar oportunamente con el Líder, Coordinador de\nservicio o su delegado. En un principio, de ser esto posible y necesario, se puede contactar con quien ha realizado la\nnotificación para obtener más información sobre el evento. El análisis lo realizará el personal\ndesignado por el establecimiento. El tiempo de respuesta es rápido lo que permitirá realizar\nnumerosas alertas de riesgos para evitar  la ocurrencia de un nuevo evento en el servicio  ó\nestablecimiento por la misma causa, especialmente en eventos centinela. Para el efecto se recomienda utilizar alguna de las herramientas metodológicas de análisis\ncausa-raíz como por ejemplo el Protocolo de Londres 9, cuya finalidad es investigar cuáles\nfueron las causas subyacentes al evento para implantar barreras de seguridad; el AMFE\n(Análisis Modal de Fallos y Efectos) como herramienta para evaluar y prevenir de los posibles\nfallos y efectos que puedan presentarse en un proceso, entre otras."
+  },
+  {
+    "chunk_id": 113,
+    "page_start": 38,
+    "page_end": 38,
+    "text": "El personal del servicio que notificó el evento y el personal que formó parte del proceso donde\nocurrió el evento, será capacitado y supervisado hasta que dicho proceso se realice\nadecuadamente. La responsabilidad de esta actividad será del personal designado para el\nefecto, quien notificará las actividades  realizadas al responsable designado del\nestablecimiento, quien a su vez emitirá esta información a la autoridad que corresponda en el\nestablecimiento de salud. Todo evento gestionado, tendrá como resultado un plan de acción\nelaborado, ejecutado, verificado y evaluado. Importante:  La notificación y gestión de los eventos relacionados con la\nseguridad del paciente,  se realizará conforme a lo establecido en el Modelo de\nGestión de Información de los Formular ios del Manua l de Seguridad del\nPaciente para el Sistema Nacional de Salud."
+  },
+  {
+    "chunk_id": 114,
+    "page_start": 39,
+    "page_end": 39,
+    "text": "39\nNota: Las reacciones adversas de medicamentos (RAM) deben ser diferenciadas de los eventos\nadversos evitables. Una reacción adversa a un medicamento, por ejemplo,  en el contexto de la\nseguridad del paciente,  se considera un evento adverso no evitable (no prevenible) siempre\nque el  medicamento o  tecnología se aplique en dosis y forma adecuada, para la patología\nindicada. El análisis de las RAM, entre otros,  será realizado con los lineamientos emitidos por\nla Agencia Nacional de Regulación, Control y Vigilancia Sanitaria “Dr. Leopoldo Izquieta Pérez”. 5.1.3  Difusión y aprendizaje del evento\nEl tipo de información que se transmite es variado, pero puede resumirse en los siguientes\npuntos:\n Elaboración y difusión de informes trimestrales,  semestrales o anuales por el\nestablecimiento notificador. Estos informes pueden desagregarse por tipo de eventos y\ncategorías, en función de los objetivos del sistema de notificación.  Elaboración de alertas que permiten la difusión al máximo número de tr abajadores de\naquellas recomendaciones que por su frecuencia o gravedad tienen especial y mayor\nrelevancia."
+  },
+  {
+    "chunk_id": 115,
+    "page_start": 39,
+    "page_end": 39,
+    "text": "Los esfuerzos que se hacen en educación del personal tienen que verse reflejados en una\ndisminución real de los eventos adversos o en la no repetic ión de los ya producidos y\nanalizados. Para esto se hace necesario que la institución defina claramente las normas y los\nprocesos, y haga su despliegue a cada unidad, servicio o área de trabajo, de tal manera que\nquede claro para todas las personas que los procesos y estándares fueron definidos. 5.1.4  Acciones de mejora generales para el establecimiento, equipo de salud,\npaciente y familia ante la ocurrencia de un evento adverso. El plan de acción debe ser conocido por toda la organización para lo cual el establecimiento de\nsalud realizará, entre otras,  las siguientes actividades:\n Socialización del evento adverso al personal de salud en todos los servicios , guardando la\nconfidencialidad de datos del paciente y del notificador.  Diseño e implementación de nuevas prácticas seguras, en caso de requerirse.  Revisión, socialización de protocolos, procedimientos y/o guías clínicas relacionadas con el\nevento."
+  },
+  {
+    "chunk_id": 116,
+    "page_start": 39,
+    "page_end": 39,
+    "text": " Campañas de sensibilización al equipo de salud y establecimiento en general.  Circulares informativas recordando la adherencia y cumplimiento a  normas,\nprocedimientos,   protocolos y/o guías clínicas.  Acompañamiento al paciente y su familia hasta la resolución del evento adverso.  Acompañamiento al establecimiento, profesional y/o equipo de salud involucrad o, con\nmayor énfasis  si el evento adverso es centinela. En caso de eventos adversos repetitivos donde se encuentra involucrado el factor humano por\nel mismo personal de salud se tomarán las acciones que correspondan  en la evaluación de\ndesempeño institucional. Para aprender de las fallas es necesario trabajar en un ambiente educativo no punitivo pero a\nla vez de responsabilidad y no de ocultamiento."
+  },
+  {
+    "chunk_id": 117,
+    "page_start": 40,
+    "page_end": 40,
+    "text": "40\n5.1.5  Comunicación del evento adverso al paciente y su familia\nUna vez efectuada la revisión del caso con los profesionales y equipo de salud,  se define la\nnecesidad de comunicar el evento adverso al paciente y su familia, para lo cual debemos tener\nen cuenta las siguientes recomendaciones (37):\n1. Establezca con el paciente y/o su familia una comunicación asertiva y efectiva, esta\npráctica le ofrece al paciente seguridad y confianza, cumpliendo con el respeto a los\nderechos de los pacientes. 2. Utilice lenguaje común: recordemos que estamos hablando con pacientes, ellos\nusualmente no entienden términos médicos. 3. Exprese compasión por el sufrimiento ajeno: decir “siento mucho lo que ustedes están\nsintiendo” no es lo mismo que decir “fue mi culpa”. 4. Siempre de una explicación sobre lo que pasó y por qué pasó. Su silencio puede ser\ninterpretado por el paciente y/o su familia como una falta de compasión con su dolor. 5. Recuerde que decir lo siento no significa que usted esté aceptando culpabilidad. 6."
+  },
+  {
+    "chunk_id": 118,
+    "page_start": 40,
+    "page_end": 40,
+    "text": "Diferentes estudios han mostrado que para los pacientes es muy importante\nasegurarse de que el error sucedido con ellos no volverá a pasar, por lo tanto\nconfírmeles que la institución tomará acciones en este sentido. 7. Brinde información sobre las opciones terapéuticas para el tratamiento oportuno y\nefectivo de las consecuencias del evento adverso sucedido. 8. Acompañamiento al paciente y su familia hasta la resolución del evento adverso. Importante: por ningún motivo prometa lo que no puede cumplir ni se comprometa con\ninformación sobre indemnización o conciliación financiera. Permita que esto sea realizado por\nlas autoridades competentes en el marco de sus atribuciones y responsabilidades. 5.2  Prácticas quirúrgicas seguras\nSe estima que cada año se realizan 234 millones de cirugías mayores alrededor del mundo, lo\nque equivale a una cirugía por cada 25 personas. Sin embargo, m ás del 25% de los pacientes\nenfrentan complicaciones después de someterse a una cirugía que requiere hospitalización  y\nla tasa de mortalidad bruta reportada después de una cirugía mayor oscila entre 0.5 y 5%."
+  },
+  {
+    "chunk_id": 119,
+    "page_start": 40,
+    "page_end": 40,
+    "text": "Aun\nasí, por lo menos 50% de las complicaciones quirúrgicas pueden prevenirse. (38)\nEn los servicios quirúrgicos se presentan con frecuencia  eventos adversos que afectan a los\npacientes hospitalizados, estos eventos son prevenibles si se utilizan correctamente las\nherramientas pertinentes de seguri dad del paciente como por ejemplo la Lista de Verificación\nde Cirugía Segura, sugerida por la Organización Mundial de la Salud., modificada para el\nEcuador. (39)\nLa Lista de Verificación de Cirugía Segura es una herramienta utilizada por los profesionales\nclínicos que permite mejorar la seguridad de sus operaciones, reducir el número de\ncomplicaciones y  reducir defunciones quirúrgicas innecesarias. Se ha demostrado que su uso\nse asocia a una reducción significativa de las tasas de complicaciones y muertes  en diversos\nhospitales, entornos y a un mejor cumplimiento de las normas de atención básicas. (39)\nEl objetivo es mejorar la seguridad durante los procesos quirúrgicos  reduciendo el riesgo de\nerror en los pacientes sometidos a estos procedimientos. Para  lo cual se requiere aplicar la\nlista de verificación de cirugía segura según OMS modificada para el Ecuador."
+  },
+  {
+    "chunk_id": 120,
+    "page_start": 41,
+    "page_end": 41,
+    "text": "41\n5.2.1  Acciones de los establecimientos y equipos de salud. El Ministerio de Salud Pública del Ecuador, a partir del año 2013, adoptó como norm ativa para\nrealizar prácticas quirúrgicas seguras el Manual de Normas Internacionales de la OMS (40),\nconsiderando además los siguientes aspectos:\nPrevio al procedimiento quirúrgico se adjuntará y verificará en  la  Historia Clínica  los\nsiguientes formularios:\n Lista de verificación de cirugía segura OMS adaptada (Anexo 4)\n Consentimiento quirúrgico informado.  Consentimiento de anestesia.  Consentimiento de transfusión sanguínea.  Lista de verificación (pre-quirúrgica) para la preparación del paciente quirúrgico. 5.2.2 Momentos de aplicación de la Lista de Verificación de Cirugía Segura. En  los establecimientos de salud que realicen intervenciones quirúrgicas, se aplicará  Lista de\nVerificación de Cirugía Segura (LVCS), de acuerdo a lo establecido por el M inisterio de Salud\nPública del Ecuador."
+  },
+  {
+    "chunk_id": 121,
+    "page_start": 41,
+    "page_end": 41,
+    "text": "En la misma se reflejarán los tres momentos durante la cirugía\nrelacionados con el proceso de aplicación de la lista que incluye:\na) Entrada (antes de la inducción de la anestesia),\nb) Pausa quirúrgica (antes de la incisión cutánea) y,\nc) Salida (antes que el paciente salga del quirófano). a) Entrada: se tendrá en cuenta la verificación de la identidad, sitio quirúrgico,\nprocedimiento y consentimiento verbal y escrito del paciente,  el control formal del\ninstrumental anestésico, medicación y riesgo anestés ico, pulsioxímetro,  capnógrafo,\nestado de la vía aérea, riesgo de aspiración y  riesgo hemorragias. En este momento es\nimportante confirmar la reserva de hemoderivados con el laboratorio. b) Pausa Quirúrgica: se identificará e l equipo quirúrgico, se tendrá presente la previsión\nde eventos  críticos. El equipo de enfermería y/o instrumentistas quirúrgicos,\nrevisarán la esterilidad, el recuento inicial de material  blanco e instrumental\nquirúrgico. En este momento es imprescindi ble confirmar la a dministración de\nprofilaxis antibiótica."
+  },
+  {
+    "chunk_id": 122,
+    "page_start": 41,
+    "page_end": 41,
+    "text": "c) Salida: se verificará el recuento final de material blanco e instrumental quirúrgico, el\nempaquetamiento del paciente, confirmar el procedimiento realizado, clasificación de\nla herida, toma de m uestras (correcto etiquetado y señalar el tipo de examen),\nproblemas relacionados con el instrumental y los equipos. El equipo quirúrgico revisa\nlos aspectos principales de la recuperación del paciente. Si uno de los ítems dentro de los momentos que estab lece la lista de verificación de cirugía\nsegura  es registrado como positivo, debe ser comunicado inmediatamente al líder del equipo\nquirúrgico para la toma de decisiones y posterior registro en la historia clínica. Toda decisión\ndebe garantizar la  seguridad del paciente\nLa persona responsable de la aplicación de la lista de verificación será seleccionada del equipo\nquirúrgico."
+  },
+  {
+    "chunk_id": 123,
+    "page_start": 42,
+    "page_end": 42,
+    "text": "42\nLa lista de verificación de cirugía segura será firmada por la persona responsable de su\naplicación, el cirujano y el anestesiólogo. 5.2.3  Consentimiento Informado\n“Es un proceso de comunicación y deliberación, que forma parte de la relación de un\nprofesional de salud y un paciente capaz, por el cual una persona autónoma, de forma\nvoluntaria, acepta, niega o revoca una i ntervención de salud. En caso de menores de edad o\npersonas incapaces quien otorgue el consentimiento será su representante legal. El\nconsentimiento informado se aplicará en procedimientos diagnósticos, terapéuticos o\npreventivos luego de que el profesiona l de la salud explique al paciente en qué consiste el\nprocedimiento, los riesgos, beneficios, alternativas a la intervención, de existir éstas, y las\nposibles consecuencias derivadas si no se interviene” (41)."
+  },
+  {
+    "chunk_id": 124,
+    "page_start": 42,
+    "page_end": 42,
+    "text": "En el caso de procedimientos de salud de ries go mayor el consentimiento informado debe ser\nexpresado por escrito, por el paciente o su representante legal, en el formulario establecido\ndebidamente firmado que será parte de la historia clínica, conforme a lo establecido en el\n“Modelo de Gestión de la Aplicación del Consentimiento Informado en la Práctica Asistencial”. 5.3  Transferencia correcta de la información de los pacientes en puntos de transición\nLos puntos de transición son lugares y momentos de entrega del cuidado de un paciente, entre\nel personal durante los cambios de turno, entre servicios y áreas que intervienen en el cuidado\ndel paciente dentro o fuera del establecimiento, asegurando una adecuada comunicación\nefectiva en el proceso. Dentro del establecimiento de salud, un paciente pued e ser atendido por diferentes\nprestadores de servicios en múltiples entornos. Los pacientes  suelen moverse entre áreas\nclínicas (p. ej. Diagnóstico, tratamiento, seguimiento). Igualmente,  pueden tener contacto con\nempleados de los tres turnos de trabajo a lo largo de cada día."
+  },
+  {
+    "chunk_id": 125,
+    "page_start": 42,
+    "page_end": 42,
+    "text": "La transferencia de información\ndurante estas transiciones es crítica para la seguridad del paciente. De hecho, las\ninterrupciones en la comunicación son la principal causa raíz de eventos adversos y centinela. La continuidad de la atención de los pacientes es primordial para su seguridad, este proceso se\nestá reconociendo cada vez más, como un aspecto importante en el   restablecimiento de su\nsalud, por lo cual la información que se brinda en el periodo de transferencia reviste si ngular\nimportancia. La transferencia de la información de los pacientes en los establecimientos de salud  se\nproduce cuando:\n Los pacientes necesitan cuidados en otra área del mismo servicio (quirúrgico, post -\nquirúrgico)\n Los pacientes necesitan cuidados en otro servicio del mismo establecimiento.  Los pacientes necesitan los cuidados de un nuevo especialista.  Los pacientes requieren ser trasladados a otra institución. Importante: Todos los establecimientos de salud que realicen cirugías,\nregistrarán esta información según lo establecido en el Modelo de Gestión de\nInformación de los Formularios del Manual de Seguridad del Pacient e para el\nSistema Nacional de Salud."
+  },
+  {
+    "chunk_id": 126,
+    "page_start": 43,
+    "page_end": 43,
+    "text": "43\n Los pacientes son entregados en los turnos.  Los pacientes son entregados por vehículos sanitarios al servicio de emergencia.  Los pacientes necesitan cuidados domiciliarios por personal de atención primaria. La incorporación de técnicas de situación de informes tales como el proceso SBAR (sigla en\ninglés corresponde a Situación, Antecedentes,  Evaluación y Recomendaciones) pueden\nproporcionar un marco estándar para la comunicación en el momento de transferir a un\npaciente. (42)\nEl volver a leer es otra técnica efectiva empleada en los traspasos, en donde el receptor de la\nmisma anota la misma y luego la vuelva a leer al proveedor de la información, para obtener la\nconfirmación que fue entendida correctamente. (43)\nLa participación del paciente y sus familias son la única constante por tanto en el proceso de\natención de salud se está reconocien do cada vez más su intervención para asegurar la\ncontinuidad de la atención, en este sentido el alta hospitalaria es una etapa crucial en la que la\ncomunicación provista a los familiares y paciente se torna vital."
+  },
+  {
+    "chunk_id": 127,
+    "page_start": 43,
+    "page_end": 43,
+    "text": "(43)\nEl objetivo es garantizar la comunic ación efectiva entre los profesionales y personal de salud\nsobre las condiciones, cuidado y manejo del paciente. Para lo cual se requiere:\n Prevenir y reducir los errores de información durante el traslado del paciente por\nindicaciones médicas específicas.  Comunicar e informar al paciente y sus familiares acerca del cuadro clínico, apoyo\ndiagnóstico y terapéutico que presenta.  Establecer el proceso de  traslado de un establecimiento o servicio receptor en\ncondiciones de seguridad. 5.3.1. Acciones que invol ucran la participación de los  profesionales, trabajadores,\npersonal  de salud y administrativo en general.  El establecimiento de salud deberá contar con un protocolo documentado para transferir\ninformación de manera correcta de los pacientes durante los puntos de transición que se\nhayan definido.  El equipo de salud utilizará herramientas y mecanismos en los puntos de transición que\naseguren una entrega de información oportuna y adecuada."
+  },
+  {
+    "chunk_id": 128,
+    "page_start": 43,
+    "page_end": 43,
+    "text": "Para ejecutar un traslado, referencia, contrareferencia y/o derivac ión se aplicará la Norma\nTécnica del Subsistema de referencia, derivación, contrareferencia, referencia inversa y\ntransferencia del Sistema Nacional de Salud(43), teniendo además en cuenta lo siguiente:\n Quién la realiza.  Cuándo se  realiza.  Hacia dónde se realiza.  Cómo se realiza. El tipo de información para transferir  incluye:\n Situación actual del paciente, alergias, cambios recientes en su condición.  Tratamiento en curso o posibles cambios, complicaciones que pudieran ocurrir.  Exámenes que estén pendientes."
+  },
+  {
+    "chunk_id": 129,
+    "page_start": 44,
+    "page_end": 44,
+    "text": "44\n El intercambio de  información se  debe  realizar de forma física, con  la información\ncontenida en el expediente clínico y en los  reportes de enfermería durante cambios de\nturno. Registros de transferencia correcta  de la  información de  los  pacientes en puntos de\ntransición\nAnotar en el registro correspondiente (formato de cambio de turno) lo siguiente:\n Procedimiento realizado.  Cambios de situación de salud significativos.  Estado de salud del paciente que se entrega.  Medicamentos que le están siendo administrados al paciente.  Plan  diagnóstico y terapéutico formulado.  Principales riesgos a los que está expuesto.  Nueva ubicación del paciente, en el caso de haberse efectuado.  Firma, fecha y hora de realización.  Firma de responsabilidad de la persona que  recibe y la que entrega al paciente. 5.3.2  Acciones que involucran la participación del paciente y la familia con el equipo\nde salud.  Promover que los  pacientes y sus familiares pregunten sobre sus problemas de salud, plan\nde tratamiento y cualquier duda que surja derivado del proceso de atención de salud."
+  },
+  {
+    "chunk_id": 130,
+    "page_start": 44,
+    "page_end": 44,
+    "text": " Responder con respeto y cortesía las preguntas generadas por el paciente y su familia.  Informar a los pacientes y su familia  acerca del traslado a otro servicio ó  establecimiento\nde salud, y como será llevado a cabo.  Guiar a los pacientes sobre el cumplimiento de su tratamiento farmacológico, exámenes\nclínicos, dieta, actividad, terapia física, terapia respiratoria entre otros.  Informar continuamente a los pacientes y su familia sobre  la situación actual de salud que\npresentan.  Una vez informado el paciente, familiar, acompañante o representante legal, si alguno de\nellos solicita el alta  voluntaria, el médico es el responsable de informar sobre la  condición\ndel paciente  y los riesgos a  los que se expone al salir del establecimiento de salud , sin\ncumplir con el tratamiento planificado, además el médico será responsable de registrar en\nla historia clínica el deseo voluntario del paciente de abandonar el establecim iento,\nsolicitando del paciente, familiar, acompañante o representante legal consigne su firma en\nla historia clínica."
+  },
+  {
+    "chunk_id": 131,
+    "page_start": 44,
+    "page_end": 44,
+    "text": "5.4  Uso de bombas de infusión\nEntre más tipos de bombas de infusión existan dentro de una organización, existe una mayor\nposibilidad de error grave. Para minimizar el riesgo del personal y los proveedores de servicios\nse recibe una capacitación permanente y efectiva en las bombas de infusión, cubriendo las\nnecesidades clínicas del cliente, la competencia del personal, continuidad del personal,\ntecnología de la b omba de infusión y la ubicación de las bombas (por ejemplo, hospital,\ncomunidad, domicilio). Esta formación es particularmente importante brindarla dado que\nmuchos proveedores de servicio a menudo trabajan en más de una organización de servicios\nde salud, lo que significa que necesitan ser competentes en el uso de los diferentes tipos de\nbombas de infusión. (45)"
+  },
+  {
+    "chunk_id": 132,
+    "page_start": 45,
+    "page_end": 45,
+    "text": "45\nEl objetivo es desarrollar competencias técnicas en el manejo de las bombas de infusión para\nreducir los riesgos en la administración de terapia de infusión intravenosa. Para lo cual se requiere capacitar continuamente al personal  sobre el manejo y\nfuncionamiento de las bombas de infusión en el establecimiento de salud. 5.4.1  Acciones que involucran la participación de los  profesionales, traba jadores,\npersonal de salud y administrativo en general.  El establecimiento de salud debe contar con un protocolo para el manejo de bombas de\ninfusión.  Todo el personal encargado de la administración de medicamentos a pacientes debe ser\ndiestro en  el manejo de las bombas de infusión.  Realizar el respectivo entrenamiento acerca de las bombas de infusión para el  personal\nde nuevo ingreso,  antes y durante el desempeño de sus funciones.  Documentar las capacitaciones realizadas, mediante evaluaciones de c onocimientos y\ndestrezas posteriores al entrenamiento y registrar firmas del entrenado/a  y entrenador/a.  Todos los responsables del cuidado de salud del paciente deben reportar inmediata y\noportunamente daños del equipo en el caso de su identificación."
+  },
+  {
+    "chunk_id": 133,
+    "page_start": 45,
+    "page_end": 45,
+    "text": " Cuando se usan dos o más bombas de infusión en un mismo paciente, se rotula o se usa el\ninstructivo de las bombas de infusión de los medicamentos que se administra.  Los equipos serán etiquetados con la fecha de instalación al paciente.  Cumplir con las recomendaciones técnicas del fabricante de las bombas de infusión.  Conservar las bombas de infusión  en ambientes limpios y seguros.  Desinfectar las bombas de infusión con alcohol isopropílico al 70% de concentración, luego\nde su uso.  Aplicar las medidas de bioseguridad antes, durante y después del uso de estos dispositivos\nmédicos. 5.5   Higiene de manos\nLa higiene de manos es el término genérico referido a cualquier medida adoptada para la\nlimpieza de las manos -fricción con un preparado de base alcohólica o lavado con agua y jabón,\ncon el objetivo de reducir o inhibir el crecimiento de microorganismos en las manos. Constituye en gran medida el núcleo de las Precauciones Estándar y es indiscutiblemente la\nmedida más eficaz para el control de las infecciones."
+  },
+  {
+    "chunk_id": 134,
+    "page_start": 45,
+    "page_end": 45,
+    "text": "(46)\nMás de 1,4 millones de personas en todo el mundo sufren de infecciones adquiridas en el\nhospital. El riesgo de infecciones asociadas a la atención sanitaria en los países en desarrollo es\nde 2 a 20 veces mayor que en países desarrollados (47). La pr evención de Infecciones Asociadas a la Atención de Salud (IAAS), es un elemento clave\npara garantizar la seguridad del paciente. Todo paciente ambulatorio u hospitalizado está en\nriesgo de adquirir una infección relacionada con los cuidados de salud. (49)\nLos programas de prevención y control  tienen como punto fundamental  la higiene de las\nmanos, que a su vez es la medida de prevención de infecciones menos costosa y más efectiva."
+  },
+  {
+    "chunk_id": 135,
+    "page_start": 46,
+    "page_end": 46,
+    "text": "46\nTodo el equipo de salud que se encuentra en contacto directo o indirecto con los pacientes,\ndebe practicar esta medida de prevención de infecciones, para lo cual  tendrá en cuenta los 5\nmomentos según la Organización Mundial de la Salud (Anexo 7) (46):\nEl objetivo es reducir la  incidencia de  Infecciones Asociadas a la Atención de Salud\nrelacionadas con la higiene de manos. Para lo cual se requiere educar al personal de salud, familiar, paciente y a todos aquellos\nrelacionados con su cuidado, en las técnicas apropiadas y momentos de la higiene de manos. 5.5.1  Procedimiento para la higiene de manos\nLa higiene de las manos puede realizarse frotando las manos con un preparado de base\nalcohólica o lavándolas con agua y jabón. Usando la técnica y el producto adecuado, las manos\nquedan libres de contaminación potencialm ente nociva y segura para la atención al paciente."
+  },
+  {
+    "chunk_id": 136,
+    "page_start": 46,
+    "page_end": 46,
+    "text": "Existen dos formas para llevar a cabo la higiene de manos (47):\nFricción de manos con un preparado de base\nalcohólica (Anexo 8 )\nLavado de manos\n                                      (Anexo 9)\nLa forma más efectiva de asegurar una higiene de\nmanos óptima es realizar una fricción de las\nmanos con un preparado de base alcohólica\n(PBA). Según las Directrices de la OMS, cuando\nhaya disponible un PBA éste debe usarse de\nmanera preferente para la antisepsia rutinaria de\nlas manos. La fricción de manos con un PBA\npresenta las siguientes ventajas inmediatas:\n La eliminación de la mayoría de los\ngérmenes (incluyendo los virus);\n El escaso tiempo que precisa (de 20 a 30\nsegundos);\n La disponibilidad del producto  en el\npunto de atención;\n La buena tolerancia de la piel;\n El hecho de que no se necesite ninguna\ninfraestructura particular (red de\nsuministro de agua limpia, lavabo, jabón\no toalla para las manos)."
+  },
+  {
+    "chunk_id": 137,
+    "page_start": 46,
+    "page_end": 46,
+    "text": "Hay que lavarse las manos con agua y jabón\ncuando estén visiblemente sucias o manch adas\nde sangre u otros fluidos corporales, cuando\nexiste una fuerte sospecha o evidencia de\nexposición a organismos potencialmente\nformadores de esporas, o después de usar los\nservicios higiénicos. Los 5 momentos según la Organización Mundial de la Salud\n1. Antes de tocar al paciente. 2. Antes de realizar un procedimiento limpio o aséptico. 3. Después del riesgo de exposición a líquidos corporales. 4. Después de tocar al paciente. 5. Después del contacto con el entorno del paciente."
+  },
+  {
+    "chunk_id": 138,
+    "page_start": 47,
+    "page_end": 47,
+    "text": "47\nAdemás se debe tener en cuenta que el jabón y\nel pre parado de base alcohólica no deben\nutilizarse conjuntamente y que para seguir las\nrecomendaciones sobre la higiene de manos\nrutinaria, lo ideal es que los profesionales\nsanitarios la lleven a cabo dónde y cuándo\nprestan la asistencia, es decir, en el punto  de\natención y en los momentos señalados. A\nmenudo esto requiere utilizar un PBA. *es el sitio donde confluye el paciente, el profesional y\nla atención propiamente dicha. La realización de una higiene de manos eficaz, ya sea por fricción o por lavado depende de una\nserie de factores:\n La calidad del preparado de base alcohólica (su conformidad con los estándares europeos\ny norteamericanos);\n La cantidad de producto que se usa;\n El tiempo que se dedica a la fricción o al lavado;\n La superficie de la mano que se ha frotado o lavado."
+  },
+  {
+    "chunk_id": 139,
+    "page_start": 47,
+    "page_end": 47,
+    "text": "Es importante que se sigan una serie de pasos a la hora de realizar la higiene de las manos para\nque éstas sean seguras para la prestación de asistencia. En el Anexo 6 se describe el\nprocedimiento. 5.5.2   La higiene de las manos y utilización de  guantes para usos médicos (48)\n El uso de guantes no excluye la necesidad de limpiarse las manos.  La higiene de las manos deberá practicarse siempre que sea  apropiado, con\nindependencia de las indicaciones respecto al uso  de guantes.  Quítese los guantes para proceder a la higiene de las manos cuando  lleve guantes\npuestos y se dé la situación apropiada.  Quítese los guantes después de cada actividad y límpiese las manos: los guantes\npueden ser portadores de gérmenes.  Colóquese guantes sólo en los casos indicados en “Precauciones  habituales y en casos\nde aislamiento de contacto”  no hacerlo, podría entrañar un riesgo  importante de\ntransmisión de gérmenes. La pirámide sobre el uso de guantes (Anexo 10)  l e ayudará a  decidir cuándo deberá (o no)\ncolocárselos."
+  },
+  {
+    "chunk_id": 140,
+    "page_start": 47,
+    "page_end": 47,
+    "text": "Deberán usarse guantes siempre que así lo aconsejen las precauciones\nhabituales y en casos de aislamiento de contacto. El esquema contiene varios ejemplos\nclínicos en que no está indicado el uso de  guantes, y otros en que si  está indicado el uso de\nguantes estériles o de manejo. 5.5.3  Acciones del establecimiento de salud, equipos de salud  y personal\nadministrativo\n1. Institucionalizar la higiene de manos como política interna del establecimiento  de\nsalud sujeta a vigilancia y control por la entidad que corresponda."
+  },
+  {
+    "chunk_id": 141,
+    "page_start": 48,
+    "page_end": 48,
+    "text": "48\n2. Dar a conocer la Estrategia Multimodal de la OMS para la Mejora de la Higiene de las\nManos que consiste en (49):\na) Asegurar la disponibilidad de dispositivos médicos e insumos para hig iene de\nmanos en el punto de atención, de preferencia uno por cada dos camas. b) Emitir recordatorios  promocionales de la higiene de las manos en el lugar de\ntrabajo\nc) Ofrecer acceso a una fuente continua de agua corriente en todos los grifos y a\ntodos los servicios para lavarse las manos. d) Elaborar programas educativos regulares respecto a las técnicas más\nadecuadas para la higiene de manos. e) Proveer los recursos necesarios para la disponibilidad de agentes de limpieza,\nde ser posible  debe ubicarse lo más c erca que sea posible del lugar en donde\nse tiene contacto con el paciente."
+  },
+  {
+    "chunk_id": 142,
+    "page_start": 48,
+    "page_end": 48,
+    "text": "5.6  Prevención de caídas\nSegún informe de la OMS (50) en el 2012, las caídas son la segunda causa accidental o no\nintencional en el mundo en la atención en salud, y define el tér mino de caída como, “la\nconsecuencia de cualquier acontecimiento que precipite al individuo al suelo en contra de su\nvoluntad”. Se estima que 37,3 millones de caídas suceden cada año, de ellas 424.000 derivan\nen muerte. Esta situación pone en alerta al si stema de salud por cuanto quienes sufren las\ncaídas requieren atención médica y dependencia a ésta por secuelas asociadas a la\ndiscapacidad. En conclusión, todos los pacientes que se encuentran hospitalizados o que se atienden en un\nestablecimiento de salud, tienen el riesgo de sufrir caídas, las mismas pueden causar eventos\nadversos o centinela, incrementando los costos y/o los días de estadía hospitalaria. “ Mayores\nde 65 años son quienes tienen mayor riesgo de caída y muerte por esta causa”. (50)\nEl objetivo es reducir los riesgos de caídas y sus efectos negativos en la seguridad del paciente\nen establecimientos de salud."
+  },
+  {
+    "chunk_id": 143,
+    "page_start": 48,
+    "page_end": 48,
+    "text": "Para lo cual se requiere:\na) Clasificar pacientes con riesgo de sufrir caídas según  instrumento técnico. b) Estandarizar medidas para reducir  caídas según el riesgo identificado. c) Programar educación para la salud a pacientes y familiares sobre la prevención de\ncaídas. Para reducir el riesgo de caída en un establecimiento de salud, se debe primeramente clasificar\na todos aquellos pacien tes que conforman grupos vulnerables de sufrir caídas, mediante los\ninstrumentos o escalas de valoración. 5.6.1  Evaluación del riesgo en pacientes adultos\nLa Escala de caída de Morse (Anexo 11) . Es una herramienta rápida y simple para evaluar la\nprobabilidad de que un paciente adulto sufra una caída (51). Los puntajes se asignan de acuerdo a las siguientes definiciones:"
+  },
+  {
+    "chunk_id": 144,
+    "page_start": 49,
+    "page_end": 49,
+    "text": "49\n1. Antecedentes de caídas recientes\nSe asignan 25 puntos si el paciente se ha caído durante la presente internación o si\ntiene antecede ntes dentro de los últimos tres meses de caídas fisiológicas a\nconsecuencia de situaciones tales como convulsiones o trastornos de la marcha. Si el\npaciente no se ha caído, se asigna 0 puntos. 2. Comorbilidades\nSe asignan 15 puntos si hay más de un diagnóstic o en la historia clínica. Si no, se\ncalifica 0. 3. Ayuda para deambular\nSe califica con 0 si el paciente camina sin ningún dispositivo de ayuda (aún siendo\nayudado por una enfermera/o), se encuentra en silla de ruedas o está en reposo y no\nse levanta de la ca ma para nada. Si el paciente utiliza muletas, bastón o andador se\nasignan 15 puntos. Si el paciente sólo camina apoyándose en los muebles se asignan\n30 puntos. 4. Venoclisis\nSe asignan 20 puntos si el paciente tiene una vía IV, en caso contrario el puntaje es 0. 5."
+  },
+  {
+    "chunk_id": 145,
+    "page_start": 49,
+    "page_end": 49,
+    "text": "Marcha (equilibrio y/o traslado)\nSe define como marcha normal cuando el paciente camina con la cabeza erguida, los\nbrazos balanceándose libremente a los costados y con pasos seguros. A esta marcha\nno se le asignan puntos (0). Con una marcha débil (punt aje 10) el paciente camina encorvado pero es capaz de\nlevantar la cabeza mientras camina sin perder equilibrio. Los pasos son cortos y puede\narrastrar los pies. Con una marcha alterada (puntaje 20) el paciente puede tener\ndificultades para levantarse de la  silla, pudiendo realizar varios intentos apoyando sus\nbrazos en los  de la silla o \"tomando IMPULSO\" ejemplo. (Realizando varios intentos\npor incorporarse. La cabeza del paciente está baja, mirando al piso. Como tiene muy\npoco equilibrio, el paciente se a garra de los muebles, de una persona de apoyo o de\nbastones/andadores y no puede caminar sin esta asistencia). 6. Conciencia - estado mental\nCuando se utiliza esta escala, el estado mental del paciente es valorado chequeando la\npropia evaluación que hace el p aciente acerca de su capacidad para caminar."
+  },
+  {
+    "chunk_id": 146,
+    "page_start": 49,
+    "page_end": 49,
+    "text": "Se le\npregunta al paciente: \"¿Puede ir al baño sólo o necesita ayuda?\"  Si la respuesta del\npaciente es consistente con sus reales posibilidades se le asigna 0 punto. Si la\nrespuesta del paciente no es realista, se considera que el mismo sobreestima sus\npropias capacidades y no es consciente  de sus limitaciones, asignándose entonces 15\npuntos. 7. Puntuación final y nivel de riesgo\nSe suman los puntajes de los 6 ítems y se documenta en la historia clínica. Se identifica\nasí el nivel de riesgo de caídas y las  acciones recomendadas según el riesgo\n5.6.2  Evaluación del riesgo en pacientes pediátricos\nEn pacientes pediátricos se recomienda el uso de la Escala de valoración de riesgo de caída de\nMACDEMS (52). (Anexo 12), que comprende aspectos relacionados con:\n1. Edad: recién nacido, lactante menor, lactante mayor, pre-escolar y/o escolar. 2. Antecedentes de caída previa. 3. Antecedentes generales como: hiperactividad, problemas neuromusculares, síndrome\nconvulsivo, daño orgánico cerebral, otros, sin antecedentes. 4. Compromiso de conciencia."
+  },
+  {
+    "chunk_id": 147,
+    "page_start": 50,
+    "page_end": 50,
+    "text": "50\nLos resultados de la aplicación de esta  escala se evalúan según el puntaje  obtenido para cada\nriesgo: a mayor puntaje, mayor será el riesgo de sufrir caídas. 5.6.3  Medidas de Seguridad para prevenir caídas\nRelacionadas con el equipo de salud:\n Elaborar e implementar un protocolo para reducir el riesgo de caídas, considerando las\nnecesidades del establecimiento de salud.  Evaluar el riesgo de caídas en pacientes  ingresados (adultos y pe diátricos). Registrar el\npuntaje obtenido en la Historia Clínica.  Identificar al paciente que presenta riesgo de caídas (por ejemplo: colocación de una señal\nde riesgo en el brazalete de identificación).  Detectar riesgos de caída y accidentes e implementar  acciones inmediatas para evitar su\nocurrencia.  Responder inmediatamente al llamado del paciente, familiares o personas asociadas con el\ncuidado de su salud.  Vigilar  y acompañar al paciente según sus necesidades y prioridades\n Informar a los familiares de la conveniencia de comunicar la situación de acompañamiento\no no del paciente en períodos de 24 horas. Por turno."
+  },
+  {
+    "chunk_id": 148,
+    "page_start": 50,
+    "page_end": 50,
+    "text": " Asegurar que el paciente tenga accesible en todo momento el timbre de llamada o un\nteléfono y comprobar su funcionamiento. Por turno.  Promover el uso de calzado cerrado con suela antideslizante. Por turno. Relacionadas con el equipo de salud y mobiliario:\n Verificar frecuentemente que la cama y camillas estén en posición baja, con el freno y\nbarandales puestos, por turno.  Mantener la habitación libre de mobiliario innecesario que pueda producir caídas (cables,\nmaletas). Revisar cada 12 horas.  Recomendar utilizar armarios, para guardar las pertenencias del paciente en el caso de\ndisponerlos.  Verificar que la lámpara de cabecera se encuentre en  b uen funcionamiento y que de\ndisponer una  silla se encuentre cerca del paciente.  Verificar que las camas, camillas y sillas de ruedas presenten los frenos funcionales y\ncinturones de seguridad durante su uso.  Asegurar que los dispositivos de ayuda (si prec isa) estén al alcance del paciente (bastones,\nandador, lentes, audífonos etc.). Revisar cada 12 horas.  Mantener una buena iluminación tanto diurna como nocturna."
+  },
+  {
+    "chunk_id": 149,
+    "page_start": 50,
+    "page_end": 50,
+    "text": " Arreglar y limpiar  la unidad de estancia del paciente cumpliendo con las normas definidas\npor el establecimiento de salud y las que correspondan con la bioseguridad.  En casos de barreras arquitectónicas identificar las mismas con señalética.  Facilitar que el baño esté accesible y con barras de apoyo. Relacionados con el equipo de salud y pacientes pediátricos\n Disponer de  una cama y/o cuna   en posición lo más baja posible, con los frenos puestos, y\nbarandales laterales levantados."
+  },
+  {
+    "chunk_id": 150,
+    "page_start": 51,
+    "page_end": 51,
+    "text": "51\n Evaluar  los espacios de los barandales laterales de la cama o cuna, para evitar que las\nextremidades del niño u otra parte de su cuerpo queden atrapadas.  Comunicar a los cuidadores del paciente pediátrico acerca de la vestimenta y calzado\nadecuados para evitar caídas.  Educar al paciente pediátrico y cuidadores en relación a las medidas de seguridad durante\nsu estancia y además sobre el uso del timbre o luz de llamada en caso de requerirse alguna\nnecesidad.  Asegurar que el entorno  se encuentre libre de equipos fuera de uso y mobiliario en su\nlugar. Relacionadas con el equipo de salud, paciente, familiar y personas en cargadas del cuidado de\nsalud\n Facilitar todo el conocimiento de medidas de seguridad del establecimiento de salud.  Motivar a mantener el orden en el establecimiento de salud.  Educar en la detección de alteraciones del  paciente e informar oportunamente al\nresponsable del turno sobre los hallazgos percibidos."
+  },
+  {
+    "chunk_id": 151,
+    "page_start": 51,
+    "page_end": 51,
+    "text": " Fomentar la comunicación entre  el personal de salud con el paciente y su familia para\ndisminuir las preocupaciones y/o expectativas sobre el estado de salud durante su ingreso\n Informar sobre el proceso de movilización y transporte durante la estancia.  Evitar deambular cuando el piso esté mojado (respetar la señalización).  Explicar  la importancia del uso de barandales al paciente y familiares.  Educar al paciente y su familia en relación a los cuidados de salud durante su estancia. Por\nejemplo: mantener al paciente  incorporado en la cama durante unos minutos antes de\nlevantarlo, para evitar caídas por hipotensión ortostática.  Mantener una comunicación adecuada con el paciente explicándole todo lo refer ente a\ncómo evitar  caídas. 5.7  Educación en Seguridad del Paciente. La educación es un paso estratégico  para abordar la seguridad en los establecimientos\ndedicados al cuidado de la salud. La Alianza Mundial para la Seguridad de los Pacientes de la OM S ha definido las “aptitudes,\ncapacitación y habilidades” cómo una de sus diez prioridades de investigación respecto a la\nseguridad de los pacientes."
+  },
+  {
+    "chunk_id": 152,
+    "page_start": 51,
+    "page_end": 51,
+    "text": "(53)\nBaker and Norton ha identificado tres tipos de inversiones que son necesarias para que las\norganizaciones de cuidado de la salud mejores la seguridad; una de ellas es incrementar el\nconocimiento de las “habilidades para analizar eventos y detectar las vulnerabilidades que\nexisten en los sistemas de cuidado de la salud” entre el personal, tanto a niveles gerenciales\ncomo entre el equipo de salud de primer mando. (53, 54)\nLa  Guía Curricular de Seguridad del Paciente planteado por la OMS (55) es un programa integral\ndestinado a lograr un aprendizaje en seguridad del paciente con resultados efectivos,\nmediante el cual se promueve la incorporación de este temáticas en las carreras de la salud. Australia ha diseñado programas educativos en torno a la seguridad del paciente que resaltan\nentre otros, el trabajo con seguridad como equipo, comunicación eficaz, ide ntificación\nprevención y manejo de eventos adversos y cuasi eventos, uso de evidencia e información y\nconducta ética. (56)"
+  },
+  {
+    "chunk_id": 153,
+    "page_start": 52,
+    "page_end": 52,
+    "text": "52\nEn respuesta al programa integral en seguridad del paciente de la Organización Mundial de la\nSalud,  esta Cartera de Estado  recomienda a todas las Instituciones de Educación Superior en\nCiencias de la Salud, incorporar las prácticas seguras descritas , en los programas curriculares\nde las Carreras en Ciencias de la Salud, con el  propósito de articular esfuerzos conjuntos desde\nel pregrado y posgrado para que se fortalezcan las competencias de todos los profesionales de\nla salud en los establecimientos de salud. Para esta práctica se establece como objetivo principal, fortalecer  las competencias de todos\nlos profesionales, trabajador es, personal de salud y administrativo en general en materia de\nseguridad del paciente. Para lo cual se requiere de los establecimientos de salud:\na) Brindar capacitaciones y educación continua en seguridad de los pacientes a la\ngerencia, dirección, subdirección, personal, proveedores de servicios y  todos aquellos\nrelacionados directa o indirectamente con lo cuidados de la salud dentro del\nestablecimiento. b) Educar al paciente, familia y personas relacionadas con el cuidado de su salud."
+  },
+  {
+    "chunk_id": 154,
+    "page_start": 52,
+    "page_end": 52,
+    "text": "5.7.1  Acciones del establecimiento de salud\n Promover líneas de investigación en temas relacionados con la seguridad del paciente.  Realizar al menos una vez al año una  jornada de capacitación y educación en seguridad del\npaciente dirigido a los profesionales, trabajadores,  administrativos y personal de salud en\ngeneral, incluyendo al paciente y su familia.  Dirigir la capacitación en función de las necesidades del personal  y áreas priorizadas por\nlos líderes del establecimiento  de salud.  El temario de capacitación debe ser  consensuado con las áreas identificadas de mayor\nriesgo en el establecimiento de salud.  Todo temario de capacitación debe incluir la manera como aplicar los conocimientos,\nhabilidades y destrezas adquiridas en función de las prácticas seguras establecidas  en el\npresente Manual.  Enfatizar en las capacitaciones el trabajo en equipo, la comunicación efectiva, notificación\nde eventos: reconocimiento del evento, registro, análisis, plan de acción y difusión."
+  },
+  {
+    "chunk_id": 155,
+    "page_start": 53,
+    "page_end": 53,
+    "text": "53\nAutoridades\nDra. Margarita Guevara, Ministra de Salud Pública. Dra. Verónica Espinosa, Viceministra de Gobernanza y Vigilancia de la Salud. Dr. Laureano Restrepo, Viceministro de Atención Integral en Salud. Dra. Jakeline Calle, Subsecretaria Nacional de Gobernanza de la Salud Pública. Ing. Juan Carlos Almeida, Subsecretario Nacional de Garantía de la Calidad de los Servicios de Salud (E). Dr. Paúl Proaño, Subsecretario Nacional de Provisión de los Servicios de Salud. Dr. Carlos Merino. Director Nacional de Calidad de los Servicios de Salud (E). Dra. Martha Gordón, Directora Nacional de Normatización. Equipo de trabajo\nDra. Amelia Briones, especialista, Dirección Nacional de Calidad de los Servicios de Salud, MSP. Mgs. Wilma Moreno, Subdirectora de enfermería, Hospital Luz Elena Arismendi. Q uito. Dra. María Piedad Badillo, médica, Quito. Dr. Andrés Paredes, médico, Quito. Mgs. Reixer Castillo, especialista, Dirección Nacional de Calidad de los Servicios de Salud, MSP. Mgs. Pilar Álvarez, especialista, Dirección Nacional de Calidad de los Servicios de Salud, MSP. PhD. Raquel Beltrán, médico, Quito. Inst. Qx. Claudia Hoyos, especialista, Dirección Nacional de Calidad de los Servicios de Salud. Ab."
+  },
+  {
+    "chunk_id": 156,
+    "page_start": 53,
+    "page_end": 53,
+    "text": "Nieves Córdova, especialista, Dirección Nacional de Calidad de los Servicios de Salud. Ing. Jasmín Carranza, especialista, Dirección Nacional de Calidad de los Servicios de Salud. Mgs. Jenniffer Florencia, directora médica, Hospital Vicente Corral Moscoso. Cuenca. Equipo de Colaboradores\nBqf. Pedro Fernández, Quito. Dra. Alejandra Cascante, analista, Dirección Nacional de Articulación de la Red Pública.MSP\nDra. Anabel Burbano, especialista, Dirección Nacional de Calidad de los Servicios de Salud. Dra. María Fernanda Campaña, médica, Instituto Ecuatoriano de Seguridad Social. Dra. Verónica Jerez, especialista, Dirección Nacional de Calidad de los Servicios de Salud. Dr. Carlos Hernández, especialista,  Dirección Nacional de Calidad de los Servicios de Salud\nDr. Mario Chávez, especialista, Dirección Nacional de Calidad de los Servicios de Salud. Dr. Roberto Carlos Ponce, médico, Instituto Ecuatoriano de Seguridad Social. Lic. Luisa Zúñiga, analista, Dirección Nacional de Calidad de los Servicios de Salud. Ing. Diego Bonilla, Dirección Nacional de Calidad de los Servicios de Salud. Mgs. Ximena Mosquera, enfermera. Equipo de revisión y validación\nBqf. Karina Barrionuevo, Agencia Nacional de Regulación, Control y Vigilancia Sanitaria “Dr. Leopoldo\nIzquieta Pérez”  (ARCSA)\nBqf."
+  },
+  {
+    "chunk_id": 157,
+    "page_start": 53,
+    "page_end": 53,
+    "text": "Silvia Álvarez, especialista, Dirección Nacional de Medicamentos y Dispositivos Médicos\nBqf. Patricia Rojas, analista,  Dirección Nacional de Medicamentos y Dispositivos Médicos MSP. Dra. Mónica Merino, analista, Dirección de Políticas de Medicamentos y Dispositivos Médicos, MSP\nLic. Ximena Pinto, analista, Dirección de Políticas de Medicamentos y Dispositivos Médicos, MSP\nDra. Diana Molina, analista, Dirección Nacional de Articulación de la Red Pública y Complementaria,\nMSP. Dra. Diana Vaca, médica, Hospital Quito N°1 Policía Nacional, Quito. Dra. Gabriela Valencia, médica, IESS Subdirección de Regulación, Quito. Dra. Glenda Gutiérrez, analista Dirección Nacional de Políticas y Modelamiento del SNS, MSP. Dra. Lilian Chamorro, médica, Hospital Quito N°1 Policía Nacional, Quito. Dra. María Gordillo, médica, Dirección Nacional de Salud, MSP. Dra. Maritza Román, analista, Dirección Nacional de Discapacidades, MSP\nDra. Meri Orna, especialista,  Dirección Nacional de Centros Especializados, MSP. Dra. Patricia Macías, especialista Dirección Nacional de Atención Pre-hospitalaria y Unidades"
+  },
+  {
+    "chunk_id": 158,
+    "page_start": 54,
+    "page_end": 54,
+    "text": "54\nEquipo de revisión y validación\nDra. Rosa Proaño, analista de la Dirección Nacional de Políticas y Modelamiento del SNS, MSP. Dra. Verónica Negrete, médica Hospital Carlos Andrade Marín, Quito. Dra. Ximena Raza, analista, Dirección Nacional de Normatización, MSP. Dr. Diego Cevallos, médico, Hospital Quito N°1 Policía Nacional, Quito. Dr. Fernando Erazo, médico, Hospital Quito N°1 Policía Nacional, Quito. Dr. Gabriel Solórzano, médico, Hospital Santa Inés, Cuenca. Dr. Giovanni Gaón, médico, Hospital José Carrasco Arteaga IESS, Cuenca. Dr. Julio Campuzano, médico, Hospital Vozandes, Quito. Dr. Mario Calderón, médico, Hospital José Carrasco Arteaga, Cuenca. Dr. Oscar de la Torre, médico, Hospital Vozandes, Quito. Dr. Rafael Luje, médico, Hospital San Francisco de Quito. Dr. Rodrigo Aristizabal, médico, Hospital Metropolitano, Quito. Ing. Danilo Rosillo, analista Dirección Nacional de Gestión de Procesos, MSP. Ing. Gabriela Pazmiño, Coordinadora Dirección Nacional de Atención Pre-hospitalaria y Unidades\nMóviles, MSP. Ing. Johana Mozo, analista Gestión Interna de Procesamiento y Análisis de la Información, MSP. Ing. Rubén Ortega, analista Proyecto Reestructuración Integral e Innovación Tecnológica, MSP. Ing. Sandra Acosta, Hospital Metropolitano, Quito. Lic."
+  },
+  {
+    "chunk_id": 159,
+    "page_start": 54,
+    "page_end": 54,
+    "text": "Ana Fajardo, enfermera, Hospital José Carrasco Arteaga, Cuenca. Lic. Ana Villa, enfermera, Hospital Metropolitano, Quito. Lic. Daysi González, enfermera, Hospital Carlos Andrade Marín, Quito. Lic. Jenny Peñafiel, enfermera, Hospital Vozandes, Quito. Lic. Jimena Maigua, enfermera, Hospital San Francisco de Quito. Lic. Margot Urco, enfermera, Hospital Quito N°1 Policía Nacional, Quito. Lic. Ruví Guzmán, analista, Dirección Nacional de Primer Nivel de Atención. Lic. Wilma Alvear, enfermera, Hospital Quito N°1 Policía Nacional, Quito. Mgs. Lourdes Zambrano, Ingeniera Comercial, Clínica Hospital Alcívar, Guayaquil. Mgs. Marcela Bolaños, médica analista de Dirección Nacional de Hospitales, MSP. Mgs. Paula Cisneros, médica, Cuenca. Dra. María Villacreses, Nutricionista, Quito."
+  },
+  {
+    "chunk_id": 160,
+    "page_start": 55,
+    "page_end": 55,
+    "text": "55\nVIII  Referencias\n1. Organización Mundial de la Salud (2002). 55 Asamblea Mundial de la Salud. Resolución WHA55.18. Calidad de la atención: seguridad del paciente. Informe de la Secretaría. Ginebra. Recuperado de\n[Consultado: 01 de abril de 2016]   Disponible en:\nhttp://apps.who.int/gb/archive/pdf_files/WHA55/swha5518.pdf\n2. Ministerio de Salud Pública del Ecuador. Estatuto Orgánico Sustitutivo de Gestión Organizacional por\nProcesos del Ministerio de Salud Pública. Acuerdo Ministerial No. 4520, publi cado en la Edición Especial\ndel Registro Oficial No. 118 de 31 de marzo de 2014. [Consultado: 19 de abril de 2016]. Disponible en:\nhttp://www.salud.gob.ec/wp-content/uploads/downloads/2014/09/ESTATUTO-SUSTITUTIVO-MSP-\nALCANCE-REFORMA-ABRIL17.pdf\n3. Kohn LT, Corrigan JM, Donaldson MS. To Err is Human: Building a Safer Health System [en línea]. Washington (DC). National Academies Press (US), 2000. [Consultado: 01 de abril de 2016]. Disponible\nen: http://www.ncbi.nlm.nih.gov/books/NBK225182/\n4. Aranaz JM. (Dir) , Aibar C. (Colaborador), Vitaller J. (Colaborador), Ruiz P. (Colaborador), Grupo de\nExpertos (2006). Estudio Nacional sobre los Efectos Adversos ligados a la hospitalización (ENEAS). Madrid. Ministerio de Sanidad y Consumo. [Consultado: 01 de abril de 201 6] Disponible en:\nhttp://www.msssi.gob.es/organizacion/sns/planCalidadSNS/pdf/excelencia/opsc_sp2.pdf. 5. Estudio IBEAS."
+  },
+  {
+    "chunk_id": 161,
+    "page_start": 55,
+    "page_end": 55,
+    "text": "Prevalencia de efectos adversos en hospitales de Latinoamérica. Madrid: 2010. Ministerio\nde Sanidad, Política Social e Igualdad. [ Consultado: 23 de abril de 2016] Disponible en:\nhttp://www.seguridaddelpaciente.es/resources/contenidos/castellano/2009/INFORME_IBEAS.pdf\n6. Organización Mundial de la Salud. Marco conceptual de la Clasificación Internacional para la Seguridad\ndel Paciente. Versión 1.1. Informe técnico definitivo. OMS; 2009. [Consultado: 23 de abril de 2016]. Disponible en: http://www.who.int/patientsafety/implementation/icps/icps_full_report_es.pdf. 7. Ministerio de la Protección Social. Lineamientos para la implementación de la Política de Seguridad del\nPaciente. Bogotá D.C., Noviembre de 2008. [Consultado 18 de abril de 2016] Disponible en:\nhttps://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/CA/LINEAMIENTOS_IMPLEMENT\nACION_POLITICA_SEGURIDAD_DEL_PACIENTE.pdf\n8. Luengas S. Seguridad del paciente: conceptos y análisis de eventos adversos. Centro de Gestión\nHospitalaria. Vía Salud Nº 48. 2009. [ Consultado: 23 de abril de 2016] Disponible en:\nhttp://www.cgh.org.co/imagenes/calidad1.pdf\n9. Taylor-Adams S, Vincent C. Syst ems analysis of clinical incidents. The  London Protocol. [en línea]. London: Clinical Safety Research U nit. Imperial College. Department of Surgical Oncology and\nTechnology; 2004. [ Consultado: 1 de abril de 2016 ]. Disponible en\nhttps://www1.imperial.ac.uk/resources/C85B6574-7E28-4BE6-BE61-\nE94C3F6243CE/londonprotocol_e.pdf\n10. Seguro Social de Salud del Perú. ESSALUD Defensoría del Asegurado."
+  },
+  {
+    "chunk_id": 162,
+    "page_start": 55,
+    "page_end": 55,
+    "text": "[en línea]; 2010 [Consultado: 02 de\nfebrero de 2016]. Disponible en:\nhttp://www.essalud.gob.pe/defensoria/guia_protocolo_Laboratorio/protocolo_Londres.pdf"
+  },
+  {
+    "chunk_id": 163,
+    "page_start": 56,
+    "page_end": 56,
+    "text": "56\n11. Dirección de Seguridad del Paciente. Glosario de términos aplicados a Seguridad del Paciente. Subsecretaría de Integración y Desarrollo del Sector Salud. Dirección General de Calidad y Educación en\nSalud. México. [Consultado 18 de enero de 2016] Disponible en:\nhttp://www.calidad.salud.gob.mx/site/calidad/docs/dsp-sp_00F.pdf\n12. Rutten BPF. Hammel S C, Geschwind N y cols: Resilience in mental health: linking psychological and\nneurobiological perspectives.[en línea];  2013. [Consultado: 18 de abril de 2016 ]. Disponible en:\nhttp://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746114/\n13. Reason J. Human error: models and management . BMJ. 2000 [Consultado: 18 de abril de 2016 ]. Disponible en: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117770/\n14. Asegurar la Correcta Identificación del  Paciente en los Pr ocesos Asistenciales. Guía Técnica “Buenas\nPrácticas para la Seguridad del Paciente en la Atención en Salud. Paquetes Instruccionales . Ministerio de\nla Protección Social. Colombia. [Consultado: 18 de febrero de 2016]. Disponible en:\nhttps://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/CA/asegurar-identificacion-\npaciente-procesos-asistenciales.pdf\n15. Centro Colaborador de la Organización Mundial de la Salud. Soluciones para la Seguridad del Paciente. Mayo de 2007. [Consultado: 23 de abril de 2016]. Disponible en:\nhttp://www.jointcommissioninternational.org/assets/3/7/PatientSolutionsSpanish.pdf\n16. Organización Mundial de la Salud. Introducción al programa de mantenimiento de equipos médicos."
+  },
+  {
+    "chunk_id": 164,
+    "page_start": 56,
+    "page_end": 56,
+    "text": "Serie de documentos técnicos de la OMS sobre dispositiv os médicos. [en línea] 2012; [Consultado: 23 de\nabril de 2016]  Disponible en: http://apps.who.int/medicinedocs/documents/s21566es/s21566es.pdf\n17. Intervenciones de Enfermería para la Seguridad en la Administración de Medicamentos de Alto Riesgo en\nel Adulto. Guía de Práctica Clínica. Centro Nacional de Excelencia Tecnológica en Salud Editor. México:\nSecretaría de Salud; 2014. [Consultado: 23 de abril de 2016]. Disponible en:\nhttp://www.cenetec.salud.gob.mx/descargas/gpc/CatalogoMaestro/IMSS-712-14-Enfermeria-\nadmonMedicriesgo/712GER.pdf\n18. Ministerio de Sanidad y Consumo. Prácticas para Mejorar la Seguridad de los Medicamentos de Alto\nRiesgo. Plan de Calidad para el Sistema Nacional de Salud. España. 2007 [Consultado: 23 de abril de\n2016]. Disponible en: http://www.ismp -\nespana.org/ficheros/Practicas%20para%20mejorar%20la%20seguridad%20de%20los%20medicamentos\n%20de%20alto%20riesgo.pdf\n19. How-to Guide: Prevent Harm from High-Alert Medications. Cambridge, MA: Institute for Healthcare\nImprovement; 2012. [Consultado: 23 de abril de 2016]. Disponible en:\nhttp://www.ihi.org/resources/Pages/Tools/HowtoGuidePreventHarmfromHighAlertMedications.aspx\n20. WHO. Guideline on the use of safety-engineered syringes for intramuscular, intradermal and\nsubcutaneous injections in health-care settings. (2015). [Consultado: 23 de abril de 2016]. Disponible en:\nwww.who.int>injection-safety_guideline"
+  },
+  {
+    "chunk_id": 165,
+    "page_start": 57,
+    "page_end": 57,
+    "text": "57\n21. Ayestaran et al. Sociedad Catalana de Farmacia Clínica. Guía para la conciliación de la medicación para\nlos centros sanitarios. 2009. [Consultado: 23 de abril de 2016]. Disponible en:\nhttp://www.sefap.org/media/upload/arxius/formacion/aula_fap_2010/bibliografia/Guia_conciliacion_m\nedica_SCFC.pdf\n22. Tam V, Knowles S, Cornish P, Fine N, Marchesano R, Etchells E. Frequency, type and clinical importance\nof medication history errors at admission to hospital : a systematic review JAMA. 2005. [Consultado: 23\nde abril de 2016]. Disponible en: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1188190/\n23. Accreditation Canada International. Prácticas organizacionales requeridas. Administración de\nantibióticos profilácticos durante una cirugía. 2014. P.[34]\n24. Accreditation Canada International. Prácticas organizacionales requeridas. Profilaxis de\nTromboembolismo Venoso. 2014. P. [32]\n25. Sánchez A. Profilaxis de la enfermedad tromboembólica venosa. Instituto de Cirugía, Facult ad de\nMedicina, Universidad Austral de Chile. 2000. 26. Servicio de Cirugía, Hospital Clínico Regional de Valdivia. 2000. [Consultado: 23 de abril de 2016]. Disponible en: http://mingaonline.uach.cl/pdf/cuadcir/v14n1/art09.pdf\n27. Hahler B., Jáuregui L. Organización Panamericana de la Salud. Úlceras por Presión. Guía de Diagnóstico y\nManejo. 2008. [Consultado: 18 de abril de 2016] Disponible en:\nhttp://www.sld.cu/galerias/pdf/sitios/gericuba/guia30.pdf\n28. Ministerio de Salud de los Estados Unidos Mexicanos."
+  },
+  {
+    "chunk_id": 166,
+    "page_start": 57,
+    "page_end": 57,
+    "text": "Preven ción y tratamiento de úlceras por presión\nen el primer nivel de atención. Guía de referencia Rápida. 2009. [Consultado: 18 de abril de 2016]\nDisponible en:\nhttp://www.cenetec.salud.gob.mx/descargas/gpc/CatalogoMaestro/105_GPC_Ulcpresion1NA/ULCERAD\nECUBITO_1ER_NIVEL_RR_CENETEC.pdf\n29. Sullivan N, Schoelles KM. Preventing in-facility pressure ulcers asa a patient safety st rategy: A systematic\nreview. Annals of Intern al Medicine (2013) 158:5 PART 2 : 410-6. [Consultado: 23 de abril de 2016]. Disponible en: http://www.ncbi.nlm.nih.gov/pubmed/23460098\n30. Soldevilla Agreda J, Torra i Bou JE, Posnett J, et al. The burden of pressure ulcers in Spain. WOUNDS. 2007; 19 (7): 201-206. Used with permission from WOUNDS: A Compendium of Clinical Research and\nPractice. 31. Organización Mundial de la Salud. Informe sobre la Salud en  el Mundo. Forjemos el futuro. Ginebra. 2003. [Consultado: 23 de abril de 2016]. Disponible en:\nhttp://www.who.int/whr/2003/en/whr03_es.pdf?ua=1\n32. García-Fernández, FP; Soldevilla-Ágreda, JJ; Pancorbo-Hidalgo, PL; Verdú Soriano, J; López -Casanova, P;\nRodríguez-Palma, M. Prevención de las úlceras por presión. Serie Documentos Técnicos GNEAUPP nº I. Grupo Nacional para el Estudio y Asesoramiento en úlceras por Presión y Heridas Crónicas. Log roño. 2014. [Consultado: 23 de abril de 2016]."
+  },
+  {
+    "chunk_id": 167,
+    "page_start": 57,
+    "page_end": 57,
+    "text": "Disponible en: http://gneaupp.info/wp-\ncontent/uploads/2014/12/Prevencion-de-las-ulceras-por-presion-segunda-edicion.pdf"
+  },
+  {
+    "chunk_id": 168,
+    "page_start": 58,
+    "page_end": 58,
+    "text": "58\n33. Bañeres J, Orrego C, Suñol R, López L y Cavero E. Sistemas de registro y notificación de incidentes y\nefectos adversos. Ministerio de Sanidad y Consumo. Barcelona. 2014. [Consultado: 23 de abril de 2016]. Disponible en: http://www.msssi.gob.es/organizacion/sns/planCalidadSNS/pdf/excelencia/opsc_sp3.pdf\n34. Sistema de Notificación  de Incidentes y Eventos Adversos. Servicio de Salud del Principado de Asturias. España. 2005. 35. Heinrich HW. Industrial accident prevention: a scientific approach. New York and London: McGraw -Hill;\n1941. 36. Mojica J. Manual de Buenas Prácticas para la Atención y Seguridad del Paciente. Universidad Mi litar\nNueva Granada, Bogotá, Colombia. 2014. 37. Bañeres J, Orrego C, Suñol R y Ureña V. Los sistemas de registro y notificación de efectos adversos y de\nincidentes: una estrategia para aprender de los errores. Fundación Avedis Donabedian. Barcelona. Rev\nCalidad Asistencial. 2005; 20(4):216-22. 38. Manual del Sistema de Reporte y Gestión de Eventos Relacionados con la Atención en Salud. Hospital\nSan Rafael de Tunja. 2015. 39. Organización Mundial de la Salud. Alianza mundial para la seguridad del paciente."
+  },
+  {
+    "chunk_id": 169,
+    "page_start": 58,
+    "page_end": 58,
+    "text": "Segundo r eto mundial\npor la seguridad del paciente: la cirugía segura salva vidas [en línea]; 2008. [Consultado: 23 de abril de\n2016] Disponible en:\nhttp://apps.who.int/iris/bitstream/10665/70084/1/WHO_IER_PSP_2008.07_spa.pdf\n40. Organización Mundial de la Salud. Alianza mundial para la seguridad del paciente. Lista OMS de\nverificación de la seguridad de la cirugía manual de aplicación (1ª edición); 2008. [Consultado: 23 de abril\nde 2016] Disponible en:\nhttp://apps.who.int/iris/bitstream/10665/70083/1/WHO_IER_PSP_2008.05_spa.pdf\n41. Ministerio de Salud Pública del Ecuador. “Lista de Verificación de la Seguridad de la Cirugía”, Manual de\nAplicación de la Lista OMS de Verificación de la Seguridad de la Cirugía 200 9” y “Cirugía Segura Salva\nVidas”. Acuerdo Ministerial No. 00004499. Registro Oficial Suplemento 150 de 24 de diciembre de 2013. 42. Ministerio de Salud Pública del Ecuador. Modelo de Gestión de Aplicación del Consentimiento Informado\nen Práctica Asistencial. Acuerdo Ministerial No. 5316. Registro Oficial Edición Especial 510 de 22 de\nfebrero de 2016. 43. Institute for Healthcare Improvement, “SBAR Technique for Communication: A Situational Briefing\nModel,” Institute for Healthcare Improvement [en línea]; 2006  [Consultado: 23 de abril de 2016]\nhttp://www.ihi.org/IHI/Topics/PatientSafety/SafetyGeneral/Tools/SBARTechniqueforCommunicationASit\nuationalBriefingModel.htm. 44."
+  },
+  {
+    "chunk_id": 170,
+    "page_start": 58,
+    "page_end": 58,
+    "text": "Organización Mundial de la Salud. Comunicación durante el traspaso de pacientes. Soluciones para la\nseguridad del paciente. Volumen 1. Mayo 2007."
+  },
+  {
+    "chunk_id": 171,
+    "page_start": 59,
+    "page_end": 59,
+    "text": "59\n45. Ministerio de Salud Pública. Norma del s ubsistema de referencia, deri vación, contrareferencia,\nreferencia inversa y transferencia del Sistema Nacional de Salud . Acuerdo Ministerial No. 4431. Registro\nOficial Suplemento No. 151 de 26 de diciembre de 2013. 46. Accreditation Canada International. Prácticas organizacionales requeridas. Entrenamiento en Bombas de\nInfusión. 2014. P. [20]. 47. Organización Mundial de la Salud. Manual técnico de referencia para la higiene de las manos [en línea]. 2009. [Consultado: 23 de abril de 2016] Disponible en:\nhttp://apps.who.int/iris/bitstream/10665/102537/1/WHO_IER_PSP_2009.02_spa.pdf\n48. Organización Mundial de la Salud. Higiene de manos: ¿por qué, cómo, cuándo? Seguridad del paciente\n[en línea]; 2012. [Consultado: 23 de abril de 2016]  Disponible en: paciente\nhttp://www.who.int/gpsc/5may/tools/ES_PSP_GPSC1_Higiene-de-las-Manos_BrochureSpanish-2012.pdf\n49. The Joint Comission. Improved Hand Hygiene to Prevent Health Care-Associated Infections. Patient\nSafety Solutions. Volume 1. May 2007\n50. Global Patient Safety Research Priorities. WHO Patient Safety. Updated: 2008. [consultado: 23 de abril de\n2016]; Disponible en: http://\nwww.who.int/patientsafety/research/activities/priority_setting/en/index.html\n51. Organización Mundial de la Salud. Caídas. Nota descriptiva N.° 344, Octubre de 2012. [Consultado: 26 de\nabril de 2016] Disponible en: http://www.who.int/mediacentre/factsheets/fs344/es\n52. Morse JM."
+  },
+  {
+    "chunk_id": 172,
+    "page_start": 59,
+    "page_end": 59,
+    "text": "Preventing Patient Falls. Thousand Oaks, CA: Sage Publications; 1997. 53. Maureira M, Soto S, Matus E, et al. Protocolo prevención de caídas. Chile: Hospital Base de Linares 2010\n[Consultado 10 abril 2016]. Disponible en: http://bit.ly/1gwtC1H\n54. Accreditation Canada International. Prácticas organ izacionales requeridas. Capacitación en seguridad de\nlos pacientes. 2014. P. [22]. 55. Baker GR, Norton PG. Next steps for patient safety in Canadian healthcare. Healthc Pap 2004; 5 (3): 75-\n80. 56. Organización Mundial de la Salud. The multi-professional patient safety curriculum guide. 2012\n57. The Australian Council for Safety and Quality in Health Care The National Patient Safety Framework. Canberra, Australia: Commonwealth of Australia; 2005. 58. Deverick J. Anderson, Kelly Podgorny, Sandra I. Berríos -Torres, Dale  W. Bratzler, E. Patchen Dellinger,\nLinda Greene, Ann-Christine Nyquist, Lisa Saiman, Deborah S. Yokoe, Lisa L. Maragakis and Keith S. Kaye. Strategies to Prevent Surgical Site Infections in Acute Care Hospitals: 2014 Update. Infection Control &\nHospital Epidemiology, 2015, 35, p. [605-627] doi: 10.1086/591064."
+  },
+  {
+    "chunk_id": 173,
+    "page_start": 60,
+    "page_end": 60,
+    "text": "60\n59. Ministerio de Salud Pública del Ecuador. Hospital Vicente Corral Moscoso. Norma Técnica de Seguridad\ndel Paciente. Cuenca 2015.\n60. Dpto. de Calidad y Seguridad de la Atención en Salud. Propuesta de Indicadores Globales Críticos para la\nSeguridad de la Atención en Salud , Chile 2010 [Consultado 12 abril 2016]. Disponible en:\nwww.supersalud.gob.cl/observatorio/575/articles-8928_recurso_2.pdf"
+  },
+  {
+    "chunk_id": 174,
+    "page_start": 61,
+    "page_end": 61,
+    "text": "61\nIX Anexos\nAnexo 1.  Registro de pacientes sin brazalete de identificación.\nTomado de:  Modelo de Gestión de Información de los Formularios del Manual de Seguridad del Paciente para el Sistema\nNacional de Salud. MSP 2016."
+  },
+  {
+    "chunk_id": 175,
+    "page_start": 62,
+    "page_end": 62,
+    "text": "62\nAnexo 2. Abreviaturas aceptadas.\nModificado de: Norma para la aplicación del Sistema de Dispensación/Distribución de Medicamentos por Dosis\nUnitaria en los Hospitales del Sistema Nacional de Salud. MSP 2012."
+  },
+  {
+    "chunk_id": 176,
+    "page_start": 63,
+    "page_end": 63,
+    "text": "63\nAnexo 2. Abreviaturas aceptadas. Reverso\nModificado de: Norma para la aplicación del Sistema de Dispensación/Distribución de Medicamentos por Dosis\nUnitaria en los Hospitales del Sistema Nacional de Salud. MSP 2012"
+  },
+  {
+    "chunk_id": 177,
+    "page_start": 64,
+    "page_end": 64,
+    "text": "64\nAnexo 3. Notificación de eventos relacionados con la seguridad del paciente\n Tomado de: Modelo de Gestión de Información de los Formularios del Manual de Seguridad del Paciente para el Sistema   Nacional\nde Salud. MSP 2016."
+  },
+  {
+    "chunk_id": 178,
+    "page_start": 65,
+    "page_end": 65,
+    "text": "65\nAnexo 3. Notificación de eventos relacionados con la seguridad del paciente. Reverso\nTomado de: Modelo de Gestión de Información de los Formularios del Manual de Seguridad del Paciente para el Sistema Nacional de\nSalud. MSP 2016."
+  },
+  {
+    "chunk_id": 179,
+    "page_start": 66,
+    "page_end": 66,
+    "text": "66\nAnexo 4. Lista de verificación de cirugía segura OMS (modificada)\nTomado de:  Modelo de Gestión de Información de los Formularios del Manua l de Seguridad del Paciente para el Sistema\nNacional de Salud. MSP 2016."
+  },
+  {
+    "chunk_id": 180,
+    "page_start": 67,
+    "page_end": 67,
+    "text": "67\nAnexo 4. Lista de verificación de cirugía segura OMS (modificada). Reverso\nTomado de: Modelo de Gestión de Información de los Formularios del Manual de Seguridad del Paciente para el Sistema Nacional de\nSalud. MSP 2016."
+  },
+  {
+    "chunk_id": 181,
+    "page_start": 68,
+    "page_end": 68,
+    "text": "68\nAnexo 5.  Lista de Medicamentos  LASA\nTomado de: Hospitales acreditados MSP 2015."
+  },
+  {
+    "chunk_id": 182,
+    "page_start": 69,
+    "page_end": 69,
+    "text": "69\nAnexo 5.  Lista de Medicamentos  LASA. Reverso\nTomado de: Hospitales acreditados MSP 2015."
+  },
+  {
+    "chunk_id": 183,
+    "page_start": 70,
+    "page_end": 70,
+    "text": "70\nAnexo 6.  Medicamentos de alto riesgo\n              Tomado de: Hospitales acreditados MSP 2015."
+  },
+  {
+    "chunk_id": 184,
+    "page_start": 71,
+    "page_end": 71,
+    "text": "71\nAnexo 7. Momentos de la higiene de manos\nTomado de: Organización Mundial de la Salud, 2009."
+  },
+  {
+    "chunk_id": 185,
+    "page_start": 72,
+    "page_end": 72,
+    "text": "72\nAnexo. 7 Momentos de la higiene de manos. Reverso\nTomado de: Organización Mundial de la Salud, 2009."
+  },
+  {
+    "chunk_id": 186,
+    "page_start": 73,
+    "page_end": 73,
+    "text": "73\nAnexo 8. Fricción de manos con un preparado de base alcohólica\nTomado de: Hospitales acreditados MSP 2015."
+  },
+  {
+    "chunk_id": 187,
+    "page_start": 74,
+    "page_end": 74,
+    "text": "74\nAnexo 9. Lavado de manos\nTomado de: Organización Mundial de la Salud (2012)"
+  },
+  {
+    "chunk_id": 188,
+    "page_start": 75,
+    "page_end": 75,
+    "text": "75\nAnexo 10. Pirámide sobre el uso de guantes\n                                                 GUANTES ESTÉRILES\n                                               Procedimiento quirúrgicos;\n                                           parto vaginal, procedimientos\n                                                                                                                                              radiológicos  invasivos, acceso vascular\n                                                       y procedimientos vasculares (vías centrales,\n                                                                                                                                         preparación de nutrición  parenteral   total y\n                                                                                                                                       agentes quimioterapéuticos. UTILIZAR GUANTES DE MANEJO\n                               EN SITUACIONES CLINICAS\n                       Posibilidades de tocar sangre, fluidos corporales, secreciones,\n               excreciones u objetos visiblemente manchados de fluidos corporales. EXPOSICIÓN DIRECTA AL PACIENTE: Contacto con sangre, contacto\n                         con membrana mucosa o piel dañada, posible presencia de organismos\n                            muy infecciosos y peligrosos, situaciones de epidemia o de emergencia,\n                 inserción y retirada de dispositivos intravenosos, extracciones de sangre,\n                      interrupción de inserciones venosas, exámenes pélvicos y vaginales, succión de\n  sistemas de tubos endotraqueales no cerrados. EXPOSICIÓN INDIRECTA AL PACIENTE: Evacuación del recipiente para vómitos,\n                       el manejo/limpieza de instrumentos, el manejo de los residuos, la limpieza de instrumentos,\n                       el manejo de los residuos, la limpieza de superficies y objetos sucios con líquidos corporales."
+  },
+  {
+    "chunk_id": 189,
+    "page_start": 75,
+    "page_end": 75,
+    "text": "UTILIZACION DE GUANTES NO INDICADA\n             (excepto precauciones de CONTACTO)\nNo existe riesgo de exposición a sangre o a fluidos corporales, o a un entorno contaminado\n                              EXPOSICIÓN DIRECTA AL PACIENTE: Al tomar la presión arterial, la temperatura y el pulso, aplicar inyecciones\n                               subcutáneas e intramusculares, bañar y vestir al paciente, transportar al paciente, cuidado de ojos y oídos\n                           (si no hay secreciones),  cualquier manipulación del catéter vascular en ausencia de fugas de sangre. EXPOSICIÓN INDIRECTA AL PACIENTE: Al usar el teléfono, anotar datos en la gráfica del paciente, administrar medicamentos\n                                      por  vía oral, distribuir o recoger bandejas de comida, quitar y cambiar la sábana de la cama del paciente, conectar al paciente a aparatos\nde ventilación no invasivos o cánulas de oxigeno, desplazar los muebles de la habitación del paciente. Tomado de: Organización Mundial de la Salud. 2012."
+  },
+  {
+    "chunk_id": 190,
+    "page_start": 76,
+    "page_end": 76,
+    "text": "76\nAnexo 11.  Escala de riesgo de caída de Morse\nTomado de: Hospitales acreditados MSP.2015."
+  },
+  {
+    "chunk_id": 191,
+    "page_start": 77,
+    "page_end": 77,
+    "text": "77\nAnexo 12.  Escala de riesgo de caída de MACDEMS\n     Tomado de: Hospitales acreditados MSP.2015.\n Nombre Área Cargo Sumilla\nAprobado\nDra. Verónica Espinosa Viceministerio de Gobernanza y\nVigilancia de la Salud Viceministra\nDr. Laureano Restrepo Viceministerio de Atención\nIntegral en Salud Viceministro\nRevisión\nTécnica\nDr. Carlos Merino Dirección Nacional de Calidad de\nlos Servicios de Salud\nDirector\nencargado\nDra. Martha Gordón Dirección Nacional de\nNormatización Directora\nElaborado Dra. Amelia Briones Dirección Nacional de Calidad de\nlos Servicios de Salud Especialista"
+  }
+]

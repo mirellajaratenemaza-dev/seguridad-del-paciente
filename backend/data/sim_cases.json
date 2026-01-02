@@ -1,0 +1,242 @@
+[
+  {
+    "id": "id_1",
+    "practice_id": "identificacion_paciente",
+    "level": "basico",
+    "stem": "En hospitalización, va a administrar un medicamento IV. El paciente está somnoliento y responde poco. ¿Qué acción previa es la más segura para confirmar la identidad?",
+    "options": [
+      "Verificar al menos dos identificadores en el brazalete y confrontarlos con la orden/registro clínico antes de administrar",
+      "Preguntar solo el nombre y, si coincide, proceder",
+      "Confirmar la cama/habitación como identificador principal",
+      "Confiar en el familiar presente sin revisar documentos"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "La identificación segura reduce eventos por paciente equivocado. Antes de administrar, se debe confirmar la identidad con identificadores fiables y concordarlos con la orden/registro, especialmente si el paciente no puede responder adecuadamente.",
+    "feedback_incorrect": [
+      "Solo preguntar el nombre es insuficiente si hay confusión, hipoacusia o errores de escucha; se requiere verificación más robusta.",
+      "La cama/habitación no identifica a la persona: los pacientes cambian de cama y puede haber traslados.",
+      "El familiar puede equivocarse; la verificación debe hacerse con identificadores institucionales y el registro."
+    ],
+    "source_hint": "Ver secciones del manual sobre identificación y uso de brazalete/registro."
+  },
+  {
+    "id": "id_2",
+    "practice_id": "identificacion_paciente",
+    "level": "intermedio",
+    "stem": "En admisión, dos pacientes con apellidos similares llegan casi al mismo tiempo. ¿Cuál medida de prevención es más adecuada para evitar confusiones durante la atención?",
+    "options": [
+      "Colocar brazalete con datos completos y aplicar alerta por homonimia (p. ej., etiqueta/aviso) en el sistema y documentación",
+      "Asignarles camas contiguas para vigilar mejor",
+      "Registrar solo el primer apellido para agilizar el flujo",
+      "Esperar a que el médico los vea para confirmar identidad"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Cuando existen nombres/apellidos similares, se debe reforzar la identificación institucional: brazalete con datos completos y alertas para minimizar confusiones en órdenes, muestras y medicamentos.",
+    "feedback_incorrect": [
+      "La cercanía física no previene errores en registros, órdenes o administración.",
+      "Reducir datos aumenta el riesgo de intercambio de identidad.",
+      "La identificación es responsabilidad de todo el equipo y debe hacerse desde el inicio del proceso."
+    ],
+    "source_hint": "Manual: identificación correcta del paciente."
+  },
+  {
+    "id": "id_3",
+    "practice_id": "identificacion_paciente",
+    "level": "avanzado",
+    "stem": "En laboratorio, recibe dos muestras de sangre sin brazalete del paciente presente (solo con etiqueta impresa). ¿Qué decisión es la más segura?",
+    "options": [
+      "Rechazar o retener la muestra y solicitar verificación/rotulado correcto en presencia del paciente antes del procesamiento",
+      "Procesar igual si la etiqueta se ve legible",
+      "Comparar con el listado de camas y asumir correspondencia",
+      "Pedir por teléfono confirmación al servicio y procesar"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "El rotulado y verificación en el punto de toma es una barrera crítica. Si falta verificación fiable, se debe detener el proceso y corregir antes de avanzar para evitar resultados asignados a paciente equivocado.",
+    "feedback_incorrect": [
+      "Legibilidad no asegura concordancia con el paciente correcto.",
+      "Listados por cama/habitación son vulnerables a traslados y errores.",
+      "Confirmación telefónica sin verificación directa mantiene riesgo alto."
+    ],
+    "source_hint": "Manual: identificación y trazabilidad de muestras."
+  },
+  {
+    "id": "hm_1",
+    "practice_id": "higiene_manos",
+    "level": "basico",
+    "stem": "Va a palpar una vía periférica para evaluar permeabilidad. ¿Cuál es la medida inmediata más adecuada antes del contacto?",
+    "options": [
+      "Realizar higiene de manos en el punto de atención (fricción alcohólica si está disponible y manos no visiblemente sucias)",
+      "Colocar guantes directamente sin higiene previa",
+      "Higiene de manos solo al finalizar el procedimiento",
+      "Usar solo gel al inicio del turno para todo el día"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "La higiene de manos debe hacerse en los momentos clave de atención. Antes del contacto con el paciente o un procedimiento, se realiza higiene en el punto de atención; la fricción alcohólica es efectiva cuando las manos no están visiblemente sucias.",
+    "feedback_incorrect": [
+      "Los guantes no sustituyen la higiene de manos; pueden contaminarse al colocarse o durante el cuidado.",
+      "Hacerlo solo al final deja riesgo de transmisión cruzada durante el procedimiento.",
+      "La higiene debe repetirse en cada momento indicado; no basta con una vez al inicio."
+    ],
+    "source_hint": "Manual: higiene de manos y momentos clave."
+  },
+  {
+    "id": "hm_2",
+    "practice_id": "higiene_manos",
+    "level": "intermedio",
+    "stem": "Después de retirar guantes tras aspirar secreciones, ¿qué acción es más coherente con la práctica segura?",
+    "options": [
+      "Realizar higiene de manos inmediatamente después de retirar los guantes",
+      "Considerar que el guante protegió y omitir higiene",
+      "Limpiar manos con toalla seca y continuar",
+      "Aplicar alcohol solo si hay auditoría"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Retirar guantes puede contaminar las manos. La práctica segura exige higiene de manos inmediatamente después de su uso, especialmente tras exposición a fluidos o procedimientos contaminantes.",
+    "feedback_incorrect": [
+      "Los guantes no garantizan ausencia de contaminación; omitir higiene aumenta riesgo de infección.",
+      "La fricción mecánica con toalla no reemplaza un método eficaz de higiene.",
+      "La higiene se basa en seguridad, no en vigilancia."
+    ],
+    "source_hint": "Manual: higiene de manos."
+  },
+  {
+    "id": "hm_3",
+    "practice_id": "higiene_manos",
+    "level": "avanzado",
+    "stem": "En un turno, el dispensador de alcohol está vacío. Entre pacientes, ¿qué estrategia mantiene la seguridad mientras se gestiona el insumo?",
+    "options": [
+      "Usar agua y jabón en los momentos indicados y reportar/reposicionar el insumo para restituir fricción alcohólica en el punto de atención",
+      "Omitir higiene para evitar resequedad",
+      "Usar solo guantes todo el turno",
+      "Limitar el cuidado directo para no necesitar higiene"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Si no hay preparado alcohólico disponible, se debe mantener higiene con agua y jabón según necesidad y activar el circuito de reposición/reporte para asegurar disponibilidad en el punto de atención.",
+    "feedback_incorrect": [
+      "Omitir higiene incrementa riesgo de transmisión cruzada.",
+      "Guantes no sustituyen higiene; además requieren cambio y técnica.",
+      "Reducir cuidado directo no es una medida segura ni ética para el paciente."
+    ],
+    "source_hint": "Manual: disponibilidad en punto de atención."
+  },
+  {
+    "id": "cs_1",
+    "practice_id": "cirugia_segura",
+    "level": "basico",
+    "stem": "En quirófano, antes de la incisión, el equipo se dispone a iniciar. ¿Qué paso es imprescindible para la seguridad?",
+    "options": [
+      "Realizar la 'pausa' para confirmar paciente, procedimiento y sitio, además de aspectos críticos (p. ej., profilaxis cuando aplique)",
+      "Iniciar rápido para reducir tiempo anestésico sin verificar",
+      "Confirmar solo con el cirujano en voz baja",
+      "Omitir verificación si el caso es 'rutinario'"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "La pausa de seguridad es una barrera esencial: verifica identidad, procedimiento y sitio correctos y alinea al equipo antes de la incisión, reduciendo errores evitables.",
+    "feedback_incorrect": [
+      "La prisa aumenta riesgo de errores; la seguridad no se omite por tiempo.",
+      "La verificación debe ser del equipo, clara y compartida, no solo individual.",
+      "Los eventos adversos también ocurren en procedimientos rutinarios; por eso se estandariza."
+    ],
+    "source_hint": "Manual: lista de verificación y pausa quirúrgica."
+  },
+  {
+    "id": "cs_2",
+    "practice_id": "cirugia_segura",
+    "level": "intermedio",
+    "stem": "Durante la salida de quirófano, ¿qué práctica contribuye más a prevenir eventos posteriores y asegurar trazabilidad?",
+    "options": [
+      "Confirmar recuentos, rotulado de muestras, y registrar aspectos clave antes de que el paciente salga del quirófano",
+      "Dejar el recuento para después en central de esterilización",
+      "Enviar muestras sin rotular para ganar tiempo",
+      "Registrar solo si hubo complicaciones"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "La fase de salida consolida controles finales (recuentos, muestras, registro). Esto previene objetos retenidos, errores en laboratorio y pérdidas de información crítica.",
+    "feedback_incorrect": [
+      "Si se posterga, se pierden oportunidades de corregir a tiempo.",
+      "Muestras sin rotular son un riesgo grave de identificación errónea.",
+      "El registro debe ser sistemático; no depende de complicaciones evidentes."
+    ],
+    "source_hint": "Manual: fase de salida."
+  },
+  {
+    "id": "cs_3",
+    "practice_id": "cirugia_segura",
+    "level": "avanzado",
+    "stem": "Se detecta duda sobre el lado (derecho/izquierdo) del procedimiento en el ingreso a quirófano. ¿Qué respuesta es más segura?",
+    "options": [
+      "Detener el proceso, verificar con documentación/consentimiento y marcaje del sitio; reiniciar verificación con el equipo",
+      "Continuar y aclarar durante la cirugía",
+      "Preguntar solo al anestesiólogo y seguir",
+      "Asumir que el lado es el indicado por agenda"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Ante cualquier duda, se detiene y se re-verifica. El marcaje del sitio y la confirmación documental son barreras para prevenir cirugía en sitio equivocado.",
+    "feedback_incorrect": [
+      "Aclarar después puede ser demasiado tarde si ya se inició el procedimiento.",
+      "La verificación requiere concordancia documental y del equipo, no un único actor.",
+      "Agendas pueden contener errores; no son fuente suficiente."
+    ],
+    "source_hint": "Manual: verificación de sitio/procedimiento."
+  },
+  {
+    "id": "ne_1",
+    "practice_id": "notificacion_eventos",
+    "level": "basico",
+    "stem": "Se detecta que se iba a administrar un medicamento al paciente equivocado, pero se corrige antes de aplicarlo. ¿Cómo se clasifica y qué se debe hacer?",
+    "options": [
+      "Cuasi evento; notificar para análisis y mejora del sistema",
+      "Evento adverso; ocultarlo para evitar sanciones",
+      "Evento centinela; solo informar si hubo daño",
+      "No es nada; si no pasó, no se registra"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Cuando el incidente se detecta y se evita antes de llegar al paciente, se considera cuasi evento. Notificarlo permite aprender y fortalecer barreras de seguridad sin enfoque punitivo.",
+    "feedback_incorrect": [
+      "Ocultar impide aprendizaje organizacional y va contra una cultura de seguridad.",
+      "Centinela se asocia a alta gravedad; además no depende solo de ‘si hubo daño’ para aprender.",
+      "Los cuasi eventos son valiosos para prevenir daños futuros; sí deben reportarse."
+    ],
+    "source_hint": "Manual: definiciones de eventos y sistema de notificación."
+  },
+  {
+    "id": "ne_2",
+    "practice_id": "notificacion_eventos",
+    "level": "intermedio",
+    "stem": "Tras un evento adverso sin daño permanente, el líder solicita 'buscar culpables'. ¿Qué enfoque es más coherente con un sistema de notificación efectivo?",
+    "options": [
+      "Enfoque no punitivo y análisis orientado al sistema para identificar fallas y barreras",
+      "Publicar el nombre del responsable para que sirva de ejemplo",
+      "Reducir reportes para evitar auditorías",
+      "Solo reportar eventos graves"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Un sistema de notificación efectivo se apoya en cultura justa: no punitiva, confidencial y orientada al aprendizaje. El objetivo es identificar factores contribuyentes y mejorar procesos.",
+    "feedback_incorrect": [
+      "La exposición del personal reduce reportes y empeora la seguridad.",
+      "Reducir reportes elimina información crítica para prevenir repetición.",
+      "Reportar solo lo grave pierde oportunidades de prevención temprana."
+    ],
+    "source_hint": "Manual: principios de notificación (no punitivo, confidencial, etc.)."
+  },
+  {
+    "id": "ne_3",
+    "practice_id": "notificacion_eventos",
+    "level": "avanzado",
+    "stem": "Un paciente cae sin lesión aparente. ¿Qué elementos mínimos deben quedar claros en el reporte para facilitar análisis?",
+    "options": [
+      "Qué ocurrió, cuándo/dónde, condiciones del paciente y entorno, medidas inmediatas, y factores contributivos para plan de mejora",
+      "Solo 'se cayó' para no complicar",
+      "Culpar al paciente por no avisar",
+      "Evitar registrar para no 'empeorar indicadores'"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "El reporte debe permitir reconstruir el evento y sus condiciones para identificar causas del sistema y acciones preventivas. Registrar medidas inmediatas y factores contribuyentes facilita planes de mejora.",
+    "feedback_incorrect": [
+      "Reportes vagos impiden análisis útil.",
+      "Culpar no identifica fallas del entorno/proceso ni fortalece barreras.",
+      "Ocultar datos afecta seguridad y aprendizaje institucional."
+    ],
+    "source_hint": "Manual: flujo y calidad del reporte."
+  }
+]
